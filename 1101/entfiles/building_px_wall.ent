@@ -1,0 +1,55 @@
+//building_PX_WALLS.ent
+ModName
+DARKCONS
+
+SlopeModifier
+3	//slope värde
+6	//slope size i x
+8	//höjd i collision objekt
+42	//slope size i z
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+PHOENIX
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+6
+
+//name of entity (formal name, for editor, etc)
+Name
+66
+
+//main model animation
+Model
+BUILDING_PX_WALL
+
+//other stuff
+Radius
+7.5
+Height
+8.0
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+8000
+
+
+

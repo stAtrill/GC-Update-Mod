@@ -1,0 +1,1000 @@
+//L:\Ground Control\data\multiplayer\missions\Sz5\Sz5.prp
+//Ground Control Prop File
+//GenEd Version 3.511
+
+	PROP
+		//type (mdl file)
+		cranium_L1
+		//collision type
+		None
+		//position (x,y,z)
+		3242.043945
+		21.612686
+		3294.026855
+		//rotation
+		0.890117
+
+	PROP
+		//type (mdl file)
+		cranium_L1
+		//collision type
+		None
+		//position (x,y,z)
+		3039.106934
+		70.871452
+		3409.990967
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cranium_L1
+		//collision type
+		None
+		//position (x,y,z)
+		2977.903809
+		60.000000
+		3142.629150
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cranium_L1
+		//collision type
+		None
+		//position (x,y,z)
+		3448.202637
+		120.380585
+		3358.451416
+		//rotation
+		4.694932
+
+	PROP
+		//type (mdl file)
+		cranium_L1
+		//collision type
+		None
+		//position (x,y,z)
+		2818.989990
+		110.000000
+		3186.652832
+		//rotation
+		4.188787
+
+	PROP
+		//type (mdl file)
+		bones
+		//collision type
+		None
+		//position (x,y,z)
+		3286.070068
+		55.000000
+		3391.739990
+		//rotation
+		0.942477
+
+	PROP
+		//type (mdl file)
+		bones
+		//collision type
+		None
+		//position (x,y,z)
+		3134.989990
+		5.413610
+		3217.419922
+		//rotation
+		2.530725
+
+	PROP
+		//type (mdl file)
+		cranium_L1
+		//collision type
+		None
+		//position (x,y,z)
+		3348.550049
+		129.000000
+		3507.173828
+		//rotation
+		0.209439
+
+	PROP
+		//type (mdl file)
+		cranium_L1
+		//collision type
+		None
+		//position (x,y,z)
+		3115.634766
+		88.453293
+		2965.031494
+		//rotation
+		0.122173
+
+	PROP
+		//type (mdl file)
+		cranium_L1
+		//collision type
+		None
+		//position (x,y,z)
+		2948.131104
+		99.785980
+		3034.824707
+		//rotation
+		4.380773
+
+	PROP
+		//type (mdl file)
+		cranium_L1
+		//collision type
+		None
+		//position (x,y,z)
+		3021.848389
+		71.000000
+		3426.182861
+		//rotation
+		0.575958
+
+	PROP
+		//type (mdl file)
+		cranium_L1
+		//collision type
+		None
+		//position (x,y,z)
+		3178.985596
+		97.235588
+		3534.114746
+		//rotation
+		0.558505
+
+	PROP
+		//type (mdl file)
+		bones
+		//collision type
+		None
+		//position (x,y,z)
+		3070.760010
+		12.825600
+		3196.959961
+		//rotation
+		4.049160
+
+	PROP
+		//type (mdl file)
+		bones
+		//collision type
+		None
+		//position (x,y,z)
+		3291.949951
+		28.424000
+		3248.500000
+		//rotation
+		6.161007
+
+	PROP
+		//type (mdl file)
+		bones
+		//collision type
+		None
+		//position (x,y,z)
+		3471.479980
+		120.000000
+		3403.370117
+		//rotation
+		5.567596
+
+	PROP
+		//type (mdl file)
+		bones
+		//collision type
+		None
+		//position (x,y,z)
+		3070.760010
+		76.024002
+		3536.260010
+		//rotation
+		0.296706
+
+	PROP
+		//type (mdl file)
+		bones
+		//collision type
+		None
+		//position (x,y,z)
+		3314.500000
+		76.404800
+		3007.979980
+		//rotation
+		3.822268
+
+	PROP
+		//type (mdl file)
+		bones
+		//collision type
+		None
+		//position (x,y,z)
+		3488.449951
+		98.849998
+		3133.610107
+		//rotation
+		4.555306
+
+	PROP
+		//type (mdl file)
+		bones
+		//collision type
+		None
+		//position (x,y,z)
+		2918.719971
+		58.744099
+		3277.889893
+		//rotation
+		4.729838
+
+	PROP
+		//type (mdl file)
+		bones
+		//collision type
+		None
+		//position (x,y,z)
+		3108.340088
+		42.892799
+		3065.959961
+		//rotation
+		0.453785
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3912.500000
+		255.000000
+		3500.000000
+		//rotation
+		4.729838
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3825.000000
+		255.000000
+		3650.000000
+		//rotation
+		3.577922
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		4025.000000
+		255.000000
+		3687.500000
+		//rotation
+		1.012290
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		4175.000000
+		255.000000
+		3843.750000
+		//rotation
+		4.171334
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		4106.250000
+		255.000000
+		4075.000000
+		//rotation
+		1.692968
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3581.250000
+		255.000000
+		4100.000000
+		//rotation
+		2.129300
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3381.250000
+		255.000000
+		3943.750000
+		//rotation
+		3.001964
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3356.250000
+		255.000000
+		4168.750000
+		//rotation
+		4.118974
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3631.250000
+		253.500000
+		4231.250000
+		//rotation
+		4.974185
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3931.250000
+		255.000000
+		4206.250000
+		//rotation
+		4.049160
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		4200.000000
+		255.000000
+		4350.000000
+		//rotation
+		0.523598
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3875.000000
+		247.000000
+		4462.500000
+		//rotation
+		4.799652
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3231.250000
+		255.000000
+		4412.500000
+		//rotation
+		0.418879
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3193.750000
+		253.999985
+		4150.000000
+		//rotation
+		3.595376
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		4143.750000
+		251.500000
+		3306.250000
+		//rotation
+		1.151916
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3800.000000
+		252.999954
+		3262.500000
+		//rotation
+		3.403389
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3943.750000
+		255.000000
+		3031.250000
+		//rotation
+		5.113811
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		4193.750000
+		254.500000
+		3043.750000
+		//rotation
+		3.979347
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3787.500000
+		255.000000
+		2750.000000
+		//rotation
+		3.263763
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		4031.250000
+		255.000000
+		2562.500000
+		//rotation
+		1.850048
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		4143.750000
+		255.000000
+		2750.000000
+		//rotation
+		2.687805
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		4331.250000
+		231.999985
+		2450.000000
+		//rotation
+		4.974185
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		4300.000000
+		234.999969
+		2175.000000
+		//rotation
+		3.176497
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		4100.000000
+		244.000015
+		2200.000000
+		//rotation
+		2.687805
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3756.250000
+		253.000000
+		2131.250000
+		//rotation
+		3.560469
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		4068.750000
+		240.500000
+		1912.500000
+		//rotation
+		4.031707
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3475.000000
+		242.000015
+		1900.000000
+		//rotation
+		5.253437
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3518.750000
+		245.000000
+		2225.000000
+		//rotation
+		3.630282
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3293.750000
+		234.000000
+		2050.000000
+		//rotation
+		1.466075
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3487.500000
+		244.000000
+		2462.500000
+		//rotation
+		2.565632
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3306.250000
+		235.500015
+		2518.750000
+		//rotation
+		3.752455
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3312.500000
+		255.000000
+		2312.500000
+		//rotation
+		0.366519
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2856.250000
+		240.499985
+		2518.750000
+		//rotation
+		2.234020
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2975.000000
+		230.500000
+		2218.750000
+		//rotation
+		3.612829
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2675.000000
+		245.000015
+		2218.750000
+		//rotation
+		5.899208
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2862.500000
+		230.000000
+		2018.750000
+		//rotation
+		1.448622
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2512.500000
+		239.000015
+		2187.500000
+		//rotation
+		0.453785
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2368.750000
+		228.000000
+		2018.750000
+		//rotation
+		2.059487
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2150.000000
+		255.000000
+		1900.000000
+		//rotation
+		5.654862
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2118.750000
+		244.000015
+		2168.750000
+		//rotation
+		4.345866
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2231.250000
+		255.000000
+		2475.000000
+		//rotation
+		5.532690
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2156.250000
+		231.500015
+		2312.500000
+		//rotation
+		0.593412
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		1918.750000
+		240.500000
+		2375.000000
+		//rotation
+		0.767944
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2437.500000
+		238.500015
+		2718.750000
+		//rotation
+		0.959930
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2350.000000
+		255.000000
+		2925.000000
+		//rotation
+		0.366519
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		1918.750000
+		240.500000
+		2968.750000
+		//rotation
+		0.087266
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2487.500000
+		243.999985
+		3350.000000
+		//rotation
+		5.619956
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2112.500000
+		241.000000
+		3325.000000
+		//rotation
+		1.483529
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2212.500000
+		241.000000
+		3131.250000
+		//rotation
+		5.934115
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2543.750000
+		254.500000
+		3643.750000
+		//rotation
+		5.131264
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2256.250000
+		251.499985
+		3900.000000
+		//rotation
+		5.096357
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		1918.750000
+		246.000000
+		3931.250000
+		//rotation
+		1.117010
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		1981.250000
+		243.000000
+		3625.000000
+		//rotation
+		1.588248
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2225.000000
+		230.000000
+		3612.500000
+		//rotation
+		1.431169
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		1850.000000
+		242.000000
+		4350.000000
+		//rotation
+		6.056288
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2125.000000
+		251.000000
+		4481.250000
+		//rotation
+		2.181660
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2181.250000
+		255.000000
+		4175.000000
+		//rotation
+		2.059487
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2575.000000
+		244.000000
+		4418.750000
+		//rotation
+		3.926988
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2856.250000
+		255.000000
+		4268.750000
+		//rotation
+		2.897244
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2912.500000
+		230.000000
+		3981.250000
+		//rotation
+		2.373646
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3168.750000
+		211.499939
+		3800.000000
+		//rotation
+		5.916662
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		3281.250000
+		245.000000
+		4012.500000
+		//rotation
+		4.363320
+
+	PROP
+		//type (mdl file)
+		Dtree_gray
+		//collision type
+		None
+		//position (x,y,z)
+		2918.750000
+		252.000000
+		4500.000000
+		//rotation
+		3.298670
+

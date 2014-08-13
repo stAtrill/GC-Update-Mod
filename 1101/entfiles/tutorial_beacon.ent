@@ -1,0 +1,49 @@
+//Tutorial_beacon.ent
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//No Marker above entity
+NoTeamMarker
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+150
+
+//main model animation
+Model
+Tutorial_Beacon
+
+//other stuff
+Radius
+1
+Height
+0
+PivotHeight
+37
+ProjectileProtection
+800
+EnergyProtection
+800
+Power
+8000
+

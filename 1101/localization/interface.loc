@@ -1,0 +1,230 @@
+0	Help text goes here.
+1	Return to previous window.
+2	List available servers (only available in Internet Skirmish mode).
+3	List available Maps.
+4	Show currently selected map.
+5	Player ready.
+6	Name of the player.
+7	Player force.
+8	Player color.
+9	Player Team.
+10	Start Game. 
+11	CONFIGURE DROPSHIPS
+
+
+On this screen you can decide what squads you want in each dropship. Early missions allow you to put squads in only one dropship. Later missions allow you to add squads to all three dropships and may provide more squad choices than you can fit in all three dropships.  Some squads may be left behind and you'll have to choose which ones you take into battle.
+
+
+The list on the left of the screen contains slots for any unassigned squads. The three areas on the right of the screen contain slots for each of the three dropships.
+
+
+To move a squad from its current location, LEFT-CLICK on a Squad Tab. This will pick up the Squad Tab. To place the Squad in a Dropship or in the unused list, just LEFT-CLICK on an empty squad space in either area.  If you put it in a squad space that is occupied, you will switch Squad Tabs and automatically pick up the one that previously occupied the slot.
+
+
+To configure the details of the squads that are currently assigned to the dropships, enter the CONFIGURE SQUADS screen by clicking on the Configure Squads button in the bottom of the screen.
+
+
+For additional help, please consult the manual.
+12	CONFIGURE SQUADS
+
+
+On this screen you can configure the details for each Squad that you plan to bring with you to the battlefield.
+
+
+The left area of the screen shows you the Squads that are currently assigned to the Dropship(s). The larger right part of the screen displays the details of the currently selected (or highlighted) Squad. 
+
+
+LEFT-CLICK on a Squad Tab to start configuring it. The right part of the screen shows you information about the chosen Unit Type, the Unit Edition and the currently selected Special Weapon and Special Equipment.
+
+
+To change Unit Type, click on one of the available unit type icons on the top of the screen.  Note that you will not always have access to all unit types.  In early missions only one type might be available in later missions up to four possible types may be available.  For example: 
+
+
+A terradyne squad could be changed to either a scout, light, main battle, or heavy terradyne squad in a later mission.
+
+
+To change Unit Edition, click one of the four Edition Tabs below the unit description text. The different editions slightly change Firepower, Speed, Armor and Range. Pick an edition that is appropriate for the way you expect to command your troops in the current mission.
+
+
+To change Special Weapon and/or Special Equipment, click on one of the icons in the lower part of the screen. Note that you will not always have access to Special Weapons and Special Equipment. As the game progresses you will receive more Weapons and Equipment to select from for each unit.
+
+
+You can click on the LAST button to setup your squad to the last configuration you had on the current map. This is especially useful in multiplayer games.
+
+You can rename a highlighted squad by clicking on the RENAME SQUAD button. Enter your preferred name and then click OK.
+
+
+For additional help, please consult the manual.
+13	This screen gives you detailed information about the upcoming mission.
+
+The map on the right gives you an overview of the region your squads will be transported to next. Look at it carefully and learn where your objectives are located. Place your mouse cursor over an objective to learn more about it.  This information can be invaluable to complete the mission in a timely manner.
+
+The lower right text box displays your mission objectives.
+
+Click the SKIP button to skip the voice briefing. Click the REPLAY button to restart the voice briefing.
+
+Click the START MISSION to immediately begin the mission. Note that doing this will force the computer to automatically configure your dropship and squads.
+
+Click the CONFIGURE DROPSHIPS button to go to a screen where you can choose which squads you will bring on this mission and choose which dropships the squads will arrive on.  Also you will be able to access individual squad configurations there and start the mission from there as well.
+
+You can change the difficulty level for each mission in the single player game. Check the selection circle for your preferred mission difficulty.
+EASY - The mission is very easy and you do not have to worry about friendly fire.
+LIGHT - Normal difficulty but without friendly fire.
+NORMAL - This is the normal difficulty level with friendly fire. Recommended.
+HARD - For experienced Ground Control Field Commanders. Friendly fire is on.
+14	On this screen you are informed if your last mission was a success or failure. Additionally, the map shows you the progress of the current campaign.
+
+Click STATISTICS to see detailed mission statistics and the battle performance for each participating squad.
+
+If you failed a mission in the singleplayer game you can click RESTART MISSION to try again. If the mission was a success, click NEXT MISSION to go the briefing of the next available mission.
+15	On this screen you can access detailed statistics from the last mission.
+
+Click MISSION STATS to see the overall mission statistics.
+
+Click on one of the SQUAD TABS to see the battle performance for the selected squad. Squads that were killed in the mission will be marked KIA.
+
+Click PROGRESS to see the progress of the current campaign (not clickable in multiplayer).
+
+If you failed a singleplayer mission you can click RESTART MISSION to try again. If the mission was a success, click NEXT MISSION to go the briefing of the next available mission. 
+
+After playing a multiplayer game, click the MULTIPLAYER button to return to the multiplayer menus.
+16	Select CONTINUE GAME to continue the last game played.
+
+Select NEW GAME to start a completely new game. You will be asked to enter a game name, select a difficulty level and whether you would like to skip the three Boot Camp missions or not.  If this is the first time you are playing Ground Control we recommend that you play through the Boot Camp as it will teach you several important lessons.
+
+Select LOAD GAME to load a previously played game.
+
+Select CUSTOM GAME to play a single stand-alone mission or stand-alone campaign. Missions created by GenEd and downloaded over the internet will be available in the custom game screen.
+17	This screen allows you to load a saved game. The list to the left shows all games and the list to the right contains the missions played in the selected game.
+18	On this screen you can select to play a custom mission or campaign. Missions or campaigns downloaded will be available on this screen.
+19	Select LOCAL AREA NETWORK GAME to play a multiplayer game on a lan.
+
+
+Select INTERNET STANDARD GAME to connect to WON and play... you will be required to log in to WON with a user name and a password. If you do not have a WON account, you can register a new one for free from the MULTIPLAYER SETUP option.
+
+
+Select INTERNET DROP-IN GAME to log on to WON and play drop-in games.
+
+
+Select MULTIPLAYER SETUP to create your WON account and set/update your connection speed.
+20	All GC servers running on you Local Area Network are displayed on the right hand list. Double-click on the server you wish to join or click on the JOIN GAME button.
+
+
+REFRESH LIST will update the status of LAN games.
+
+
+Click on CREATE GAME to host a new game.
+21	All GC servers running on you Local Area Network are displayed on the right hand list. Double-click on the server you wish to join or click on the JOIN GAME button.
+
+
+REFRESH LIST will update the status of LAN games.
+
+
+Click on CREATE GAME to host a new game.
+22	Before you join a GC standard game you have to join a room. Double-click on a room or select it and click on the JOIN ROOM button. The number in parenthesis behind the room name indicates the number of people active in the room.
+
+
+Click on REFRESH LIST to receive an updated list of rooms.
+
+
+CREATE ROOM allows you to create your own chat room.
+23	The PLAYER list displays all players active in the current room.
+
+
+To join a game either click on CREATE GAME to start a new game or click on VIEW GAMES to get a list of games currently looking for players.
+
+
+Click on the DROP-IN GAME button to jump to the list of available drop-in games.
+
+
+There are a few special commands available in the chat window:
+/w <player> <text> - this will send the message to the selected player only.
+/me <text> - will send an emote.
+/i <player> - the selected player will be ignored.
+/ui <player> - the selected player will no longer be ignored.
+/motd - this will display the message ofthe day
+24	The right-hand list displays all games started from the current room. To join a game, double click on it or select it and click on the JOIN GAME button.
+
+
+REFRESH LIST will update the list of games.
+
+
+Click on the CREATE GAME button to create a standard game.
+
+
+Click on the DROP-IN GAME button to go to the drop-in game screen.
+25	In this lobby you select the server, the map and configure the map options.  Note that all players must have their READY box checked for the host to be able to start the game.
+
+
+The top-left pane contains the players connected to your game. Click on your player bar to change the color. Click on the force icon to change the force of your strike team. The number indicates what team you are on. Click on the number to cycle between the available teams. 
+
+
+Click on the SELECT SERVER button to select a server to play on. Note that you must select a server before you can select a map or change the options.
+
+
+Click on the SELECT MAP button to select a map to play. 
+
+
+Click on the DROP PLAYER button to kick a player from this lobby.
+
+
+The SELECTED MAP pane displays information about the currently selected map.
+
+
+The MAP OPTIONS pane allows the host to change the different game options. For a complete description of the available options, consult the Ground Control manual.
+26	Select a server either by double clicking on a server name in the AVAILABLE SERVERS pane or click on the SELECT SERVER button.
+
+
+The number after the server name indicates your ping to the server. Select a server with LOW ping for best performance.
+27	Select a map by double clicking on the map name or select a map and then click on the SELECT MAP button.
+28	All players must have their READY box checked for the host to be able to start the game.
+
+
+The top-left pane contains the players connected to the game. Click on your player bar to change the color. Click on the force icon to change the force of your strike team. The number indicates what team you are on. Click on the number to cycle between the available teams. 
+
+
+The MAP INFO pane displays information about the map you have highlighted in the AVAILABLE MAPS list. Click on the map you want information about. The SELECTED MAP is the map currently selected by the host.
+
+
+The CURRENT OPTIONS pane displays the currently selected options. Only the host may change the options. For a complete description of the available options, consult the Ground Control manual.
+29	The top-left pane contains the players connected to your game. Click on your player bar to change the color. Click on the force icon to change the force of your strike team. The number indicates what team you are on. Click on the number to cycle between the available teams. 
+
+
+Click on the SELECT MAP button to select a map to play. 
+
+
+Click on the DROP PLAYER button to kick a player from this lobby.
+
+
+The SELECTED MAP pane displays information about the currently selected map.
+
+
+The MAP OPTIONS pane allows the host to change the different game options. For a complete description of the available options, consult the Ground Control manual.
+30	Select a map by double clicking on the map name or select a map and then click on the SELECT MAP button.
+31	This screen allows you configure the drop-in game and to set up a map cycle. You can change your player color, team and force on the player tab in the top of the screen.
+
+
+The AVAILABLE MAPS pane displays a list of all available maps. Highlight a map and then either click on the arrow pointing right or double click on it to move it to the MAP CYCLE. You can add as many maps you want and you can add one map several times to the cycle.
+
+
+To remove a map from the MAP CYCLE, simply double click on the map or highlight it and then click on the arrow pointing to the left.
+
+
+You can change the options for all the maps in the map cycle in the GLOBAL OPTIONS pane. Consult the GC manual for a full description of the options.
+
+
+The MAP OPTIONS pane contains options that only apply to the currently highlighted map in the MAP CYCLE pane.
+32	This screen allows you to survey the drop-in games options and currently connected players. You can change your player color by clicking on your player bar. Click on the force icon to change the force of your strike force. Click on the number icon to change team.
+
+
+The OPTION pane displays the game settings. Consult the GC manual for a full description of the options.
+
+
+The MAP INFO pane displays information about the map currently playing.
+
+
+The MAP CYCLE pane the maps currently in the map cycle.
+33	All drop-in games are displayed in the right-hand list. Double click on a game to join it or click on the JOIN GAME button.
+
+
+REFRESH LIST will update your drop-in game list.

@@ -1,0 +1,64 @@
+//TOP ROW BORDERS
+PICTURE 31 33 pxcol/mngm_T_L_Corner.tga
+//PICTURE 63 33 pxcol/mngm_Opt_Load_Load.tga
+PICTURE 319 50 pxcol/mngm_R_Of_Header.tga
+PICTURE 461 50 pxcol/mngm_U_R_Line.tga
+PICTURE 589 50 pxcol/mngm_U_R_Corner.tga
+PICTURE 589 66 pxcol/mngm_U_R_Vert_Line.tga
+PICTURE 39 65 pxcol/mngm_U_L_Lines.tga
+PICTURE 39 193 pxcol/mngm_M_R_Vert_Line.tga
+
+PICTURE 63 33 pxcol/mngm_Smiss_options.tga
+
+
+//BUTT BORDERS
+PICTURE 39 290 pxcol/mngm_L_L_Vert_Line.tga
+PICTURE 31 418 pxcol/mngm_L_L_Corner.tga
+//Small pic just right of butt butts
+PICTURE 191 418 pxcol/mngm_EndOfLowButts.tga
+PICTURE 326 417 pxcol/mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 462 418 pxcol/mngm_U_R_Line.tga
+PICTURE 590 415 pxcol/mngm_L_R_Corner.tga
+PICTURE 590 287 pxcol/mngm_L_R_Vert_Line.tga
+
+//MISSION,SQUAD, JOURNAL BOARDERS
+
+PICTURE 586 410 pxcol/mngm_Innerframe_LR_corner.tga
+PICTURE 522 411 pxcol/mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 587 346 pxcol/mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 51 410 pxcol/mngm_Innerframe_SW_corner.tga
+PICTURE 67 412 pxcol/mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 51 346 pxcol/mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 586 224 pxcol/mngm_Innerframe_Vert_UtoFree.tga
+PICTURE 586 96 pxcol/mngm_Innerframe_Vert_LtoFree.tga
+
+
+PICTURE 50 294 pxcol/mngm_Innerframe_Vert_UtoFree.tga
+PICTURE 50 166 pxcol/mngm_Innerframe_Vert_LtoFree.tga
+
+
+
+PICTURE 585 73 pxcol/mngm_Innerframe_UR_corner.tga
+PICTURE 587 89 pxcol/mngm_Innerframe_Dial_left.tga
+PICTURE 521 72 pxcol/mngm_Innerframe_Horiz_Rtoend.tga
+
+PICTURE 409 72 pxcol/mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 360 72 pxcol/mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 190 72 pxcol/mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 170 72 pxcol/mngm_Innerframe_Horiz_Free_128.tga
+
+PICTURE 334 412 pxcol/mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 290 412 pxcol/mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 150 412 pxcol/mngm_Innerframe_Horiz_Free_128.tga
+
+
+PICTURE 51 73 pxcol/mngm_T_L_Corner2.tga
+PICTURE 49 89 pxcol/mngm_Slider_upper.tga
+PICTURE 67 73 pxcol/mngm_L_L_Horiz_Line.tga
+
+
+//Low Butts
+BUTTON ID_RESTOREOPTIONS KEY_ESC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 MOUSE_CLICK BACKFROMOPTIONS 63 418 pxcol/mngm_LOWBUTT_BACK_NEW2.tga 0.4 63 418 pxcol/mngm_LOWBUTT_BACK_NEW_EFF2.tga
+BUTTON ID_SAVEOPTIONS KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 127 418 pxcol/mngm_LowButt_Accept2.tga 0.4 127 418 pxcol/mngm_LowButt_Eff_Accept.tga

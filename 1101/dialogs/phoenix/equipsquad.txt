@@ -1,0 +1,205 @@
+MOVIE 32 36 44 22 movie/briefing/PHOENIX.cut
+//TOP ROW BORDERS
+PICTURE 31 33 pxCol/Mngm_T_L_Corner.tga
+PICTURE 63 33 pxCol/Mngm_EquipSquad_ConfigureSquads.tga
+PICTURE 300 50 pxCol/Mngm_R_Of_Header.tga
+PICTURE 461 50 pxCol/Mngm_U_R_Line.tga
+PICTURE 589 50 pxCol/Mngm_U_R_Corner.tga
+PICTURE 589 66 pxCol/Mngm_U_R_Vert_Line.tga
+PICTURE 39 65 pxCol/Mngm_U_L_Lines.tga
+PICTURE 39 193 pxCol/Mngm_M_R_Vert_Line.tga
+
+
+PICTURE 31 65 pxCol/Mngm_ConfigureSquad_BoxL_New.tga
+PICTURE 31 178 pxCol/Mngm_ConfigureSquad_BoxL_New.tga
+PICTURE 31 291 pxCol/Mngm_ConfigureSquad_BoxL_New.tga
+
+
+//BUTT BORDERS
+PICTURE 39 290 pxCol/Mngm_L_L_Vert_Line.tga
+PICTURE 31 418 pxCol/Mngm_L_L_Corner.tga
+//Small pic just right of butt butts
+PICTURE 466 418 pxCol/Mngm_EndOfLowButts2.tga
+PICTURE 310 417 pxCol/Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 577 418 pxCol/Mngm_L_L_Corner_FLH.tga
+PICTURE 585 290 pxCol/Mngm_L_L_Vert_Line_FLH.tga
+//PICTURE 353 418 pxCol/Mngm_EndOfLowButts_FLH.tga
+
+
+//SQUAD CONFIGURATION BOARDERS
+PICTURE 222 58 pxCol/Mngm_EquipSquad_SquadConfig.tga
+PICTURE 478 58 pxCol/Mngm_EquipSquad_SquadConfig2.tga
+
+PICTURE 55 58 pxCol/Mngm_EquipSquad_Dropships1.tga
+PICTURE 183 58 pxCol/Mngm_EquipSquad_Dropships2.tga
+
+PICTURE 217 90 pxCol/Mngm_EquipSquad_vertline1.tga
+PICTURE 217 218 pxCol/Mngm_EquipSquad_vertline2.tga
+PICTURE 217 346 pxCol/Mngm_EquipSquad_vertline3cross.tga
+
+PICTURE 55 378 pxCol/Mngm_EquipSquad_vertline4crossing.tga
+
+PICTURE 311 412 pxCol/Mngm_EquipSquad_vertline1D.tga
+PICTURE 439 412 pxCol/Mngm_EquipSquad_vertline2D.tga
+PICTURE 503 378 pxCol/Mngm_EquipSquad_vertline3D.tga
+
+
+
+PICTURE 575 90 pxCol/Mngm_EquipSquad_vertline1R.tga
+PICTURE 575 218 pxCol/Mngm_EquipSquad_vertline2R.tga
+PICTURE 575 346 pxCol/Mngm_EquipSquad_vertline3R.tga
+
+
+//BORDER EFFECT
+PICTURE 500 423 pxCol/Mngm_Lborder_Short.tga
+//PICTURE 374 424 pxCol/Mngm_Dropsbord_LEffect1.tga
+PICTURE 502 398 pxCol/Mngm_Dropsbord_LEffect2.tga
+PICTURE 585 270 pxCol/Mngm_Dropsbord_LEffect3.tga
+
+
+//EFFECT BACKGROUND
+PICTURE 231 171 pxCol/Mngm_SquadConfig_EffectGfx.tga
+
+// SPEC WEAPON AND EQUIPMENT BACKGROUNDS
+PICTURE 233 363 pxCol/Mngm_ConfigSquad_SpecialW.tga
+PICTURE 274 363 pxCol/Mngm_ConfigSquad_SpecialW.tga
+PICTURE 412 363 pxCol/Mngm_ConfigSquad_SpecialW.tga
+PICTURE 453 363 pxCol/Mngm_ConfigSquad_SpecialW.tga
+PICTURE 494 363 pxCol/Mngm_ConfigSquad_SpecialW.tga
+PICTURE 536 363 pxCol/Mngm_ConfigSquad_SpecialW.tga
+
+//AUTOLOAD BORDERS
+
+//PICTURE 419 34 Mngm_Autoload_Border.tga
+
+
+
+//DROPSHIP BOXES
+PICTURE 159 65 pxCol/Mngm_ConfigureSquad_Boxnr1L.tga
+PICTURE 159 178 pxCol/Mngm_ConfigureSquad_Boxnr2L.tga
+PICTURE 159 291 pxCol/Mngm_ConfigureSquad_Boxnr3L.tga
+
+PICTURE 148 293 pxCol/Mngm_ConfigureSquad_squadbox.tga
+PICTURE 326 293 pxCol/Mngm_ConfigureSquad_SquadBox.tga
+
+//SQUADNAME CORNERS
+PICTURE 227 159 pxCol/Mngm_EquipSquad_Corner1.tga
+PICTURE 517 159 pxCol/Mngm_EquipSquad_Corner2.tga
+PICTURE 227 276 pxCol/Mngm_EquipSquad_Corner3.tga
+PICTURE 517 276 pxCol/Mngm_EquipSquad_Corner4.tga
+
+
+TEXT ID_ESBARFIREPOWER gfx/font/font_mui_px.tga 239 252 80 15
+TEXT ID_ESBARARMOR gfx/font/font_mui_px.tga 239 264 80 15
+TEXT ID_ESBARSPEED gfx/font/font_mui_px.tga 239 276 80 15
+TEXT ID_ESBARRANGE gfx/font/font_mui_px.tga 239 288 80 15
+
+BAR ID_ESBAR1 300 252 112 8 pxCol/Mngm_Equipm_Pillar_Midsection.tga
+BAR ID_ESBAR2 300 264 112 8 pxCol/Mngm_Equipm_Pillar_Midsection.tga
+BAR ID_ESBAR3 300 276 112 8 pxCol/Mngm_Equipm_Pillar_Midsection.tga
+BAR ID_ESBAR4 300 288 112 8 pxCol/Mngm_Equipm_Pillar_Midsection.tga
+
+
+TEXT ID_SQUADNAME gfx/font/font_mui_big_px.tga 239 165 170 18
+TEXT ID_SQUADTEXT gfx/font/font_mui_big_px.tga 409 165 170 18
+TEXT ID_SQUADENTITYTEXT gfx/font/font_mui_px.tga 409 183 170 132
+
+MODEL ID_SQUADENTITYMODEL 233 165 170 150
+
+TEXT ID_SPECIALWEAPONTEXT gfx/font/font_mui_big_px.tga 233 345 170 18
+TEXT ID_EQUIPMENTTEXT gfx/font/font_mui_big_px.tga 412 345 170 18
+
+TEXT ID_SPECIALWEAPONDESC gfx/font/font_mui_px.tga 233 404 170 15
+TEXT ID_EQUIPMENTDESC gfx/font/font_mui_px.tga 412 404 170 15
+
+// Mngm_ConfigureSquad_SquadEditbox.tga or Mngm_ConfigureSquad_SquadEditbox_Eff.tga
+PICTURE ID_ESCONFIGPIC1 CLICK_SOUND ButtonPress2 232 299
+PICTURE ID_ESCONFIGPIC2 CLICK_SOUND ButtonPress2 404 299
+PICTURE ID_ESCONFIGPIC3 CLICK_SOUND ButtonPress2 232 317
+PICTURE ID_ESCONFIGPIC4 CLICK_SOUND ButtonPress2 404 317
+
+TEXT ID_ESCONFIGTEXT1 gfx/font/font_mui_px.tga 237 302 165 13
+TEXT ID_ESCONFIGTEXT2 gfx/font/font_mui_px.tga 409 302 165 13
+TEXT ID_ESCONFIGTEXT3 gfx/font/font_mui_px.tga 237 320 165 13
+TEXT ID_ESCONFIGTEXT4 gfx/font/font_mui_px.tga 409 320 165 13
+
+
+PICTURE ID_ESDSBKG1 5 72 pxCol/Mngm_ConfigureSquad_Box_Eff.tga
+PICTURE ID_ESDSBKG2 5 185 pxCol/Mngm_ConfigureSquad_Box_Eff.tga
+PICTURE ID_ESDSBKG3 5 298 pxCol/Mngm_ConfigureSquad_Box_Eff.tga
+
+
+SQUADBUTTON ID_SQUADBUT1 CLICK_SOUND ButtonPress2 61 83
+SQUADBUTTON ID_SQUADBUT2 CLICK_SOUND ButtonPress2 61 110
+SQUADBUTTON ID_SQUADBUT3 CLICK_SOUND ButtonPress2 61 137
+SQUADBUTTON ID_SQUADBUT4 CLICK_SOUND ButtonPress2 61 164
+
+SQUADBUTTON ID_SQUADBUT5 CLICK_SOUND ButtonPress2 61 197
+SQUADBUTTON ID_SQUADBUT6 CLICK_SOUND ButtonPress2 61 224
+SQUADBUTTON ID_SQUADBUT7 CLICK_SOUND ButtonPress2 61 251
+SQUADBUTTON ID_SQUADBUT8 CLICK_SOUND ButtonPress2 61 278
+
+SQUADBUTTON ID_SQUADBUT9 CLICK_SOUND ButtonPress2 61 310
+SQUADBUTTON ID_SQUADBUT10 CLICK_SOUND ButtonPress2 61 337
+SQUADBUTTON ID_SQUADBUT11 CLICK_SOUND ButtonPress2 61 364
+SQUADBUTTON ID_SQUADBUT12 CLICK_SOUND ButtonPress2 61 391
+
+
+PICTURE ID_ESDSFG1 CLICK_SOUND ButtonPress2 53 79 pxCol/Mngm_ConfigureSquad_Fadebox.tga
+PICTURE ID_ESDSFG2 CLICK_SOUND ButtonPress2 53 192 pxCol/Mngm_ConfigureSquad_Fadebox.tga
+PICTURE ID_ESDSFG3 CLICK_SOUND ButtonPress2 53 305 pxCol/Mngm_ConfigureSquad_Fadebox.tga
+
+
+//EQUIPBOXES
+MODEL ID_ESSQUADMODEL1 224 80 90 90
+MODEL ID_ESSQUADMODEL2 314 80 90 90
+MODEL ID_ESSQUADMODEL3 404 80 90 90
+MODEL ID_ESSQUADMODEL4 494 80 90 90
+
+PICTURE ID_ESSQUADMINPIC1 224 80
+PICTURE ID_ESSQUADMINPIC2 314 80
+PICTURE ID_ESSQUADMINPIC3 404 80
+PICTURE ID_ESSQUADMINPIC4 494 80
+
+// Mngm_euipm_box.tga or Mngm_euipm_box_eff.tga
+PICTURE ID_ESSQUAD1 CLICK_SOUND ButtonPress2 224 80 pxCol/Mngm_euipm_box.tga
+PICTURE ID_ESSQUAD2 CLICK_SOUND ButtonPress2 314 80 pxCol/Mngm_euipm_box.tga
+PICTURE ID_ESSQUAD3 CLICK_SOUND ButtonPress2 404 80 pxCol/Mngm_euipm_box.tga
+PICTURE ID_ESSQUAD4 CLICK_SOUND ButtonPress2 494 80 pxCol/Mngm_euipm_box.tga
+
+
+//SPECIAL WEAPONS MARKER
+PICTURE ID_SPECWEAPONMARKER1 233 363 pxCol/Mngm_ConfigSquad_SpecialW.tga
+PICTURE ID_SPECWEAPONMARKER2 274 363 pxCol/Mngm_ConfigSquad_SpecialW.tga
+
+// EQUIPMENT MARKER
+PICTURE ID_EQUIPMENTMARKER1 412 363 pxCol/Mngm_ConfigSquad_SpecialW.tga
+PICTURE ID_EQUIPMENTMARKER2 453 363 pxCol/Mngm_ConfigSquad_SpecialW.tga
+PICTURE ID_EQUIPMENTMARKER3 494 363 pxCol/Mngm_ConfigSquad_SpecialW.tga
+PICTURE ID_EQUIPMENTMARKER4 536 363 pxCol/Mngm_ConfigSquad_SpecialW.tga
+
+//SPECIAL WEAPONS ICONS
+PICTURE ID_SPECWEAPONICON1 CLICK_SOUND ButtonPress2 235 366 pxCol/Mngm_ConfigSquad_SpecialW.tga
+PICTURE ID_SPECWEAPONICON2 CLICK_SOUND ButtonPress2 276 366 pxCol/Mngm_ConfigSquad_SpecialW.tga
+
+// EQUIPMENT ICONS
+PICTURE ID_EQUIPMENTICON1 CLICK_SOUND ButtonPress2 414 366 pxCol/Mngm_ConfigSquad_SpecialW.tga
+PICTURE ID_EQUIPMENTICON2 CLICK_SOUND ButtonPress2 455 366 pxCol/Mngm_ConfigSquad_SpecialW.tga
+PICTURE ID_EQUIPMENTICON3 CLICK_SOUND ButtonPress2 496 366 pxCol/Mngm_ConfigSquad_SpecialW.tga
+PICTURE ID_EQUIPMENTICON4 CLICK_SOUND ButtonPress2 537 366 pxCol/Mngm_ConfigSquad_SpecialW.tga
+
+
+BUTTON ID_AUTOLOADBUT 495 61 pxCol/Mngm_Dropsbord_Autoload.tga 0.4 495 61 pxCol/Mngm_Dropsbord_Autoload.tga
+PICTURE ID_AUTOLOADCHECKBOX 474 61 pxCol/Mngm_Dropsbord_Checkbox1.tga
+
+
+//Low Butts Left
+BUTTON ID_ESACCEPT KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 63 418 pxCol/Mngm_StartMission.tga 0.4 63 418 pxCol/Mngm_StartMission_Eff.tga
+BUTTON MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 MOUSE_CLICK NAMESQUAD 190 418 pxCol/Mngm_RenameSquad.tga 0.4 190 418 pxCol/Mngm_RenameSquad_Eff.tga
+BUTTON ID_LASTCONFIG MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 338 418 pxCol/Mngm_Last.tga 0.4 338 418 pxCol/Mngm_Last_Eff.tga
+BUTTON KEY_ESC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 MOUSE_CLICK DROPSHIPLOADOUT 402 418 pxCol/Mngm_LowButt_Back_New3.tga 0.4 402 418 pxCol/Mngm_LowButt_Back_New_Eff3.tga
+
+
+BUTTON ID_EXITBRIEFING MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 513 418 pxCol/Mngm_LowButt_Exit3.tga 0.4 513 418 pxCol/Mngm_LowButt_exit3_Eff.tga
+
+BUTTON ID_HELP KEY_F1 MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 561 419 pxCol/Mngm_Dropsbord_QuestionM.tga 0.4 561 419 pxCol/Mngm_Question_Eff.tga

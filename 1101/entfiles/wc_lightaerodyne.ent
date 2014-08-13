@@ -1,0 +1,154 @@
+//wc_lightaerodyne.ent
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+AERODYNE
+
+// Squad button
+Button
+unitico_air_1_ond.tga
+
+// Max number of units in squad
+MaxUnits
+2
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+Description
+203
+
+BranchSortOrderValue
+0
+
+//the name of the entity
+Name
+164
+
+//score awarded in mp per unit in squad
+//default is 1 per unit
+MultiplayerScorePerEntity
+3
+
+//type of mover(foot, hover, air, vehicle)
+MoverType
+air
+
+//Create an aimer
+UseAimer
+//Make it fixed
+AimerYDegLimits
+330
+30
+
+//main model animation
+Model
+wc_lightaerodyne
+
+//fire offset
+FireOffset
+0.0
+0.0
+0.0
+
+//other stuff
+Radius
+9.0
+Height
+2.0
+PivotHeight
+2.0
+Acceleration
+125.0
+Friction
+100.0
+MaxSpeed
+70.0
+TurnSpeed
+//Radianer/sekund 6.28 = 1 varv/sekund
+1.2
+HeadTurnSpeed
+2.0
+0.0
+SlopeBorder
+4
+ViewRange
+400.0
+ProjectileProtection
+80
+Power
+3500
+FlyingHeight
+100.0
+TurnOffset
+100.0
+// Detection
+Stealth
+100
+Perception
+100
+//WRECK
+
+WreckModel
+WC_Scoutaerodyne_Wreck
+WreckModel
+WC_Scoutaerodyne_Wreck2
+WreckModel
+WC_Scoutaerodyne_Wreck3
+WreckModel
+WC_Scoutaerodyne_Wreck4
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover1-2, snd_engine_vehicle1-2, snd_engine_air1-2,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+AmbientSound
+snd_engine_air1
+
+//sound bank
+//valid banks are:
+//CRAYVEN_ANTIAIRVEHICLE
+//CRAYVEN_ARTILLERYVEHICLE
+//CRAYVEN_ATTACKAERODYNE
+//CRAYVEN_BOMBERAERODYNE
+//CRAYVEN_COMMANDAPC
+//CRAYVEN_ENGINEERTRUCKER
+//CRAYVEN_FIGHTERAERODYNE
+//CRAYVEN_HEAVYTANK
+//CRAYVEN_JAEGER
+//CRAYVEN_LIGHTTANK
+//CRAYVEN_MARINE
+//CRAYVEN_MEDIUMTANK
+//CRAYVEN_ROCKETVEHICLE
+//CRAYVEN_SCOUTAERODYNE
+//CRAYVEN_SCOUTVEHICLE
+//OND_ANTIAIRVEHICLE
+//OND_ARTILLERYVEHICLE
+//OND_ATTACKAERODYNE
+//OND_BEAMPLATFORM
+//OND_COMMANDAPC
+//OND_CRUSADER
+//OND_DRONECARRIER
+//OND_ENGINEERTRUCKER
+//OND_FIGHTERAERODYNE
+//OND_HEAVYHOVERDYNE
+//OND_LIGHTHOVERDYNE
+//OND_MEDIUMHOVERDYNE
+//OND_SCOUTAERODYNE
+//OND_SCOUTVEHICLE
+//OND_TEMPLAR
+SoundBank
+OND_SCOUTAERODYNE
+

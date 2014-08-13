@@ -1,0 +1,12436 @@
+//L:\Ground Control\data\multiplayer\missions\FZ4\FZ4.prp
+//Ground Control Prop File
+//GenEd Version 3.511
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3525.051514
+		80.633247
+		3954.635742
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3575.383057
+		82.230591
+		4010.000488
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3807.402100
+		76.108109
+		4683.753418
+		//rotation
+		0.349066
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3797.335449
+		73.923698
+		4626.710938
+		//rotation
+		0.733038
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3817.468262
+		74.397453
+		4567.990723
+		//rotation
+		6.265727
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3810.757324
+		75.860580
+		4517.658691
+		//rotation
+		4.171334
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3731.904541
+		77.000000
+		4406.929199
+		//rotation
+		4.136427
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3792.302246
+		75.384171
+		4428.739746
+		//rotation
+		3.420843
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3686.605957
+		74.950775
+		4324.721191
+		//rotation
+		3.001964
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3713.449463
+		75.924049
+		4279.422363
+		//rotation
+		5.986475
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3649.696045
+		76.695633
+		4266.000488
+		//rotation
+		5.637409
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3426.559082
+		78.124718
+		3873.413818
+		//rotation
+		3.839721
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3473.535645
+		80.000000
+		3833.148438
+		//rotation
+		3.176497
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3483.601807
+		84.576752
+		3905.290527
+		//rotation
+		3.124137
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3572.520752
+		83.398926
+		3982.465820
+		//rotation
+		4.328413
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3611.108398
+		78.000000
+		4054.607666
+		//rotation
+		1.308996
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3715.127197
+		79.283356
+		4208.958008
+		//rotation
+		0.209439
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3851.022705
+		76.042465
+		4700.530762
+		//rotation
+		5.043998
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3809.079834
+		76.670670
+		4725.696289
+		//rotation
+		4.450586
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3773.847656
+		74.000000
+		4581.412109
+		//rotation
+		1.047197
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3822.501465
+		75.386826
+		4594.833984
+		//rotation
+		4.677479
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3775.525391
+		73.154602
+		4500.881836
+		//rotation
+		3.595376
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3825.856689
+		76.647766
+		4529.402832
+		//rotation
+		3.403389
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3795.657715
+		75.652611
+		4447.194824
+		//rotation
+		0.715584
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3673.184082
+		75.000000
+		4296.199707
+		//rotation
+		4.223693
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3757.070068
+		76.000000
+		4299.555176
+		//rotation
+		4.415679
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3612.786133
+		78.538979
+		4081.451172
+		//rotation
+		3.228857
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3538.966309
+		79.117302
+		4016.020264
+		//rotation
+		4.136427
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3497.023438
+		79.818665
+		3952.266602
+		//rotation
+		1.169370
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3478.568604
+		80.054535
+		3838.181641
+		//rotation
+		1.797688
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3426.559082
+		80.079681
+		3836.503906
+		//rotation
+		3.769908
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3533.933350
+		83.368805
+		3920.389893
+		//rotation
+		3.525562
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3693.317139
+		79.878464
+		4220.702148
+		//rotation
+		0.331612
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3803.125000
+		74.250000
+		4546.875000
+		//rotation
+		2.146753
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3703.125000
+		75.249985
+		4340.625000
+		//rotation
+		6.265727
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3421.875000
+		83.499992
+		3803.125000
+		//rotation
+		5.654862
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3775.000000
+		76.000008
+		4393.750000
+		//rotation
+		5.794488
+
+	PROP
+		//type (mdl file)
+		D_tree_13
+		//collision type
+		None
+		//position (x,y,z)
+		3768.750000
+		77.500008
+		4350.000000
+		//rotation
+		0.418879
+
+	PROP
+		//type (mdl file)
+		D_tree_13
+		//collision type
+		None
+		//position (x,y,z)
+		3462.500000
+		82.999992
+		3900.000000
+		//rotation
+		2.391099
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3662.500000
+		80.999992
+		4218.750000
+		//rotation
+		1.919861
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3600.847168
+		69.000000
+		5798.117188
+		//rotation
+		3.106684
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3632.304443
+		72.000000
+		5689.065430
+		//rotation
+		5.724676
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3613.429932
+		71.840179
+		5613.567871
+		//rotation
+		1.675515
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3655.373047
+		70.000000
+		5577.916504
+		//rotation
+		1.815141
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3667.955811
+		71.246567
+		5603.082031
+		//rotation
+		4.188787
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3621.818604
+		70.977875
+		5559.041992
+		//rotation
+		3.176497
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3808.465088
+		63.000000
+		5261.246582
+		//rotation
+		3.333576
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3831.533691
+		63.522690
+		5286.412109
+		//rotation
+		6.003928
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3789.590820
+		62.832741
+		5292.703613
+		//rotation
+		3.822268
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4695.560547
+		81.000000
+		5785.534668
+		//rotation
+		0.436332
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4689.269043
+		78.640663
+		5816.991699
+		//rotation
+		0.680678
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4724.920898
+		79.995789
+		5787.631836
+		//rotation
+		0.122173
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4739.600586
+		75.365067
+		5710.037109
+		//rotation
+		5.183624
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4722.823242
+		76.825851
+		5678.579590
+		//rotation
+		1.256636
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4735.406250
+		80.000000
+		5592.596680
+		//rotation
+		2.652898
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4718.628906
+		81.000000
+		5552.750488
+		//rotation
+		1.727875
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4708.143066
+		81.457657
+		5531.779297
+		//rotation
+		5.201077
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4674.588867
+		79.729218
+		5510.807617
+		//rotation
+		1.867501
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4366.307617
+		68.304604
+		5410.144043
+		//rotation
+		4.223693
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4351.627441
+		68.122765
+		5437.407227
+		//rotation
+		1.396262
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4370.501953
+		68.000000
+		5353.520996
+		//rotation
+		4.782198
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4022.374756
+		78.000000
+		5003.296875
+		//rotation
+		1.780234
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3997.208740
+		79.000000
+		4990.713867
+		//rotation
+		3.874628
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3946.877197
+		80.345169
+		4955.062500
+		//rotation
+		3.979347
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3976.237061
+		83.000000
+		4936.187988
+		//rotation
+		5.567596
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3930.099854
+		76.529953
+		4908.924805
+		//rotation
+		2.635445
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3942.683105
+		77.243927
+		4885.856445
+		//rotation
+		5.585049
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4504.719727
+		75.377571
+		5043.142578
+		//rotation
+		5.078904
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4462.776367
+		76.000000
+		5036.851074
+		//rotation
+		2.303833
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4469.068359
+		74.000000
+		5089.280273
+		//rotation
+		1.919861
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4441.804688
+		74.338898
+		5124.931641
+		//rotation
+		0.069813
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5063.151367
+		128.208405
+		5336.670410
+		//rotation
+		3.961894
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5004.431152
+		127.000000
+		5366.030273
+		//rotation
+		1.762781
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5014.916504
+		128.000000
+		5332.476074
+		//rotation
+		1.483529
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4977.167969
+		127.000000
+		5366.030273
+		//rotation
+		0.802851
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4968.779297
+		127.000000
+		5334.573242
+		//rotation
+		1.972221
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4991.848145
+		128.000000
+		5305.212891
+		//rotation
+		0.069813
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5570.662109
+		139.055099
+		5185.675293
+		//rotation
+		1.396262
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5553.884766
+		139.854034
+		5185.675293
+		//rotation
+		4.991638
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5656.645020
+		127.000000
+		5164.703613
+		//rotation
+		4.852012
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5746.822754
+		127.000000
+		5187.772461
+		//rotation
+		1.466075
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5717.462402
+		127.000000
+		5139.538086
+		//rotation
+		5.427970
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5482.581543
+		127.000000
+		5137.440918
+		//rotation
+		1.605702
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5503.553223
+		127.000000
+		5093.400391
+		//rotation
+		4.415679
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5465.804199
+		127.000000
+		5087.108887
+		//rotation
+		1.308996
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5461.609863
+		68.000000
+		4934.017090
+		//rotation
+		1.692968
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5480.484375
+		67.000000
+		4883.685547
+		//rotation
+		3.508109
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5121.871582
+		74.250282
+		4965.474121
+		//rotation
+		1.780234
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5090.414063
+		74.895782
+		4948.697266
+		//rotation
+		0.087266
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5102.997070
+		78.173561
+		4994.834473
+		//rotation
+		2.164207
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5029.596680
+		76.283386
+		4986.445801
+		//rotation
+		3.874628
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5409.181152
+		75.265518
+		4421.943359
+		//rotation
+		2.792525
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5384.015625
+		75.413284
+		4405.166016
+		//rotation
+		1.640608
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5384.015625
+		76.278763
+		4430.332031
+		//rotation
+		2.548179
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5681.811035
+		72.103271
+		4373.708984
+		//rotation
+		0.558505
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5692.296875
+		72.000000
+		4340.154297
+		//rotation
+		3.944441
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5715.365723
+		72.770752
+		4373.708984
+		//rotation
+		5.166171
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5763.600098
+		72.478790
+		4442.915039
+		//rotation
+		4.974185
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5730.045898
+		71.747849
+		4415.651855
+		//rotation
+		4.694932
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5771.988770
+		72.240906
+		4413.554688
+		//rotation
+		0.890117
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5589.536133
+		71.803864
+		4197.548340
+		//rotation
+		3.333576
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5564.370605
+		70.790588
+		4172.382324
+		//rotation
+		0.401425
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5545.496582
+		70.000000
+		4138.828125
+		//rotation
+		1.396262
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5396.598633
+		76.000000
+		3958.472900
+		//rotation
+		0.174533
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5423.861328
+		76.908897
+		3968.958496
+		//rotation
+		4.206240
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5241.409180
+		84.807541
+		4302.405762
+		//rotation
+		4.939278
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5274.963867
+		82.611328
+		4308.697266
+		//rotation
+		1.169370
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5247.700684
+		85.632088
+		4247.879883
+		//rotation
+		1.954767
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		6046.936523
+		65.000000
+		4498.948242
+		//rotation
+		5.619956
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		6019.673340
+		65.000000
+		4522.017090
+		//rotation
+		1.675515
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		6019.673340
+		65.000000
+		4490.559570
+		//rotation
+		2.600538
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		6151.793945
+		65.000000
+		3284.697266
+		//rotation
+		4.433133
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		6252.457520
+		66.803413
+		3305.668945
+		//rotation
+		0.383972
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		6082.587891
+		72.000000
+		3234.365723
+		//rotation
+		1.239183
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		6009.187500
+		66.773956
+		3190.325439
+		//rotation
+		0.174533
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		6021.770508
+		69.000000
+		3267.920166
+		//rotation
+		4.904371
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		6065.810547
+		71.910400
+		3223.879883
+		//rotation
+		4.747292
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		6105.656250
+		70.547508
+		3228.073975
+		//rotation
+		0.331612
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5910.621582
+		68.000000
+		3150.479492
+		//rotation
+		1.867501
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5866.581543
+		66.948364
+		3175.645508
+		//rotation
+		2.042034
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5853.998047
+		66.000000
+		3198.714111
+		//rotation
+		4.380773
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5841.415527
+		70.566162
+		3083.370605
+		//rotation
+		2.251473
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5803.666504
+		68.000000
+		3077.079346
+		//rotation
+		2.042034
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5837.221191
+		70.363495
+		3020.456055
+		//rotation
+		1.675515
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5862.387207
+		75.990967
+		2961.735840
+		//rotation
+		1.239183
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5818.346680
+		74.738861
+		2940.764160
+		//rotation
+		2.792525
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5856.095703
+		76.000000
+		2903.015625
+		//rotation
+		0.104720
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5879.164063
+		76.000000
+		2854.781006
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5791.083984
+		75.452942
+		2705.661865
+		//rotation
+		5.148717
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5828.832520
+		77.000000
+		2730.827637
+		//rotation
+		3.525562
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5847.707031
+		75.262871
+		2693.079102
+		//rotation
+		2.879791
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5786.889648
+		77.000000
+		2743.410400
+		//rotation
+		2.897244
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5753.334961
+		74.781860
+		2697.273193
+		//rotation
+		5.585049
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5814.152344
+		77.000000
+		2743.410400
+		//rotation
+		4.241147
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5686.226074
+		77.462517
+		2623.873047
+		//rotation
+		3.385936
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5673.643066
+		75.682144
+		2655.330322
+		//rotation
+		1.989674
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5627.505859
+		76.000000
+		2649.038574
+		//rotation
+		4.537852
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5648.477539
+		76.878197
+		2592.415527
+		//rotation
+		1.012290
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5673.643066
+		79.058228
+		2609.193115
+		//rotation
+		2.059487
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5851.901367
+		79.038757
+		2233.212646
+		//rotation
+		1.884954
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5828.832520
+		79.280823
+		2201.755127
+		//rotation
+		5.166171
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5826.735352
+		81.861183
+		2233.212646
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5841.415527
+		80.938965
+		2210.144043
+		//rotation
+		4.660026
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4822.052246
+		82.106201
+		2061.172363
+		//rotation
+		2.792525
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4752.846680
+		84.000000
+		2061.172363
+		//rotation
+		5.497783
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4801.080566
+		84.900909
+		2092.629639
+		//rotation
+		4.223693
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4803.178223
+		82.777252
+		2052.783936
+		//rotation
+		2.495819
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4773.817871
+		84.571533
+		2082.144043
+		//rotation
+		6.091194
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4740.263184
+		84.221046
+		2149.252686
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4750.749023
+		82.059914
+		2178.612793
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4790.595215
+		82.644470
+		2220.555908
+		//rotation
+		3.176497
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4807.372070
+		84.657745
+		2245.721924
+		//rotation
+		3.490656
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4824.149902
+		86.737671
+		2228.944824
+		//rotation
+		0.087266
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4721.389160
+		82.000000
+		2170.224365
+		//rotation
+		3.961894
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4721.389160
+		83.455078
+		2147.155762
+		//rotation
+		4.293507
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5621.067383
+		79.685379
+		1568.120972
+		//rotation
+		5.061451
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5579.124023
+		79.228027
+		1547.149292
+		//rotation
+		0.087266
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5650.427246
+		148.034164
+		1672.978638
+		//rotation
+		5.846848
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5694.467773
+		146.603134
+		1652.006958
+		//rotation
+		3.054324
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5644.136230
+		146.489471
+		1643.618408
+		//rotation
+		2.932151
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5677.690430
+		149.215225
+		1696.047241
+		//rotation
+		1.448622
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5109.288574
+		78.000000
+		703.873413
+		//rotation
+		3.298670
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5077.831055
+		81.148003
+		670.318970
+		//rotation
+		3.525562
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5046.374023
+		83.000000
+		672.416321
+		//rotation
+		0.069813
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5058.957031
+		80.638000
+		708.067688
+		//rotation
+		2.670352
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5094.608887
+		78.000000
+		724.845093
+		//rotation
+		6.195914
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4683.566895
+		84.208618
+		984.891907
+		//rotation
+		0.139626
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4712.926758
+		81.000000
+		1010.057861
+		//rotation
+		0.034907
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4756.967285
+		83.697540
+		1014.252075
+		//rotation
+		4.450586
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4624.846680
+		79.000000
+		963.920227
+		//rotation
+		1.972221
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4610.166504
+		79.000000
+		932.463074
+		//rotation
+		2.775071
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4635.332031
+		79.826553
+		924.074585
+		//rotation
+		3.036870
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4591.291992
+		79.000000
+		903.102905
+		//rotation
+		0.541052
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4610.166504
+		79.000000
+		890.520081
+		//rotation
+		4.066614
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4597.583496
+		79.193329
+		947.143188
+		//rotation
+		3.647735
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4527.935547
+		82.765167
+		1301.561768
+		//rotation
+		1.466075
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4513.255859
+		82.962456
+		1337.213501
+		//rotation
+		3.647735
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4523.741699
+		82.722313
+		1295.270508
+		//rotation
+		1.256636
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4498.575684
+		83.339935
+		1293.173218
+		//rotation
+		2.460912
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4500.672852
+		83.875061
+		1301.561768
+		//rotation
+		0.401425
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4494.381348
+		82.000000
+		1249.132935
+		//rotation
+		1.867501
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4475.506836
+		82.740448
+		1240.744385
+		//rotation
+		2.740165
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3814.904053
+		76.192314
+		919.880310
+		//rotation
+		2.967057
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3783.446777
+		75.324265
+		896.811279
+		//rotation
+		4.991638
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3804.418457
+		75.000000
+		882.131592
+		//rotation
+		2.146753
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3770.864014
+		74.000000
+		859.062561
+		//rotation
+		5.043998
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3764.572510
+		75.404762
+		882.131592
+		//rotation
+		3.508109
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3789.738525
+		76.000000
+		915.686035
+		//rotation
+		1.623155
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3825.389893
+		77.031181
+		936.657349
+		//rotation
+		5.026544
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3636.572266
+		82.664055
+		884.228516
+		//rotation
+		1.675515
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3674.321289
+		82.000000
+		873.742676
+		//rotation
+		0.610865
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3684.806885
+		78.981201
+		842.285522
+		//rotation
+		5.305797
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3647.058105
+		81.389465
+		854.868286
+		//rotation
+		3.577922
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3626.086914
+		82.000000
+		884.228516
+		//rotation
+		4.729838
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3250.474854
+		76.037979
+		867.451477
+		//rotation
+		3.124137
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3233.697998
+		75.000000
+		838.091309
+		//rotation
+		1.204276
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3212.726318
+		76.000000
+		882.131592
+		//rotation
+		5.026544
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3225.309326
+		75.000000
+		856.965637
+		//rotation
+		4.852012
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3231.600586
+		76.000000
+		888.422791
+		//rotation
+		1.483529
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3164.491943
+		78.919525
+		901.005920
+		//rotation
+		1.291543
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3183.366211
+		79.330711
+		875.839966
+		//rotation
+		0.733038
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3187.560547
+		78.742065
+		903.102905
+		//rotation
+		3.647735
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3057.463379
+		71.597061
+		978.600342
+		//rotation
+		2.059487
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3036.491699
+		71.080673
+		968.114502
+		//rotation
+		0.628318
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3034.394531
+		72.000000
+		1014.252075
+		//rotation
+		4.171334
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3028.103271
+		71.751747
+		989.086182
+		//rotation
+		4.904371
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3007.131592
+		71.000000
+		1045.709229
+		//rotation
+		1.500982
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3021.811768
+		70.744934
+		1070.875122
+		//rotation
+		6.038835
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2996.645996
+		71.268326
+		1096.041138
+		//rotation
+		2.111847
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3034.394531
+		69.248444
+		1186.218628
+		//rotation
+		0.279252
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3076.337646
+		70.107010
+		1215.578491
+		//rotation
+		5.794488
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3355.259033
+		81.000000
+		1297.367432
+		//rotation
+		0.017453
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3330.093018
+		80.407433
+		1293.173218
+		//rotation
+		4.049160
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3298.635742
+		78.977524
+		1314.144897
+		//rotation
+		3.159044
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3279.761475
+		78.118317
+		1288.979004
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3304.927002
+		84.993988
+		1280.590454
+		//rotation
+		2.670352
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3481.087891
+		79.029022
+		1362.379028
+		//rotation
+		1.762781
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3472.699463
+		80.339142
+		1391.739258
+		//rotation
+		5.375610
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3445.436523
+		80.339142
+		1391.739258
+		//rotation
+		4.590212
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3455.922363
+		77.793060
+		1353.990601
+		//rotation
+		5.864302
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2780.196289
+		75.000000
+		670.318970
+		//rotation
+		2.495819
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2811.653809
+		75.000000
+		674.513245
+		//rotation
+		4.363320
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2794.876465
+		74.612274
+		645.153442
+		//rotation
+		5.201077
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2803.265137
+		72.414276
+		594.821533
+		//rotation
+		3.595376
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2815.847900
+		73.000000
+		609.501648
+		//rotation
+		4.153881
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2761.322021
+		74.565460
+		609.501648
+		//rotation
+		4.188787
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2769.710693
+		75.780060
+		647.250366
+		//rotation
+		4.188787
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2601.938721
+		73.000000
+		951.337402
+		//rotation
+		2.809978
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2629.201416
+		70.663895
+		991.183472
+		//rotation
+		2.460912
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2641.784424
+		70.657249
+		968.114502
+		//rotation
+		3.577922
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2673.241699
+		70.060760
+		949.240112
+		//rotation
+		1.361356
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2687.921631
+		70.000000
+		984.891907
+		//rotation
+		3.665189
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2576.772705
+		76.234016
+		1031.029175
+		//rotation
+		3.857175
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2614.521484
+		72.053558
+		972.309082
+		//rotation
+		3.508109
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2601.938721
+		72.844910
+		1007.960510
+		//rotation
+		5.096357
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2331.406006
+		78.199623
+		643.056091
+		//rotation
+		3.193950
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2310.434326
+		67.873680
+		674.513245
+		//rotation
+		1.535889
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2327.211670
+		68.884644
+		722.747803
+		//rotation
+		5.288343
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2295.754395
+		66.000000
+		712.261963
+		//rotation
+		3.106684
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2289.462891
+		66.157028
+		645.153442
+		//rotation
+		0.314159
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2325.114502
+		68.092293
+		712.261963
+		//rotation
+		3.263763
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2232.839844
+		67.000000
+		666.124756
+		//rotation
+		5.078904
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1798.434448
+		74.000000
+		875.839966
+		//rotation
+		5.899208
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1758.588623
+		76.057846
+		896.811279
+		//rotation
+		4.782198
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1773.268677
+		74.742363
+		867.451477
+		//rotation
+		5.166171
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1957.817993
+		75.202026
+		997.474670
+		//rotation
+		1.343902
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1982.983765
+		74.000000
+		1020.543274
+		//rotation
+		2.216566
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2014.441162
+		75.155289
+		1005.863586
+		//rotation
+		2.792525
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2301.750977
+		73.000000
+		1186.218628
+		//rotation
+		3.961894
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2287.070801
+		72.000000
+		1163.149658
+		//rotation
+		0.628318
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2329.013916
+		74.321106
+		1167.343872
+		//rotation
+		0.122173
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2356.276855
+		76.502144
+		1200.898315
+		//rotation
+		1.483529
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2337.402588
+		74.780212
+		1165.246948
+		//rotation
+		2.286380
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2268.196533
+		73.000000
+		1196.704102
+		//rotation
+		1.780234
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2264.002197
+		72.000000
+		1165.246948
+		//rotation
+		1.343902
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2605.837891
+		75.532974
+		1458.995483
+		//rotation
+		5.480330
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2637.295166
+		74.000000
+		1479.967163
+		//rotation
+		2.705258
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2622.615234
+		74.739532
+		1496.744141
+		//rotation
+		0.523598
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2628.906738
+		75.935066
+		1442.218384
+		//rotation
+		3.385936
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2586.963623
+		74.531952
+		1419.149414
+		//rotation
+		1.954767
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2626.809570
+		75.866501
+		1410.760864
+		//rotation
+		1.989674
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2580.672119
+		75.083710
+		1375.109497
+		//rotation
+		5.166171
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2584.866455
+		74.421379
+		1347.846191
+		//rotation
+		2.740165
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2568.089355
+		76.199554
+		1320.583374
+		//rotation
+		2.548179
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2847.010498
+		83.000000
+		2029.715332
+		//rotation
+		0.837757
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2826.038818
+		82.916901
+		2015.035278
+		//rotation
+		1.850048
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2823.941895
+		83.169304
+		2042.298096
+		//rotation
+		4.049160
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2872.176270
+		82.225906
+		2046.492432
+		//rotation
+		0.820304
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2563.894775
+		80.028801
+		2187.148926
+		//rotation
+		1.431169
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2582.769287
+		79.000000
+		2214.411865
+		//rotation
+		1.727875
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2563.894775
+		79.000000
+		2226.994629
+		//rotation
+		3.577922
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2526.146240
+		79.091698
+		2199.731934
+		//rotation
+		3.700095
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2540.826172
+		79.000000
+		2216.509277
+		//rotation
+		4.869465
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2503.077393
+		79.000000
+		2208.120361
+		//rotation
+		2.932151
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2498.883301
+		79.000000
+		2176.663086
+		//rotation
+		1.832594
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2549.214844
+		79.202469
+		2424.127197
+		//rotation
+		2.827431
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2570.186523
+		79.614914
+		2449.293213
+		//rotation
+		1.727875
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2656.169434
+		78.395241
+		2451.390137
+		//rotation
+		1.675515
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2677.141113
+		79.463524
+		2478.652832
+		//rotation
+		2.426006
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2675.043945
+		81.587952
+		2432.515625
+		//rotation
+		2.583085
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2051.968750
+		79.685005
+		2539.618408
+		//rotation
+		1.396262
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2056.163086
+		79.492004
+		2562.687012
+		//rotation
+		0.994837
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2020.511475
+		81.000000
+		2579.463867
+		//rotation
+		4.101521
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2026.802856
+		81.000000
+		2552.201172
+		//rotation
+		6.073741
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2033.094360
+		79.653145
+		2596.241455
+		//rotation
+		6.195914
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1999.539917
+		80.963188
+		2604.629883
+		//rotation
+		1.308996
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1995.345703
+		81.000000
+		2575.269775
+		//rotation
+		3.857175
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1972.276855
+		79.965149
+		2600.435547
+		//rotation
+		0.959930
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1982.762695
+		80.636230
+		2592.047119
+		//rotation
+		0.767944
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1955.499634
+		80.000000
+		2589.949707
+		//rotation
+		2.652898
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1594.715820
+		68.616333
+		2629.795898
+		//rotation
+		2.705258
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1594.715820
+		68.000000
+		2659.155762
+		//rotation
+		2.757618
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1621.979004
+		67.241684
+		2640.281250
+		//rotation
+		4.991638
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1628.270386
+		68.367981
+		2604.629883
+		//rotation
+		5.462876
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1653.436035
+		67.636230
+		2592.047119
+		//rotation
+		3.665189
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1670.213379
+		66.126282
+		2610.921387
+		//rotation
+		5.061451
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1636.658813
+		67.900238
+		2661.252930
+		//rotation
+		0.610865
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1573.744385
+		68.000000
+		2644.475586
+		//rotation
+		3.543016
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1424.772827
+		72.018173
+		2694.807373
+		//rotation
+		3.438296
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1445.744385
+		71.340454
+		2713.681885
+		//rotation
+		4.817105
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1435.258667
+		72.179306
+		2732.556152
+		//rotation
+		3.001964
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1382.829834
+		71.395508
+		2732.556152
+		//rotation
+		0.977384
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1395.412720
+		72.000000
+		2690.613281
+		//rotation
+		1.256636
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1407.995728
+		72.898834
+		2726.264648
+		//rotation
+		5.393063
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1435.258667
+		71.770523
+		2707.390137
+		//rotation
+		1.954767
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1353.469727
+		71.635941
+		2686.418945
+		//rotation
+		5.445423
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1364.873535
+		71.670166
+		2695.876953
+		//rotation
+		1.535889
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1372.344116
+		71.423462
+		2705.293213
+		//rotation
+		1.413716
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1187.647339
+		70.000000
+		2575.269775
+		//rotation
+		4.660026
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1214.910278
+		70.295555
+		2556.395264
+		//rotation
+		5.619956
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1214.910278
+		70.363770
+		2592.047119
+		//rotation
+		2.827431
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1244.270386
+		70.727539
+		2592.047119
+		//rotation
+		5.619956
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1263.144775
+		72.318810
+		2604.629883
+		//rotation
+		1.256636
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1302.990601
+		72.000000
+		2661.252930
+		//rotation
+		5.410516
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1330.253662
+		71.822113
+		2678.030029
+		//rotation
+		4.782198
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1323.962158
+		130.862930
+		2422.104004
+		//rotation
+		1.291543
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1328.156494
+		132.406891
+		2461.949463
+		//rotation
+		3.543016
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1305.087891
+		132.749115
+		2447.269775
+		//rotation
+		1.483529
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1288.310669
+		135.703491
+		2422.104004
+		//rotation
+		1.343902
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1584.009033
+		127.000000
+		2084.388672
+		//rotation
+		1.274089
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1554.648926
+		127.000000
+		2078.097168
+		//rotation
+		1.535889
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1569.328979
+		127.559753
+		2101.165771
+		//rotation
+		4.380773
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1607.077759
+		128.566223
+		2117.942871
+		//rotation
+		3.211403
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1598.689087
+		127.000000
+		2073.902832
+		//rotation
+		1.535889
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1575.620483
+		127.000000
+		2057.125488
+		//rotation
+		3.630282
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1697.255371
+		127.000000
+		1734.164063
+		//rotation
+		5.916662
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1630.146362
+		127.000000
+		1732.067139
+		//rotation
+		3.385936
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1659.506470
+		127.000000
+		1713.192749
+		//rotation
+		0.069813
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1659.506470
+		127.000000
+		1750.941406
+		//rotation
+		4.276053
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1590.300415
+		127.000000
+		1755.135742
+		//rotation
+		1.867501
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1607.077759
+		127.000000
+		1715.289673
+		//rotation
+		2.216566
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1806.307251
+		140.973846
+		1089.749512
+		//rotation
+		4.450586
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1825.181641
+		138.985962
+		1119.109741
+		//rotation
+		3.961894
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1844.055908
+		140.396179
+		1125.400879
+		//rotation
+		2.687805
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1848.250244
+		149.830109
+		1083.458008
+		//rotation
+		0.680678
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1793.724243
+		141.477142
+		1075.069458
+		//rotation
+		5.235984
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1776.947021
+		145.684570
+		1045.709229
+		//rotation
+		6.038835
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1785.335571
+		136.316711
+		1096.041138
+		//rotation
+		2.932151
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1747.586792
+		138.344360
+		1054.097778
+		//rotation
+		2.617992
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1755.975586
+		146.697784
+		1028.932129
+		//rotation
+		3.385936
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		732.417847
+		127.000000
+		1133.789795
+		//rotation
+		4.904371
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		757.583679
+		127.000000
+		1150.566895
+		//rotation
+		5.811942
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		749.195068
+		127.000000
+		1117.012451
+		//rotation
+		2.321286
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		728.223572
+		127.000000
+		1112.818115
+		//rotation
+		3.263763
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		715.640625
+		129.680664
+		1098.138062
+		//rotation
+		2.617992
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		694.669128
+		127.367615
+		1129.595215
+		//rotation
+		5.235984
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1342.689087
+		128.415131
+		1952.120605
+		//rotation
+		1.710421
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1340.591919
+		128.000000
+		1918.566162
+		//rotation
+		5.113811
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1388.826416
+		128.063538
+		1952.120605
+		//rotation
+		3.822268
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1384.632080
+		127.229439
+		1918.566162
+		//rotation
+		1.553342
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1413.992188
+		127.847382
+		1973.092285
+		//rotation
+		4.520399
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1424.478027
+		127.000000
+		1947.926270
+		//rotation
+		1.535889
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		654.823242
+		72.267303
+		3290.841309
+		//rotation
+		1.588248
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		650.628967
+		70.702278
+		3253.092529
+		//rotation
+		3.926988
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		617.074463
+		70.000000
+		3290.841309
+		//rotation
+		2.809978
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		621.268799
+		73.604820
+		3324.395752
+		//rotation
+		0.296706
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		629.657410
+		72.000000
+		3248.898438
+		//rotation
+		0.925024
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1333.100708
+		70.097733
+		3263.721680
+		//rotation
+		3.368483
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1371.755371
+		71.259575
+		3284.337646
+		//rotation
+		2.129300
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1355.271973
+		72.260666
+		3278.258301
+		//rotation
+		1.919861
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1317.523315
+		69.598137
+		3246.801270
+		//rotation
+		0.122173
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1309.048828
+		70.411758
+		3251.695801
+		//rotation
+		2.967057
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1296.551758
+		71.551720
+		3244.704102
+		//rotation
+		1.937314
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1294.454590
+		71.443634
+		3215.343750
+		//rotation
+		3.961894
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1361.563477
+		70.000000
+		3460.710693
+		//rotation
+		4.886918
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1384.632080
+		71.770561
+		3469.099121
+		//rotation
+		0.331612
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1382.535034
+		70.602798
+		3431.350586
+		//rotation
+		1.099557
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1359.466309
+		70.337433
+		3408.281982
+		//rotation
+		6.091194
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1386.729248
+		71.352600
+		3397.796143
+		//rotation
+		2.775071
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1357.369141
+		70.000000
+		3429.253418
+		//rotation
+		5.585049
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1080.545166
+		67.941628
+		3706.225098
+		//rotation
+		2.286380
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1116.196655
+		68.495346
+		3718.808105
+		//rotation
+		5.532690
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1105.710938
+		68.517899
+		3743.973633
+		//rotation
+		5.427970
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1126.682495
+		68.663116
+		3716.710938
+		//rotation
+		3.228857
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1059.573608
+		71.021210
+		3750.265137
+		//rotation
+		3.298670
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1080.545166
+		70.556389
+		3775.431152
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		883.412842
+		71.516388
+		4037.796143
+		//rotation
+		3.473202
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		893.898560
+		71.000000
+		4075.544922
+		//rotation
+		4.433133
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		906.481445
+		70.518517
+		4058.767578
+		//rotation
+		5.777035
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1011.412842
+		73.000000
+		4392.362305
+		//rotation
+		1.186823
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1149.824829
+		80.014015
+		4572.717285
+		//rotation
+		3.857175
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1107.881836
+		78.000000
+		4543.357422
+		//rotation
+		3.508109
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1130.950439
+		78.705811
+		4528.677246
+		//rotation
+		4.886918
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1135.144775
+		80.481842
+		4568.522949
+		//rotation
+		0.785398
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1154.019165
+		79.678467
+		4604.174805
+		//rotation
+		2.024580
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1177.087769
+		78.343750
+		4583.203125
+		//rotation
+		3.281216
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1275.653931
+		78.000000
+		4780.556641
+		//rotation
+		0.628318
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1298.722656
+		78.000000
+		4784.750977
+		//rotation
+		5.043998
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1300.819824
+		78.568741
+		4755.390625
+		//rotation
+		1.780234
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1281.945435
+		78.006470
+		4767.973633
+		//rotation
+		0.244346
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1472.786255
+		83.222649
+		4799.430664
+		//rotation
+		4.084067
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1504.243530
+		84.773438
+		4772.167969
+		//rotation
+		3.071777
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1470.689087
+		83.941208
+		4774.265137
+		//rotation
+		3.263763
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1548.283691
+		80.000000
+		4814.110840
+		//rotation
+		4.886918
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1583.935303
+		79.000000
+		4812.013672
+		//rotation
+		1.169370
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1588.129639
+		79.766968
+		4791.042480
+		//rotation
+		5.026544
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1749.610352
+		80.000000
+		4778.459473
+		//rotation
+		4.904371
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1745.416016
+		79.095703
+		4751.196289
+		//rotation
+		0.628318
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1783.164795
+		80.718613
+		4761.682129
+		//rotation
+		5.201077
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1734.930176
+		80.000000
+		4767.973633
+		//rotation
+		4.468040
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2039.238403
+		82.100166
+		4812.013672
+		//rotation
+		0.383972
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2043.432861
+		82.435722
+		4812.013672
+		//rotation
+		5.585049
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1997.295410
+		83.216370
+		4797.333496
+		//rotation
+		3.333576
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2009.878296
+		82.209740
+		4767.973633
+		//rotation
+		3.560469
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2068.598633
+		84.000000
+		4820.402344
+		//rotation
+		4.694932
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2211.204834
+		79.722557
+		4795.236816
+		//rotation
+		1.378809
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2213.302002
+		80.128311
+		4814.110840
+		//rotation
+		5.445423
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2225.885010
+		76.095703
+		4751.196289
+		//rotation
+		1.256636
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2242.662354
+		74.508339
+		4736.516602
+		//rotation
+		4.153881
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2448.183105
+		77.000000
+		4616.978516
+		//rotation
+		0.994837
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2477.543213
+		74.592751
+		4640.047363
+		//rotation
+		3.717548
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2492.223145
+		76.767159
+		4610.687500
+		//rotation
+		2.949604
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2605.690674
+		75.869171
+		4501.635254
+		//rotation
+		5.462876
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2549.067383
+		77.385742
+		4470.178223
+		//rotation
+		0.366519
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2597.301758
+		72.431725
+		4438.720703
+		//rotation
+		3.525562
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2601.496338
+		72.025002
+		4384.194824
+		//rotation
+		6.143554
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2582.622070
+		74.000000
+		4377.903320
+		//rotation
+		6.056288
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2416.946777
+		76.333710
+		4254.171387
+		//rotation
+		3.979347
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2400.169678
+		76.013573
+		4296.114258
+		//rotation
+		3.124137
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2444.209961
+		75.243874
+		4283.531738
+		//rotation
+		1.535889
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2454.695801
+		76.330734
+		4258.365723
+		//rotation
+		3.804815
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2276.437744
+		70.884987
+		3763.216797
+		//rotation
+		1.797688
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2238.688965
+		72.000000
+		3796.771240
+		//rotation
+		4.380773
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2282.729248
+		71.381660
+		3792.576904
+		//rotation
+		3.525562
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2265.951904
+		71.723854
+		3752.730957
+		//rotation
+		5.550143
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2272.243408
+		71.220528
+		3731.759521
+		//rotation
+		5.218530
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1980.739258
+		76.008575
+		3662.553467
+		//rotation
+		5.951568
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2008.002319
+		74.463425
+		3635.290527
+		//rotation
+		1.500982
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2012.196533
+		76.000000
+		3666.747559
+		//rotation
+		2.391099
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1963.962036
+		74.995270
+		3649.970459
+		//rotation
+		1.047197
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1821.355591
+		70.291557
+		3624.804688
+		//rotation
+		0.383972
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1789.898438
+		70.191872
+		3647.873291
+		//rotation
+		4.834558
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1773.121216
+		70.000000
+		3660.456299
+		//rotation
+		3.071777
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1875.881592
+		70.662094
+		3645.776123
+		//rotation
+		1.256636
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2339.352295
+		75.889084
+		3312.034180
+		//rotation
+		3.263763
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2289.020508
+		76.553848
+		3280.576904
+		//rotation
+		4.276053
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2335.157959
+		77.050522
+		3286.868408
+		//rotation
+		6.178461
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2368.712402
+		74.379143
+		3301.548340
+		//rotation
+		0.663225
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2345.643555
+		78.529633
+		3339.297363
+		//rotation
+		5.707222
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2299.506348
+		74.790497
+		3314.131348
+		//rotation
+		1.762781
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2284.826172
+		71.492584
+		3368.657227
+		//rotation
+		0.715584
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2293.215088
+		72.000000
+		3412.697510
+		//rotation
+		4.590212
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2314.186523
+		73.924057
+		3374.948975
+		//rotation
+		1.535889
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2307.895020
+		82.105560
+		3427.377441
+		//rotation
+		3.665189
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1840.156372
+		71.212509
+		3305.521484
+		//rotation
+		3.176497
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1827.573364
+		71.000000
+		3330.687256
+		//rotation
+		0.052360
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1846.447754
+		71.715820
+		3355.853027
+		//rotation
+		5.916662
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1819.184814
+		71.280594
+		3316.007324
+		//rotation
+		0.296706
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2918.460938
+		84.519897
+		3265.749268
+		//rotation
+		0.034907
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2949.918457
+		82.993469
+		3320.275391
+		//rotation
+		0.959930
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2991.861328
+		83.454269
+		3318.178223
+		//rotation
+		4.817105
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2956.209717
+		81.776436
+		3290.915039
+		//rotation
+		4.834558
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2916.364014
+		83.117950
+		3316.080811
+		//rotation
+		3.944441
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2991.861328
+		84.038422
+		3368.509766
+		//rotation
+		3.455749
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4206.182617
+		72.000000
+		2479.841309
+		//rotation
+		2.146753
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4229.120117
+		71.000000
+		2515.885986
+		//rotation
+		4.799652
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4248.780762
+		72.000000
+		2470.010742
+		//rotation
+		1.012290
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4252.057617
+		72.164604
+		2528.993164
+		//rotation
+		1.064650
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4402.790527
+		75.434662
+		2027.642822
+		//rotation
+		3.682642
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4353.638672
+		75.425018
+		2017.812378
+		//rotation
+		4.398226
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4383.129395
+		75.458588
+		1981.767700
+		//rotation
+		0.802851
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4343.808105
+		75.691833
+		1985.044067
+		//rotation
+		1.867501
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3631.874756
+		68.000000
+		5745.688477
+		//rotation
+		3.019417
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3680.109131
+		68.591278
+		5726.814453
+		//rotation
+		0.349066
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3678.012207
+		69.000000
+		5758.271484
+		//rotation
+		4.694932
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3602.514648
+		72.245552
+		5559.041992
+		//rotation
+		3.368483
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3598.320313
+		74.134384
+		5588.402344
+		//rotation
+		5.951568
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4724.490723
+		76.000000
+		5645.025391
+		//rotation
+		6.161007
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4760.142578
+		78.000000
+		5668.093750
+		//rotation
+		5.986475
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4751.753906
+		75.151764
+		5739.396973
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4699.325195
+		75.970749
+		5712.134277
+		//rotation
+		5.218530
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4680.450684
+		80.563957
+		5756.174316
+		//rotation
+		3.438296
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4709.810547
+		78.987892
+		5756.174316
+		//rotation
+		4.049160
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4680.450684
+		80.000000
+		5804.408691
+		//rotation
+		0.261799
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4428.792480
+		73.522064
+		5093.474121
+		//rotation
+		5.934115
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4466.541504
+		74.708679
+		5074.600098
+		//rotation
+		0.261799
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4441.375488
+		73.794601
+		5106.057129
+		//rotation
+		3.438296
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4353.294922
+		68.912971
+		5286.412109
+		//rotation
+		1.483529
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4351.197754
+		68.000000
+		5370.298340
+		//rotation
+		1.989674
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4330.226074
+		67.581924
+		5414.338379
+		//rotation
+		5.567596
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4359.586426
+		67.766907
+		5414.338379
+		//rotation
+		4.031707
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3747.218018
+		66.148460
+		5275.926270
+		//rotation
+		1.658062
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3709.469238
+		67.596954
+		5267.538086
+		//rotation
+		0.575958
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3724.149414
+		66.415939
+		5294.800781
+		//rotation
+		3.368483
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3772.383789
+		64.000000
+		5319.966797
+		//rotation
+		4.153881
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3763.995361
+		63.880379
+		5298.995117
+		//rotation
+		3.944441
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4418.306641
+		75.423126
+		5072.355469
+		//rotation
+		0.052360
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3962.679688
+		82.028732
+		4923.407227
+		//rotation
+		3.560469
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3977.904785
+		81.367813
+		4967.497559
+		//rotation
+		4.869465
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4949.254395
+		127.000000
+		5353.373535
+		//rotation
+		2.321286
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4970.226074
+		127.000000
+		5311.430664
+		//rotation
+		3.700095
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4993.294922
+		127.000000
+		5275.779297
+		//rotation
+		2.809978
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5494.587891
+		129.370758
+		5160.435547
+		//rotation
+		0.034907
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5469.421875
+		127.000000
+		5133.172852
+		//rotation
+		2.059487
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5440.061523
+		127.000000
+		5103.812500
+		//rotation
+		4.398226
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5463.130371
+		127.000000
+		5055.578125
+		//rotation
+		1.186823
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5513.461914
+		127.000000
+		5072.355469
+		//rotation
+		3.385936
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5538.627930
+		129.629929
+		5122.687012
+		//rotation
+		3.595376
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5735.833984
+		127.000000
+		5185.601563
+		//rotation
+		6.143554
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5777.776855
+		127.000000
+		5214.961426
+		//rotation
+		5.637409
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5729.541992
+		127.000000
+		5143.658691
+		//rotation
+		0.977384
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5687.599121
+		127.017265
+		5124.784180
+		//rotation
+		1.989674
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5456.912598
+		66.000000
+		4873.125977
+		//rotation
+		3.647735
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5450.621094
+		67.765144
+		4933.943359
+		//rotation
+		2.024580
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5423.358398
+		68.525352
+		4961.206055
+		//rotation
+		3.647735
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5096.202637
+		75.000000
+		4957.012207
+		//rotation
+		5.183624
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5039.579590
+		77.914993
+		4996.857910
+		//rotation
+		1.291543
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5121.368164
+		73.399231
+		4944.429199
+		//rotation
+		4.991638
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5110.882813
+		72.173767
+		4925.554688
+		//rotation
+		6.178461
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5230.420410
+		84.122025
+		4283.604980
+		//rotation
+		4.153881
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5232.517090
+		83.449440
+		4214.398926
+		//rotation
+		1.326449
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5333.180664
+		77.520287
+		4369.588379
+		//rotation
+		2.548179
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5310.111816
+		79.567398
+		4338.130859
+		//rotation
+		0.890117
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5364.637695
+		74.000000
+		4392.656738
+		//rotation
+		5.043998
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5381.415039
+		76.486809
+		4436.697266
+		//rotation
+		2.460912
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5716.959473
+		72.069534
+		4382.171387
+		//rotation
+		5.532690
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5750.513672
+		72.958916
+		4403.142578
+		//rotation
+		4.799652
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5763.096680
+		73.000000
+		4426.211426
+		//rotation
+		4.677479
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5572.255859
+		69.286530
+		4153.581543
+		//rotation
+		3.717548
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5603.713379
+		70.702942
+		4193.427246
+		//rotation
+		2.862338
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5370.929199
+		78.325676
+		3928.891602
+		//rotation
+		5.794488
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5381.415039
+		76.329994
+		3951.960205
+		//rotation
+		6.003928
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5832.523926
+		74.165596
+		2967.953613
+		//rotation
+		0.628318
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5822.038086
+		71.810188
+		2999.410645
+		//rotation
+		3.787362
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5863.980957
+		76.000000
+		2978.439453
+		//rotation
+		1.675515
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5849.300781
+		76.000000
+		2911.330322
+		//rotation
+		2.373646
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5786.386230
+		76.639160
+		2720.489502
+		//rotation
+		0.104720
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5727.666016
+		75.000000
+		2703.712402
+		//rotation
+		3.455749
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5700.402832
+		73.967781
+		2642.895020
+		//rotation
+		5.375610
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5618.614258
+		73.489128
+		2592.563232
+		//rotation
+		1.500982
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4773.093750
+		83.732498
+		2055.249756
+		//rotation
+		5.602502
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4760.511230
+		85.000000
+		2076.221191
+		//rotation
+		5.986475
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4733.247559
+		86.000000
+		2107.678711
+		//rotation
+		4.799652
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4758.413574
+		86.000000
+		2111.872803
+		//rotation
+		4.572759
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4764.705078
+		81.005714
+		2214.633301
+		//rotation
+		0.994837
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4743.733398
+		79.000000
+		2229.313232
+		//rotation
+		3.577922
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4743.733398
+		79.997101
+		2212.535889
+		//rotation
+		5.410516
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4798.259766
+		84.744308
+		2250.284668
+		//rotation
+		0.837757
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4821.328125
+		85.299500
+		2271.256348
+		//rotation
+		0.593412
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4211.057129
+		72.000000
+		2499.845947
+		//rotation
+		5.864302
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4190.085449
+		72.793175
+		2497.748535
+		//rotation
+		5.916662
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4229.931152
+		71.354523
+		2483.068359
+		//rotation
+		3.647735
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4234.125977
+		71.000000
+		2541.788818
+		//rotation
+		6.248274
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4116.685059
+		75.988411
+		2504.040039
+		//rotation
+		1.047197
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4078.936279
+		76.302567
+		2499.845947
+		//rotation
+		5.375610
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4045.381836
+		75.000000
+		2512.428711
+		//rotation
+		1.466075
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4028.604980
+		74.831268
+		2527.108887
+		//rotation
+		5.829395
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4452.229492
+		81.267616
+		2048.884277
+		//rotation
+		1.937314
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4460.618164
+		78.901550
+		2088.730225
+		//rotation
+		4.084067
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4473.201172
+		80.152039
+		2074.050049
+		//rotation
+		0.767944
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4441.743652
+		79.678970
+		2063.564209
+		//rotation
+		4.852012
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5551.357910
+		79.000000
+		1354.211426
+		//rotation
+		1.710421
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5599.592773
+		80.000000
+		1303.879883
+		//rotation
+		2.251473
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5620.563965
+		79.000000
+		1318.560059
+		//rotation
+		1.221730
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5589.106934
+		79.000000
+		1350.017212
+		//rotation
+		0.506145
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		5570.232422
+		80.000000
+		1308.074219
+		//rotation
+		4.310960
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4930.601074
+		82.000000
+		882.352051
+		//rotation
+		3.438296
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4928.503906
+		82.280304
+		850.894897
+		//rotation
+		0.366519
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4972.543945
+		85.000000
+		857.186523
+		//rotation
+		3.944441
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4951.572266
+		82.873146
+		878.157837
+		//rotation
+		5.340703
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4739.760254
+		81.000000
+		995.598633
+		//rotation
+		0.506145
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4683.137207
+		84.650970
+		970.432678
+		//rotation
+		5.550143
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4609.736816
+		79.000000
+		943.169800
+		//rotation
+		4.293507
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4563.599609
+		81.912041
+		934.780884
+		//rotation
+		0.034907
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4477.616211
+		80.604889
+		1310.171143
+		//rotation
+		3.473202
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4492.296387
+		83.000000
+		1280.810913
+		//rotation
+		6.091194
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4454.547363
+		83.093185
+		1228.382446
+		//rotation
+		1.623155
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4393.729980
+		82.654762
+		1199.022339
+		//rotation
+		0.872664
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4420.993164
+		79.796082
+		1236.770996
+		//rotation
+		2.321286
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4441.964844
+		79.199524
+		1285.005615
+		//rotation
+		1.239183
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3836.952881
+		77.956223
+		957.629028
+		//rotation
+		2.617992
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3889.381348
+		80.120270
+		976.503357
+		//rotation
+		2.984511
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3880.992920
+		78.771454
+		947.143188
+		//rotation
+		2.076940
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3857.924316
+		79.586456
+		974.406067
+		//rotation
+		1.850048
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3243.458984
+		78.608337
+		1314.144897
+		//rotation
+		2.617992
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3281.207764
+		78.286102
+		1291.075928
+		//rotation
+		1.064650
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3293.790527
+		79.000000
+		1309.950195
+		//rotation
+		3.508109
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3455.271240
+		78.076477
+		1358.184814
+		//rotation
+		5.759582
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3482.533936
+		79.794586
+		1406.419434
+		//rotation
+		2.775071
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3505.602539
+		77.551804
+		1414.807861
+		//rotation
+		4.834558
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3459.465332
+		80.808716
+		1427.391113
+		//rotation
+		3.036870
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3031.646240
+		69.468307
+		1165.246948
+		//rotation
+		2.460912
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3008.577637
+		70.313797
+		1135.886719
+		//rotation
+		1.099557
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3023.257813
+		69.139381
+		1125.400879
+		//rotation
+		4.206240
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2991.800537
+		71.000000
+		1066.680908
+		//rotation
+		0.767944
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2998.092041
+		72.348015
+		1010.057861
+		//rotation
+		1.553342
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3025.354980
+		71.106995
+		951.337402
+		//rotation
+		1.082103
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3277.013428
+		79.322136
+		838.091309
+		//rotation
+		3.944441
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3258.138672
+		76.268341
+		871.645752
+		//rotation
+		4.642572
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3182.641357
+		77.215088
+		840.188232
+		//rotation
+		1.884954
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3222.487305
+		75.630432
+		817.119629
+		//rotation
+		1.675515
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3161.669922
+		79.833000
+		873.742676
+		//rotation
+		3.089230
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2773.696777
+		74.038803
+		624.181763
+		//rotation
+		5.148717
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2767.405273
+		74.367798
+		682.902161
+		//rotation
+		3.420843
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2773.696777
+		71.895737
+		722.747803
+		//rotation
+		6.091194
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2578.661621
+		73.292923
+		945.045837
+		//rotation
+		5.393063
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2601.730469
+		72.861565
+		989.086182
+		//rotation
+		5.672316
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2631.090332
+		70.512779
+		1007.960510
+		//rotation
+		3.368483
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2633.187500
+		71.345001
+		951.337402
+		//rotation
+		0.785398
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2276.671875
+		66.000000
+		672.416321
+		//rotation
+		0.907570
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2310.226074
+		66.818085
+		724.845093
+		//rotation
+		3.473202
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2343.780518
+		68.998253
+		756.302246
+		//rotation
+		2.792525
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2228.142090
+		71.748634
+		1150.566895
+		//rotation
+		4.171334
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2270.085205
+		73.000000
+		1188.315552
+		//rotation
+		5.166171
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2322.513672
+		73.270294
+		1184.121338
+		//rotation
+		4.852012
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2614.018066
+		74.634987
+		1406.419434
+		//rotation
+		3.508109
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2605.629395
+		75.549652
+		1492.402588
+		//rotation
+		5.497783
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2632.892334
+		74.788818
+		1465.139771
+		//rotation
+		5.934115
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1777.254272
+		76.784912
+		840.188232
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1888.403320
+		136.238159
+		1154.761108
+		//rotation
+		2.565632
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1861.140381
+		138.736191
+		1137.984131
+		//rotation
+		5.846848
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2291.056641
+		139.786072
+		1448.362305
+		//rotation
+		6.265727
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2337.193848
+		131.326721
+		1490.305298
+		//rotation
+		5.707222
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2326.708252
+		128.000000
+		1517.568604
+		//rotation
+		2.338739
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2351.874023
+		128.897568
+		1534.345581
+		//rotation
+		1.117010
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2307.833984
+		131.576660
+		1475.625610
+		//rotation
+		2.792525
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2874.064941
+		79.588875
+		2006.425903
+		//rotation
+		3.874628
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2848.899170
+		82.123871
+		2060.951660
+		//rotation
+		4.066614
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2576.269287
+		79.000000
+		2203.557861
+		//rotation
+		4.206240
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2603.532227
+		81.534142
+		2237.112305
+		//rotation
+		1.308996
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2467.217529
+		79.000000
+		2207.752197
+		//rotation
+		1.762781
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2632.892334
+		79.737236
+		2461.507813
+		//rotation
+		4.694932
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2689.515381
+		80.424011
+		2478.284912
+		//rotation
+		6.143554
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2693.709717
+		80.576149
+		2461.507813
+		//rotation
+		1.291543
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2605.629395
+		82.549652
+		2463.604736
+		//rotation
+		3.525562
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2502.868896
+		80.688736
+		2451.021973
+		//rotation
+		2.268926
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2039.398438
+		79.848129
+		2576.850830
+		//rotation
+		0.959930
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1976.483765
+		80.118698
+		2604.114258
+		//rotation
+		0.977384
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1945.026611
+		77.489838
+		2631.376953
+		//rotation
+		4.537852
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2022.621094
+		79.693428
+		2606.211182
+		//rotation
+		3.490656
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2068.758301
+		78.466377
+		2549.587891
+		//rotation
+		1.117010
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1315.364990
+		79.555962
+		4727.685547
+		//rotation
+		0.034907
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1355.210938
+		77.864960
+		4733.977051
+		//rotation
+		4.921824
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1371.988159
+		79.000000
+		4696.228027
+		//rotation
+		2.670352
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1323.753662
+		79.000000
+		4736.074219
+		//rotation
+		6.230821
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1340.530762
+		77.000000
+		4761.240234
+		//rotation
+		0.959930
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1575.411743
+		78.718170
+		4733.977051
+		//rotation
+		2.530725
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1602.674805
+		79.000000
+		4729.782715
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1587.994751
+		79.456017
+		4794.794434
+		//rotation
+		5.986475
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1753.669678
+		80.000000
+		4761.240234
+		//rotation
+		2.530725
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1736.892456
+		79.347252
+		4754.948242
+		//rotation
+		6.265727
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1722.212402
+		79.000000
+		4746.560059
+		//rotation
+		2.495819
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1034.346558
+		76.744698
+		4398.432617
+		//rotation
+		0.925024
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1030.152344
+		77.534042
+		4364.878418
+		//rotation
+		3.281216
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		963.043518
+		71.699211
+		3983.196533
+		//rotation
+		0.226893
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		984.015015
+		72.326828
+		3991.585205
+		//rotation
+		2.757618
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		939.974792
+		70.655731
+		3983.196533
+		//rotation
+		1.675515
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		889.643066
+		70.366608
+		4067.082520
+		//rotation
+		4.171334
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1061.609619
+		72.071236
+		3769.287109
+		//rotation
+		1.623155
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1111.941284
+		72.061134
+		3788.161377
+		//rotation
+		5.689769
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1095.164063
+		71.666039
+		3788.161377
+		//rotation
+		3.979347
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1080.484009
+		69.762070
+		3752.509766
+		//rotation
+		0.575958
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2426.855469
+		72.148430
+		4207.591797
+		//rotation
+		6.161007
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2466.701416
+		77.336105
+		4230.660645
+		//rotation
+		3.211403
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2470.895752
+		75.768478
+		4197.105957
+		//rotation
+		6.178461
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		2452.021484
+		74.384903
+		4174.037598
+		//rotation
+		0.383972
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1647.502319
+		67.000000
+		2614.272705
+		//rotation
+		2.007127
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1668.977173
+		66.172638
+		2627.157715
+		//rotation
+		1.989674
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1690.452026
+		67.000000
+		2634.029297
+		//rotation
+		2.164207
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1656.092285
+		67.000000
+		2649.491455
+		//rotation
+		4.537852
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1401.830078
+		73.000000
+		2709.621094
+		//rotation
+		0.401425
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1385.509155
+		71.840729
+		2719.928711
+		//rotation
+		3.438296
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1245.483398
+		69.361328
+		2564.451172
+		//rotation
+		2.932151
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1255.791260
+		69.393036
+		2579.912842
+		//rotation
+		4.537852
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1224.867554
+		70.916084
+		2538.681396
+		//rotation
+		2.094393
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1200.815674
+		72.608330
+		2539.540039
+		//rotation
+		3.333576
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1187.071777
+		71.324951
+		2558.437988
+		//rotation
+		5.270890
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1201.674683
+		70.000000
+		2582.489746
+		//rotation
+		5.462876
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1362.306519
+		70.000000
+		3443.251465
+		//rotation
+		3.351030
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1394.089233
+		72.527138
+		3447.546387
+		//rotation
+		5.270890
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1258.368286
+		64.162033
+		3518.842773
+		//rotation
+		4.904371
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1272.971191
+		64.837692
+		3530.009766
+		//rotation
+		3.874628
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1254.932251
+		63.394577
+		3543.753662
+		//rotation
+		3.246310
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1266.099121
+		64.763336
+		3552.343506
+		//rotation
+		4.555306
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1227.444458
+		62.000000
+		3532.586670
+		//rotation
+		2.809978
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1242.906372
+		64.405701
+		3511.970947
+		//rotation
+		3.612829
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1238.611450
+		62.088913
+		3539.458740
+		//rotation
+		1.396262
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1201.674683
+		65.055771
+		3507.676025
+		//rotation
+		5.427970
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1219.713623
+		62.286423
+		3521.419678
+		//rotation
+		2.426006
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1195.661743
+		63.347061
+		3530.009766
+		//rotation
+		4.607666
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1351.139526
+		71.463776
+		3267.157715
+		//rotation
+		5.183624
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1358.870483
+		71.709633
+		3243.964844
+		//rotation
+		4.694932
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1349.421631
+		70.907455
+		3221.631104
+		//rotation
+		1.169370
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1375.191406
+		71.726883
+		3253.413818
+		//rotation
+		2.600538
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1299.599976
+		71.032005
+		3206.169189
+		//rotation
+		4.415679
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1302.177002
+		70.651688
+		3225.926025
+		//rotation
+		3.159044
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1046.177002
+		71.752090
+		3759.401123
+		//rotation
+		1.099557
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1097.716675
+		68.866554
+		3716.451416
+		//rotation
+		2.129300
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1099.434570
+		68.045235
+		3734.490479
+		//rotation
+		1.867501
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1134.653320
+		68.772263
+		3731.054199
+		//rotation
+		4.398226
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		949.110718
+		72.579628
+		3995.634521
+		//rotation
+		3.874628
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		983.470459
+		73.000000
+		4003.365234
+		//rotation
+		2.024580
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		996.355347
+		72.000000
+		4022.263184
+		//rotation
+		4.223693
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		998.932373
+		72.085411
+		3990.480469
+		//rotation
+		5.515236
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		997.214294
+		70.176865
+		3964.710693
+		//rotation
+		5.864302
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		977.457520
+		70.353729
+		3964.710693
+		//rotation
+		0.401425
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		959.418701
+		73.000000
+		4011.096191
+		//rotation
+		1.797688
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		886.404236
+		70.000000
+		4049.750977
+		//rotation
+		5.183624
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		900.148132
+		70.059242
+		4047.174072
+		//rotation
+		0.558505
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1163.000122
+		79.040009
+		4554.879395
+		//rotation
+		2.967057
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1142.384277
+		79.115479
+		4551.443359
+		//rotation
+		3.909534
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1120.909424
+		79.544121
+		4560.892090
+		//rotation
+		5.026544
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1155.269165
+		79.578468
+		4592.674805
+		//rotation
+		3.612829
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		1016.971191
+		73.000000
+		4372.772461
+		//rotation
+		6.003928
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4040.625000
+		73.365028
+		4953.125000
+		//rotation
+		4.764745
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3962.500000
+		82.011276
+		4881.250000
+		//rotation
+		2.722712
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4056.250000
+		74.261887
+		4975.000000
+		//rotation
+		3.403389
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3990.625000
+		83.488190
+		4896.875000
+		//rotation
+		5.096357
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3596.875000
+		69.859421
+		5753.125000
+		//rotation
+		3.804815
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3634.375000
+		69.546844
+		5709.375000
+		//rotation
+		0.226893
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3609.375000
+		72.207230
+		5634.375000
+		//rotation
+		1.186823
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3609.375000
+		72.315063
+		5590.625000
+		//rotation
+		6.126101
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3625.000000
+		68.429260
+		5762.500000
+		//rotation
+		3.665189
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3631.250000
+		70.476692
+		5562.500000
+		//rotation
+		3.071777
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4706.250000
+		78.000000
+		5825.000000
+		//rotation
+		0.436332
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4712.500000
+		76.114738
+		5725.000000
+		//rotation
+		0.820304
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4743.750000
+		79.372704
+		5562.500000
+		//rotation
+		3.996801
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4693.750000
+		80.832962
+		5512.500000
+		//rotation
+		3.595376
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4362.500000
+		68.000000
+		5387.500000
+		//rotation
+		4.537852
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4368.750000
+		68.000000
+		5262.500000
+		//rotation
+		0.698131
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4450.000000
+		74.632225
+		5075.000000
+		//rotation
+		5.811942
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4684.375000
+		81.000000
+		5784.375000
+		//rotation
+		1.099557
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4740.625000
+		77.208939
+		5653.125000
+		//rotation
+		3.019417
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4740.625000
+		79.283867
+		5603.125000
+		//rotation
+		3.298670
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4715.625000
+		81.640388
+		5528.125000
+		//rotation
+		5.183624
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4371.875000
+		71.111305
+		5421.875000
+		//rotation
+		2.705258
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4453.125000
+		74.000000
+		5103.125000
+		//rotation
+		1.797688
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4484.375000
+		75.000000
+		5046.875000
+		//rotation
+		5.218530
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4965.625000
+		127.000000
+		5353.125000
+		//rotation
+		5.305797
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5034.375000
+		128.000000
+		5346.875000
+		//rotation
+		2.321286
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5009.375000
+		128.967926
+		5284.375000
+		//rotation
+		1.326449
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5043.750000
+		137.224731
+		5293.750000
+		//rotation
+		1.937314
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4925.000000
+		127.000000
+		5362.500000
+		//rotation
+		4.223693
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5006.250000
+		127.947922
+		5337.500000
+		//rotation
+		1.919861
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4981.250000
+		77.297440
+		4943.750000
+		//rotation
+		1.797688
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5062.500000
+		76.457512
+		4981.250000
+		//rotation
+		3.665189
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5162.500000
+		70.333603
+		4950.000000
+		//rotation
+		3.735002
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5525.000000
+		136.359985
+		5156.250000
+		//rotation
+		4.188787
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5600.000000
+		133.957565
+		5181.250000
+		//rotation
+		1.658062
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5662.500000
+		127.112694
+		5175.000000
+		//rotation
+		0.977384
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5543.750000
+		127.170509
+		5100.000000
+		//rotation
+		3.508109
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5431.250000
+		127.000000
+		5062.500000
+		//rotation
+		2.303833
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5493.750000
+		127.000000
+		5056.250000
+		//rotation
+		2.967057
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5468.750000
+		67.011444
+		4900.000000
+		//rotation
+		0.314159
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5431.250000
+		68.000000
+		4937.500000
+		//rotation
+		5.445423
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5578.125000
+		128.739166
+		5134.375000
+		//rotation
+		3.735002
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5478.125000
+		127.000000
+		5109.375000
+		//rotation
+		4.258600
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5440.625000
+		68.000000
+		4940.625000
+		//rotation
+		3.577922
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5453.125000
+		67.000000
+		4903.125000
+		//rotation
+		2.757618
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5103.125000
+		75.000000
+		4953.125000
+		//rotation
+		5.026544
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4990.625000
+		74.064926
+		4978.125000
+		//rotation
+		3.176497
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5365.625000
+		75.934639
+		4415.625000
+		//rotation
+		3.019417
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5359.375000
+		76.453606
+		4353.125000
+		//rotation
+		3.577922
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5309.375000
+		76.268944
+		4365.625000
+		//rotation
+		4.450586
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5340.625000
+		74.493942
+		4390.625000
+		//rotation
+		1.012290
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5253.125000
+		83.108154
+		4309.375000
+		//rotation
+		1.186823
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5265.625000
+		88.165833
+		4271.875000
+		//rotation
+		2.356193
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5215.625000
+		81.369354
+		4246.875000
+		//rotation
+		3.455749
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5375.000000
+		74.591995
+		4393.750000
+		//rotation
+		6.126101
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5287.500000
+		79.422867
+		4318.750000
+		//rotation
+		3.979347
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5237.500000
+		84.805374
+		4262.500000
+		//rotation
+		5.759582
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5581.250000
+		70.964645
+		4168.750000
+		//rotation
+		5.480330
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5537.500000
+		71.640778
+		4118.750000
+		//rotation
+		2.635445
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5700.000000
+		72.762741
+		4343.750000
+		//rotation
+		2.670352
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5718.750000
+		72.254181
+		4393.750000
+		//rotation
+		4.677479
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5775.000000
+		70.969376
+		4450.000000
+		//rotation
+		3.333576
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5406.250000
+		76.838898
+		3950.000000
+		//rotation
+		0.680678
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5790.625000
+		71.263321
+		4440.625000
+		//rotation
+		1.169370
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5746.875000
+		72.108551
+		4384.375000
+		//rotation
+		3.944441
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5671.875000
+		72.000000
+		4353.125000
+		//rotation
+		2.809978
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5571.875000
+		69.000000
+		4134.375000
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5384.375000
+		77.191879
+		3934.375000
+		//rotation
+		3.525562
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5365.625000
+		76.508881
+		3953.125000
+		//rotation
+		4.310960
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5734.375000
+		72.075989
+		2665.625000
+		//rotation
+		1.186823
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5759.375000
+		75.774170
+		2721.875000
+		//rotation
+		5.201077
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5821.875000
+		74.555237
+		2684.375000
+		//rotation
+		4.660026
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5646.875000
+		78.000000
+		2615.625000
+		//rotation
+		1.326449
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5659.375000
+		76.437164
+		2653.125000
+		//rotation
+		1.815141
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5865.625000
+		88.408463
+		2215.625000
+		//rotation
+		4.188787
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5815.625000
+		82.000000
+		2221.875000
+		//rotation
+		2.007127
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5646.875000
+		81.817093
+		1584.375000
+		//rotation
+		2.984511
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5621.875000
+		79.885468
+		1546.875000
+		//rotation
+		3.333576
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5596.875000
+		79.000000
+		1565.625000
+		//rotation
+		3.525562
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5584.375000
+		81.000000
+		1515.625000
+		//rotation
+		6.021381
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5559.375000
+		80.000000
+		1534.375000
+		//rotation
+		1.535889
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5665.625000
+		147.721741
+		1653.125000
+		//rotation
+		5.043998
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5659.375000
+		149.000000
+		1690.625000
+		//rotation
+		1.082103
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		5709.375000
+		148.188187
+		1671.875000
+		//rotation
+		5.026544
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5662.500000
+		149.000000
+		1681.250000
+		//rotation
+		4.084067
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5618.750000
+		145.811401
+		1643.750000
+		//rotation
+		1.605702
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		5718.750000
+		147.000000
+		1656.250000
+		//rotation
+		1.326449
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4762.500000
+		81.578369
+		2193.750000
+		//rotation
+		3.595376
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4750.000000
+		79.548828
+		2218.750000
+		//rotation
+		4.101521
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4825.000000
+		85.606117
+		2250.000000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4737.500000
+		84.880554
+		2137.500000
+		//rotation
+		4.572759
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4743.750000
+		86.000000
+		2100.000000
+		//rotation
+		0.645771
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4787.500000
+		82.796921
+		2068.750000
+		//rotation
+		2.076940
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4737.500000
+		84.904449
+		2081.250000
+		//rotation
+		5.043998
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4771.875000
+		82.172295
+		2234.375000
+		//rotation
+		3.822268
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4721.875000
+		81.929138
+		2184.375000
+		//rotation
+		1.378809
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4778.125000
+		84.869171
+		2034.375000
+		//rotation
+		4.153881
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4759.375000
+		84.738068
+		2071.875000
+		//rotation
+		4.485493
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4459.375000
+		79.948578
+		2071.875000
+		//rotation
+		1.151916
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4415.625000
+		76.538162
+		2040.625000
+		//rotation
+		0.558505
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4334.375000
+		75.000000
+		1996.875000
+		//rotation
+		1.919861
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4359.375000
+		75.000000
+		1971.875000
+		//rotation
+		4.590212
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4437.500000
+		79.671547
+		2037.500000
+		//rotation
+		1.902407
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4368.750000
+		75.069275
+		2012.500000
+		//rotation
+		2.408552
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4325.000000
+		76.624451
+		1962.500000
+		//rotation
+		1.117010
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4381.250000
+		75.130981
+		2018.750000
+		//rotation
+		4.485493
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4256.250000
+		72.985306
+		2500.000000
+		//rotation
+		4.590212
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4318.750000
+		80.169945
+		2437.500000
+		//rotation
+		5.916662
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4193.750000
+		72.371101
+		2506.250000
+		//rotation
+		4.921824
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4106.250000
+		77.570953
+		2518.750000
+		//rotation
+		3.577922
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4018.750000
+		75.399574
+		2525.000000
+		//rotation
+		2.094393
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3503.125000
+		77.922035
+		1371.875000
+		//rotation
+		4.276053
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3496.875000
+		77.902016
+		1409.375000
+		//rotation
+		5.777035
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3459.375000
+		79.463371
+		1365.625000
+		//rotation
+		1.884954
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3440.625000
+		80.762634
+		1409.375000
+		//rotation
+		1.291543
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3481.250000
+		79.448189
+		1375.000000
+		//rotation
+		4.241147
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3437.500000
+		75.713326
+		1350.000000
+		//rotation
+		5.881755
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3518.750000
+		76.000000
+		1393.750000
+		//rotation
+		2.460912
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3259.375000
+		79.000000
+		1315.625000
+		//rotation
+		1.867501
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3259.375000
+		78.530701
+		1290.625000
+		//rotation
+		0.488692
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3303.125000
+		79.550186
+		1290.625000
+		//rotation
+		3.612829
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3065.625000
+		69.193329
+		1196.875000
+		//rotation
+		0.383972
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3040.625000
+		71.442406
+		1221.875000
+		//rotation
+		5.986475
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3009.375000
+		70.000000
+		1103.125000
+		//rotation
+		4.380773
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2990.625000
+		71.000000
+		1040.625000
+		//rotation
+		3.036870
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3028.125000
+		72.000000
+		1028.125000
+		//rotation
+		4.171334
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3003.125000
+		72.623482
+		965.625000
+		//rotation
+		5.305797
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3043.750000
+		69.000000
+		1181.250000
+		//rotation
+		4.555306
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3018.750000
+		69.614891
+		1100.000000
+		//rotation
+		2.705258
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3006.250000
+		71.000000
+		1050.000000
+		//rotation
+		3.228857
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3031.250000
+		71.390106
+		987.500000
+		//rotation
+		3.909534
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3056.250000
+		71.824837
+		943.750000
+		//rotation
+		1.151916
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3175.000000
+		79.916702
+		881.250000
+		//rotation
+		4.956731
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3237.500000
+		75.034660
+		850.000000
+		//rotation
+		5.846848
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3306.250000
+		81.734818
+		850.000000
+		//rotation
+		4.607666
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3856.250000
+		79.000000
+		956.250000
+		//rotation
+		2.775071
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3806.250000
+		75.824699
+		900.000000
+		//rotation
+		2.565632
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3750.000000
+		74.937393
+		850.000000
+		//rotation
+		3.054324
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3700.000000
+		80.777550
+		862.500000
+		//rotation
+		2.199113
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3656.250000
+		82.835052
+		881.250000
+		//rotation
+		1.291543
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2775.000000
+		73.558899
+		687.500000
+		//rotation
+		5.061451
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2787.500000
+		73.402527
+		625.000000
+		//rotation
+		2.146753
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2668.750000
+		70.200775
+		943.750000
+		//rotation
+		0.855211
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2656.250000
+		70.000000
+		987.500000
+		//rotation
+		5.288343
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2612.500000
+		71.926804
+		993.750000
+		//rotation
+		0.907570
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2600.000000
+		73.372559
+		943.750000
+		//rotation
+		3.106684
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2571.875000
+		73.000000
+		934.375000
+		//rotation
+		5.166171
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2653.125000
+		70.000000
+		1009.375000
+		//rotation
+		5.131264
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2703.125000
+		70.374641
+		953.125000
+		//rotation
+		5.602502
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2596.875000
+		75.215294
+		1434.375000
+		//rotation
+		1.326449
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2609.375000
+		74.926804
+		1478.125000
+		//rotation
+		5.707222
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2596.875000
+		73.000000
+		1390.625000
+		//rotation
+		1.169370
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2628.125000
+		70.666687
+		1353.125000
+		//rotation
+		0.244346
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2590.625000
+		73.289581
+		1321.875000
+		//rotation
+		2.443459
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2628.125000
+		75.823044
+		1446.875000
+		//rotation
+		0.471239
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2628.125000
+		71.000000
+		1321.875000
+		//rotation
+		1.500982
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2609.375000
+		71.098595
+		1353.125000
+		//rotation
+		2.251473
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2603.125000
+		71.528091
+		1334.375000
+		//rotation
+		4.293507
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4640.625000
+		80.929825
+		965.625000
+		//rotation
+		4.171334
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4706.250000
+		82.173210
+		987.500000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4643.750000
+		81.617012
+		968.750000
+		//rotation
+		4.520399
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4587.500000
+		79.933136
+		925.000000
+		//rotation
+		4.694932
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4518.750000
+		82.320435
+		906.250000
+		//rotation
+		2.722712
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4506.250000
+		81.800255
+		1262.500000
+		//rotation
+		2.268926
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4525.000000
+		82.813835
+		1318.750000
+		//rotation
+		3.351030
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4431.250000
+		83.413033
+		1212.500000
+		//rotation
+		0.558505
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4381.250000
+		84.313545
+		1181.250000
+		//rotation
+		4.904371
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3600.000000
+		80.377533
+		887.500000
+		//rotation
+		1.710421
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2612.500000
+		75.000000
+		1456.250000
+		//rotation
+		4.328413
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2587.500000
+		73.162468
+		1356.250000
+		//rotation
+		0.855211
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2337.500000
+		74.146523
+		1193.750000
+		//rotation
+		0.680678
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2256.250000
+		72.260681
+		1175.000000
+		//rotation
+		6.143554
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1362.500000
+		128.451569
+		1925.000000
+		//rotation
+		4.293507
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1400.000000
+		127.384277
+		1950.000000
+		//rotation
+		0.296706
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1625.000000
+		130.945587
+		2125.000000
+		//rotation
+		3.071777
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1562.500000
+		127.000000
+		2087.500000
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1612.500000
+		128.000000
+		2075.000000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1606.250000
+		127.000000
+		1731.250000
+		//rotation
+		1.518435
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1681.250000
+		127.000000
+		1731.250000
+		//rotation
+		3.804815
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1275.000000
+		134.847900
+		2400.000000
+		//rotation
+		5.096357
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1325.000000
+		130.374954
+		2443.750000
+		//rotation
+		2.111847
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1200.000000
+		70.000000
+		2568.750000
+		//rotation
+		4.642572
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1231.250000
+		71.266029
+		2593.750000
+		//rotation
+		4.084067
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1337.500000
+		71.659943
+		2681.250000
+		//rotation
+		5.986475
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1387.500000
+		72.467567
+		2706.250000
+		//rotation
+		2.478366
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1612.500000
+		68.000000
+		2662.500000
+		//rotation
+		3.106684
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1637.500000
+		67.128601
+		2606.250000
+		//rotation
+		0.471239
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1950.000000
+		79.138245
+		2606.250000
+		//rotation
+		2.809978
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2043.750000
+		80.241211
+		2550.000000
+		//rotation
+		4.660026
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2081.250000
+		76.715240
+		2575.000000
+		//rotation
+		4.345866
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1325.000000
+		69.000000
+		3225.000000
+		//rotation
+		5.707222
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1368.750000
+		71.318344
+		3268.750000
+		//rotation
+		0.593412
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1368.750000
+		70.896400
+		3456.250000
+		//rotation
+		2.478366
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1368.750000
+		70.511276
+		3400.000000
+		//rotation
+		0.558505
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1200.000000
+		62.632748
+		3537.500000
+		//rotation
+		0.488692
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1262.500000
+		64.599228
+		3512.500000
+		//rotation
+		4.590212
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1075.000000
+		69.297974
+		3725.000000
+		//rotation
+		1.047197
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1143.750000
+		69.642792
+		3725.000000
+		//rotation
+		4.450586
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1081.250000
+		70.296417
+		3775.000000
+		//rotation
+		6.056288
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1800.000000
+		71.000000
+		3625.000000
+		//rotation
+		4.660026
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2000.000000
+		75.754662
+		3650.000000
+		//rotation
+		4.363320
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1862.500000
+		69.922775
+		3618.750000
+		//rotation
+		3.019417
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1850.000000
+		72.457962
+		3331.250000
+		//rotation
+		2.460912
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1900.000000
+		79.508995
+		3287.500000
+		//rotation
+		5.934115
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1781.250000
+		73.665909
+		3312.500000
+		//rotation
+		1.937314
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1800.000000
+		73.917213
+		3356.250000
+		//rotation
+		4.206240
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		937.500000
+		69.222855
+		3950.000000
+		//rotation
+		0.959930
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		912.500000
+		74.089813
+		4006.250000
+		//rotation
+		5.288343
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		918.750000
+		75.180565
+		4093.750000
+		//rotation
+		3.228857
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1025.000000
+		75.556396
+		4387.500000
+		//rotation
+		2.932151
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1118.750000
+		79.000000
+		4518.750000
+		//rotation
+		2.932151
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1118.750000
+		81.000000
+		4575.000000
+		//rotation
+		0.104720
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1143.750000
+		80.006615
+		4612.500000
+		//rotation
+		0.645771
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1262.500000
+		78.625610
+		4775.000000
+		//rotation
+		1.535889
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1331.250000
+		77.341522
+		4756.250000
+		//rotation
+		2.949604
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1406.250000
+		79.541306
+		4781.250000
+		//rotation
+		4.625119
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1531.250000
+		80.089981
+		4812.500000
+		//rotation
+		5.078904
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1612.500000
+		80.230896
+		4812.500000
+		//rotation
+		2.862338
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1706.250000
+		79.000000
+		4793.750000
+		//rotation
+		6.213367
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1768.750000
+		80.126801
+		4756.250000
+		//rotation
+		1.727875
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2012.500000
+		82.000000
+		4800.000000
+		//rotation
+		4.904371
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2068.750000
+		84.000000
+		4825.000000
+		//rotation
+		1.972221
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2218.750000
+		78.475357
+		4775.000000
+		//rotation
+		5.707222
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2262.500000
+		71.824631
+		4712.500000
+		//rotation
+		0.663225
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2293.750000
+		71.461121
+		4668.750000
+		//rotation
+		2.338739
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2468.750000
+		77.000000
+		4612.500000
+		//rotation
+		1.815141
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2412.500000
+		77.000000
+		4625.000000
+		//rotation
+		0.471239
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2581.250000
+		74.269577
+		4393.750000
+		//rotation
+		2.949604
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2600.000000
+		74.021446
+		4468.750000
+		//rotation
+		3.385936
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2593.750000
+		73.600899
+		4525.000000
+		//rotation
+		3.316123
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2425.000000
+		76.585335
+		4268.750000
+		//rotation
+		1.815141
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2456.250000
+		76.011787
+		4218.750000
+		//rotation
+		4.206240
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2431.250000
+		74.738831
+		4150.000000
+		//rotation
+		4.834558
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2400.000000
+		71.285339
+		5693.750000
+		//rotation
+		1.535889
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2450.000000
+		72.000000
+		5731.250000
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		2037.500000
+		77.425468
+		5593.750000
+		//rotation
+		2.059487
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1843.750000
+		74.999184
+		5600.000000
+		//rotation
+		2.181660
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		1937.500000
+		76.095230
+		5575.000000
+		//rotation
+		2.844884
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3162.500000
+		127.000000
+		5800.000000
+		//rotation
+		1.605702
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3237.500000
+		128.000000
+		5831.250000
+		//rotation
+		5.585049
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3237.500000
+		127.000000
+		5750.000000
+		//rotation
+		1.605702
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3287.500000
+		127.702339
+		5781.250000
+		//rotation
+		3.944441
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3293.750000
+		127.000000
+		5687.500000
+		//rotation
+		4.782198
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3253.125000
+		127.000000
+		5784.375000
+		//rotation
+		0.994837
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3190.625000
+		127.000000
+		5759.375000
+		//rotation
+		1.396262
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3246.875000
+		127.000000
+		5703.125000
+		//rotation
+		5.742129
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3303.125000
+		126.559196
+		5728.125000
+		//rotation
+		5.567596
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3290.625000
+		128.816208
+		5815.625000
+		//rotation
+		2.600538
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3590.625000
+		140.666840
+		4615.625000
+		//rotation
+		2.181660
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3590.625000
+		134.918076
+		4559.375000
+		//rotation
+		3.106684
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3590.625000
+		146.070587
+		4484.375000
+		//rotation
+		0.314159
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3584.375000
+		146.990234
+		4421.875000
+		//rotation
+		2.356193
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3593.750000
+		135.981003
+		4662.500000
+		//rotation
+		5.864302
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3587.500000
+		140.108002
+		4525.000000
+		//rotation
+		5.270890
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3618.750000
+		137.695389
+		4587.500000
+		//rotation
+		3.106684
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3606.250000
+		145.417450
+		4437.500000
+		//rotation
+		3.159044
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3601.913574
+		139.231354
+		4649.021484
+		//rotation
+		3.996801
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3609.966309
+		135.155670
+		4685.260254
+		//rotation
+		0.401425
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3611.308594
+		140.874603
+		4638.283691
+		//rotation
+		5.742129
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3616.677002
+		139.043930
+		4568.490723
+		//rotation
+		4.607666
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3593.860352
+		138.371780
+		4541.646973
+		//rotation
+		6.073741
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3591.175781
+		145.855820
+		4489.302246
+		//rotation
+		2.426006
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3585.807129
+		147.063995
+		4438.299805
+		//rotation
+		5.602502
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3587.149414
+		145.950119
+		4399.376465
+		//rotation
+		1.902407
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3615.334961
+		145.773209
+		4477.222656
+		//rotation
+		5.846848
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3619.361572
+		144.219543
+		4542.989258
+		//rotation
+		0.610865
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4156.977539
+		84.000000
+		3291.091553
+		//rotation
+		3.612829
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4184.895020
+		84.000000
+		3302.902588
+		//rotation
+		6.143554
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4204.222168
+		83.662231
+		3285.722656
+		//rotation
+		3.438296
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4180.600098
+		84.342422
+		3279.280273
+		//rotation
+		0.244346
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4178.452148
+		84.723839
+		3296.460205
+		//rotation
+		5.724676
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4252.540527
+		82.000000
+		3282.501709
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4266.499512
+		82.000000
+		3262.100342
+		//rotation
+		0.541052
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4250.393066
+		82.890945
+		3251.363037
+		//rotation
+		1.343902
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4229.991699
+		83.374916
+		3265.321777
+		//rotation
+		5.532690
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3961.556641
+		83.699913
+		3257.805420
+		//rotation
+		3.682642
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3978.736572
+		83.194946
+		3252.436768
+		//rotation
+		5.951568
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3998.063721
+		83.000000
+		3241.699463
+		//rotation
+		0.087266
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3922.901855
+		83.276917
+		3251.363037
+		//rotation
+		2.967057
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3896.058350
+		83.020630
+		3241.699463
+		//rotation
+		2.268926
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3870.288574
+		82.000000
+		3235.256836
+		//rotation
+		2.722712
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3820.896240
+		82.188461
+		3214.855713
+		//rotation
+		4.276053
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3852.034668
+		81.961563
+		3224.519531
+		//rotation
+		1.500982
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3832.707520
+		82.000000
+		3196.602295
+		//rotation
+		2.792525
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3802.642822
+		82.000000
+		3184.791260
+		//rotation
+		1.815141
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3816.601074
+		82.000000
+		3170.832520
+		//rotation
+		2.059487
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4008.801270
+		83.000000
+		3229.888184
+		//rotation
+		0.279252
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4067.856934
+		79.000000
+		3251.363037
+		//rotation
+		4.921824
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4086.110596
+		79.000000
+		3255.657959
+		//rotation
+		2.426006
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4109.732910
+		79.000000
+		3264.247803
+		//rotation
+		3.298670
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4106.287109
+		79.000000
+		3252.211914
+		//rotation
+		4.084067
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4105.437988
+		79.835831
+		3239.552002
+		//rotation
+		5.043998
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		4082.889160
+		80.000000
+		3232.035645
+		//rotation
+		5.567596
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3512.732422
+		79.000000
+		3244.920654
+		//rotation
+		5.270890
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3514.879883
+		79.000000
+		3226.666992
+		//rotation
+		2.042034
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3548.166016
+		78.703873
+		3221.298340
+		//rotation
+		5.340703
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3554.608154
+		78.000000
+		3200.897217
+		//rotation
+		5.689769
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3570.714600
+		78.000000
+		3198.749512
+		//rotation
+		3.124137
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3494.254395
+		79.000000
+		3243.846924
+		//rotation
+		1.500982
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3487.811768
+		80.000000
+		3266.395264
+		//rotation
+		3.211403
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3480.295654
+		79.000000
+		3219.150635
+		//rotation
+		5.445423
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3502.844238
+		78.725616
+		3215.929688
+		//rotation
+		4.014254
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3535.056396
+		79.068604
+		3189.086182
+		//rotation
+		2.076940
+
+	PROP
+		//type (mdl file)
+		D_weeds_03
+		//collision type
+		None
+		//position (x,y,z)
+		3546.867432
+		78.553223
+		3183.717285
+		//rotation
+		0.959930
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4262.500000
+		82.000000
+		3262.500000
+		//rotation
+		2.460912
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		4162.500000
+		83.981361
+		3281.250000
+		//rotation
+		5.235984
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3837.500000
+		81.998703
+		3206.250000
+		//rotation
+		5.183624
+
+	PROP
+		//type (mdl file)
+		D_tree_12
+		//collision type
+		None
+		//position (x,y,z)
+		3531.250000
+		79.349396
+		3231.250000
+		//rotation
+		1.867501
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4215.625000
+		83.000000
+		3278.125000
+		//rotation
+		4.782198
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4153.125000
+		82.127548
+		3259.375000
+		//rotation
+		5.305797
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4121.875000
+		79.877335
+		3253.125000
+		//rotation
+		4.817105
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4021.875000
+		82.308693
+		3228.125000
+		//rotation
+		1.431169
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4046.875000
+		79.877899
+		3253.125000
+		//rotation
+		3.839721
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3953.125000
+		80.201279
+		3221.875000
+		//rotation
+		2.216566
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3890.625000
+		82.641075
+		3234.375000
+		//rotation
+		3.944441
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3809.375000
+		82.000000
+		3196.875000
+		//rotation
+		2.617992
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3840.625000
+		82.000000
+		3221.875000
+		//rotation
+		6.056288
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3584.375000
+		78.325073
+		3203.125000
+		//rotation
+		5.689769
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3534.375000
+		78.000000
+		3203.125000
+		//rotation
+		0.087266
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3484.375000
+		78.975067
+		3228.125000
+		//rotation
+		2.740165
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		3984.375000
+		75.615662
+		2528.125000
+		//rotation
+		5.829395
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4071.875000
+		75.539948
+		2534.375000
+		//rotation
+		6.056288
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4153.125000
+		73.289345
+		2490.625000
+		//rotation
+		4.258600
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4228.125000
+		71.000000
+		2534.375000
+		//rotation
+		5.183624
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		4284.375000
+		74.899673
+		2478.125000
+		//rotation
+		5.515236
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		1884.375000
+		76.800667
+		3334.375000
+		//rotation
+		4.520399
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2315.625000
+		75.060867
+		3328.125000
+		//rotation
+		1.884954
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2290.625000
+		72.000000
+		3384.375000
+		//rotation
+		6.056288
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2246.875000
+		72.541054
+		3765.625000
+		//rotation
+		6.056288
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		2284.375000
+		70.121292
+		3746.875000
+		//rotation
+		0.523598
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		1921.875000
+		72.488594
+		3640.625000
+		//rotation
+		4.468040
+
+	PROP
+		//type (mdl file)
+		D_tree_11
+		//collision type
+		None
+		//position (x,y,z)
+		1771.875000
+		70.000000
+		3640.625000
+		//rotation
+		2.024580
+

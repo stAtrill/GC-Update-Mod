@@ -1,0 +1,57 @@
+//building_cc_jumpstation_tower.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+130	//slope size i x
+172	//höjd i collision objekt
+160	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+41
+
+//main model animation
+Model
+Building_cc_hotell
+
+//other stuff
+Radius
+45
+Height
+172
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+16000
+
+WreckModel
+Building_cc_hotell_Wreck.mdl
+
+

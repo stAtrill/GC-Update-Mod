@@ -1,0 +1,66 @@
+//building_cc_ammodepot.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+13.8	//slope size i x
+13.0	//höjd i collision objekt
+14.0	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+48
+
+//main model animation
+Model
+Building_cc_Outpost
+
+//other stuff
+Radius
+4.5
+Height
+12.0
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+5000
+
+WreckModel
+building_cc_outpost_wreck
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover, snd_engine_vehicle, snd_engine_air,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+AmbientSound
+snd_ambient_building1
+
+
+

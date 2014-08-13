@@ -1,0 +1,56 @@
+//building_wc_Equip_depot.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+52	//slope size i x
+19	//höjd i collision objekt
+43	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//name of entity (formal name, for editor, etc)
+Name
+82
+
+//main model animation
+Model
+building_wc_equip_depot
+
+//other stuff
+Radius
+21.0
+Height
+19.0
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+10000
+
+
+WreckModel
+building_wc_equip_depot_wreck
+
+
+
+

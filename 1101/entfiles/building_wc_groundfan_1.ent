@@ -1,0 +1,66 @@
+//Building_wc_Temple_new.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+3.3	//slope size i x
+2	//höjd i collision objekt
+5	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//name of entity (formal name, for editor, etc)
+Name
+88
+
+//main model animation
+Model
+Building_wc_GroundFan_1
+
+//other stuff
+Radius
+3.0
+Height
+2.0
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+5000
+
+
+WreckModel
+building_wc_groundfan_Wreck
+
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover, snd_engine_vehicle, snd_engine_air,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+AmbientSound
+snd_ambient_building6
+

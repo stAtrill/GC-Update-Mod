@@ -1,0 +1,71 @@
+//Delendre_body.ent
+//Used on cc_mission2. 
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+INFANTRY
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+206
+
+//type of mover(foot, air, vehicle)
+MoverType
+foot
+
+//Thou shall bleed
+FleshFlag
+
+//death chunk model
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+
+//no default death effect
+NoDefaultDeathEffect
+
+//main model animation
+Model
+wc_delendre_lastsigh.mdl
+
+//other stuff
+Radius
+0.1
+Height
+1.0
+PivotHeight
+0.0
+ProjectileProtection
+800
+Power
+4000
+
+WreckModel
+wc_delendre_wreck
+// delendre no longer moving

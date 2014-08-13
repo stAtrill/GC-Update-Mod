@@ -1,0 +1,157 @@
+MOVIE ID_BRIEFINGHEAD1 68 70 128 64
+MOVIE ID_BRIEFINGHEAD2 68 153 128 64
+MOVIE ID_BRIEFINGHEAD3 68 235 128 64
+MOVIE 32 36 44 22 movie/briefing/Wrath.cut
+
+//TOP ROW BORDERS
+PICTURE 31 33 ondcol/mngm_T_L_Corner.tga
+PICTURE 63 33 ondcol/mngm_Mbrief_Missionbriefing.tga
+PICTURE 319 50 ondcol/mngm_R_Of_Header.tga
+PICTURE 461 50 ondcol/mngm_U_R_Line.tga
+PICTURE 589 50 ondcol/mngm_U_R_Corner.tga
+PICTURE 589 66 ondcol/mngm_U_R_Vert_Line.tga
+PICTURE 39 65 ondcol/mngm_U_L_Lines.tga
+PICTURE 39 193 ondcol/mngm_M_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 238 417 ondcol/mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 462 418 ondcol/mngm_U_R_Line.tga
+
+PICTURE 590 415 ondcol/mngm_L_R_Corner.tga
+PICTURE 590 287 ondcol/mngm_L_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 39 290 ondcol/mngm_L_L_Vert_Line.tga
+PICTURE 31 418 ondcol/mngm_L_L_Corner.tga
+//Small pic just right of butt butts
+PICTURE 360 418 ondcol/mngm_EndOfLowButts.tga
+PICTURE 326 417 ondcol/mngm_Innerframe_Horiz_Free_128.tga
+
+
+//MAPGRIDS
+
+PICTURE 233 34 ondcol/mngm_Grid_TL.tga
+PICTURE 202 162 ondcol/mngm_Grids_LL.tga
+PICTURE 361 34 ondcol/mngm_Grids_M.tga
+PICTURE 489 34 ondcol/mngm_Grids_TL.tga
+PICTURE 448 162 ondcol/mngm_Grids_LR.tga
+
+
+//BORDER EFFECT
+PICTURE 502 398 ondcol/mngm_Dropsbord_LEffect2.tga
+
+PICTURE 493 425 ondcol/mngm_Lborder3.tga
+PICTURE 416 418 ondcol/mngm_U_R_Line.tga
+
+
+//Thin Corner
+PICTURE 46 415 ondcol/mngm_L_L_Small_Corner.tga
+PICTURE 43 287 ondcol/mngm_L_R_Vert_Line.tga
+PICTURE 62 418 ondcol/mngm_L_L_Horiz_Line.tga
+
+
+
+//BOX BOARDERS
+
+
+PICTURE 50 410 ondcol/mngm_Innerframe_SW_corner.tga
+PICTURE 66 412 ondcol/mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 50 352 ondcol/mngm_Innerframe_Vert_Ltoend.tga
+
+
+
+
+PICTURE 300 303 ondcol/mngm_Innerframe_UR_corner.tga
+PICTURE 302 319 ondcol/mngm_Innerframe_Dial_left.tga
+PICTURE 236 302 ondcol/mngm_Innerframe_Horiz_Rtoend.tga
+
+
+PICTURE 50 304 ondcol/mngm_T_L_Corner2.tga
+PICTURE 48 315 ondcol/mngm_Slider_upper.tga
+PICTURE 66 304 ondcol/mngm_L_L_Horiz_Line.tga
+
+
+PICTURE 263 361 ondcol/mngm_Slider_Base.tga
+
+PICTURE 300 295 ondcol/mngm_SLIDER_MID3.tga
+
+
+
+PICTURE 320 410 ondcol/mngm_Innerframe_SW_corner.tga
+PICTURE 336 412 ondcol/mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 320 352 ondcol/mngm_Innerframe_Vert_Ltoend.tga
+
+
+PICTURE 573 303 ondcol/mngm_Innerframe_UR_corner.tga
+PICTURE 575 319 ondcol/mngm_Innerframe_Dial_left.tga
+PICTURE 509 302 ondcol/mngm_Innerframe_Horiz_Rtoend.tga
+
+
+PICTURE 320 304 ondcol/mngm_T_L_Corner2.tga
+PICTURE 318 315 ondcol/mngm_Slider_upper.tga
+PICTURE 336 304 ondcol/mngm_L_L_Horiz_Line.tga
+
+
+PICTURE 536 361 ondcol/mngm_Slider_Base.tga
+PICTURE 573 295 ondcol/mngm_SLIDER_MID3.tga
+
+
+TEXT ID_BRIEFINGMISSIONNAME gfx/font/font_mui_big_ond.tga 208 57 382 20
+
+
+WAMODEL ID_BRIEFINGMODEL 203 60 382 250
+
+
+//Header
+PICTURE ID_DIFFPICNAME 338 384 ondcol/mngm_MissionDifficulty.tga
+
+
+//COMLINKS
+PICTURE ID_COMLINK1 58 62
+PICTURE ID_COMLINK2 58 145
+PICTURE ID_COMLINK3 58 227
+
+TEXT ID_COMLINKNAME1 gfx/font/font_mui_ond.tga 76 120 150 20
+TEXT ID_COMLINKNAME2 gfx/font/font_mui_ond.tga 76 203 150 20
+TEXT ID_COMLINKNAME3 gfx/font/font_mui_ond.tga 76 285 150 20
+
+
+//BriefingText
+TEXTPRINTER ID_BRIEFINGTEXT gfx/font/font_mui_ond.tga 66 318 236 100
+SCROLLBAR 293 308 72 ondcol/mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 307 379 ondcol/mngm_Slider_Arrow_U_Rest.tga ondcol/mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 307 401 ondcol/mngm_Slider_Arrow_Dwn_Rest.tga ondcol/mngm_Slider_Arrow_Dwn_Eff.tga
+
+//Objectives
+TEXT ID_BRIEFINGOBJECTIVES gfx/font/font_mui_ond.tga 333 317 247 70
+SCROLLBAR 566 308 72 ondcol/mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 579 379 ondcol/mngm_Slider_Arrow_U_Rest.tga ondcol/mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 579 401 ondcol/mngm_Slider_Arrow_Dwn_Rest.tga ondcol/mngm_Slider_Arrow_Dwn_Eff.tga
+
+
+BRIEFINGSCRIPT ID_BRIEFINGSCRIPT
+
+//CHECKBOXES
+PICTURE ID_DIFFPIC1 338 401 ondcol/mngm_Dropsbord_Checkbox1.tga
+BUTTON ID_DIFFBUT1 349 401 ondcol/mngm_Easy.tga 0.4 349 401 ondcol/mngm_Easy.tga
+
+PICTURE ID_DIFFPIC2 401 401 ondcol/mngm_Dropsbord_Checkbox1.tga
+BUTTON ID_DIFFBUT2 409 401 ondcol/mngm_Light.tga 0.4 409 401 ondcol/mngm_Light.tga
+
+PICTURE ID_DIFFPIC3 461 401 ondcol/mngm_Dropsbord_Checkbox1.tga
+BUTTON ID_DIFFBUT3 469 401 ondcol/mngm_Normal.tga 0.4 469 401 ondcol/mngm_Normal.tga
+
+PICTURE ID_DIFFPIC4 531 401 ondcol/mngm_Dropsbord_Checkbox1.tga
+BUTTON ID_DIFFBUT4 539 401 ondcol/mngm_Hard.tga 0.4 539 401 ondcol/mngm_Hard.tga
+
+
+//Low Butts
+BUTTON ID_BRIEFINGSTARTGAME KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 63 418 ondcol/mngm_StartMission.tga 0.4 63 418 ondcol/mngm_StartMission_Eff.tga
+BUTTON ID_TODSLOADOUT MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 190 418 ondcol/mngm_ConfigureDropships.tga 0.4 190 418 ondcol/mngm_ConfigureDropships_Eff.tga
+BUTTON ID_SKIPBRIEF MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 380 424 ondcol/mngm_Skip.tga 0.4 380 424 ondcol/mngm_Skip_Eff.tga
+BUTTON ID_REPLAYBRIEF MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 434 424 ondcol/mngm_Replay2.tga 0.4 434 424 ondcol/mngm_Replay2_Eff.tga
+
+// exit
+BUTTON ID_EXITBRIEFING MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 510 418 ondcol/mngm_LowButt_Exit3.tga 0.4 510 418 ondcol/mngm_LowButt_exit3_Eff.tga
+
+BUTTON ID_HELP KEY_F1 MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 561 419 ondcol/mngm_Dropsbord_QuestionM.tga 0.4 561 419 ondcol/mngm_Question_Eff.tga

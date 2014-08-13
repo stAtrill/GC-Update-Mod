@@ -1,0 +1,92 @@
+//building_wc_smallgunturret.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+6.4	//slope size i x
+8	//höjd i collision objekt
+6	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+FIXEDGUN
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//the name of the entity
+Name
+107
+
+//Create an aimer
+UseAimer
+
+//Aimer inställningar
+AimerXDegLimits
+85
+355
+
+//main model animation
+Model
+building_wc_smallgunturret
+
+ChildOffset
+//offset of the child (X, Y, Z)
+0.0
+0.0
+0.0
+
+//Barrel Model
+BarrelOffset
+//offset of the barrel child (x,y,z)
+0.0
+1.7
+-1.2
+
+//fire offset
+FireOffset
+0.0
+0.57
+5.0
+
+//other stuff
+Radius
+3.0
+Height
+8.0
+PivotHeight
+0.0
+HeadTurnSpeed
+2.0
+2.0
+ViewRange
+250.0
+ProjectileProtection
+70
+Power
+1500
+//DETECTION
+Stealth
+0
+Perception
+0
+WreckModel
+building_wc_smallgunturret_wreck
+
+
+
+

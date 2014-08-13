@@ -1,0 +1,75 @@
+0	Personal MedKit
+1	Restores 500 health
+2	Afterburner
+3	Boosts flying speed
+4	Deployable Radar
+5	Detects all units within 600 meters.
+6	Demolition Charge
+7	Placed on ground and triggered by pressing icon.
+8	Mirage Cloaking Field
+9	Personal Cloaking field. Cloaks squad when activated.
+10	Image Intensifier
+11	Increases view range 2x
+12	Portable Pulse Radar
+13	Detect all units within 600 meters.
+14	Advanced Telemetry System
+15	Permenantly improves vision and accuracy. 
+16	Image Intensifier
+17	Increases view range 2x
+18	ADPP Repair Module
+19	Restores 500 health
+20	Antitank Mine
+21	Anti Tank Mine
+22	a
+23	a
+24	Vortex Field
+25	Field that blocks Line of Sight
+26	Speed Booster
+27	Boosts movement speed
+28	Advanced Powerplant
+29	Increases both move and rotation speeds
+30	Anti-Missile System
+31	Counters the missiles
+32	a
+33	a
+34	Energy Shield
+35	Temp Invulnerability
+36	Autocannon Sentry Gun
+37	Sentry gun 3
+38	Rocket Sentry Gun
+39	Sentry gun 2
+40	Anti-Air Sentry Gun
+41	Sentry gun 1
+42	Missile Defender
+43	Protects against missiles
+44	Deployable Repairstation
+45	Deployable repairstation
+46	Entrench
+47	Powerarmor's defense is increased as it secures its position. Movement reduced to 0.
+48	Booster Station
+49	Increases armor and attack values for allied troops within equipment effect radius.
+50	Vision
+51	Increases allied troop radar range capability.
+52	Disruptor
+53	Decreases enemy accuracy and radar range capabilities.
+54	Rocket
+55	Speed boost with limited control.
+56	Regenerate Units
+57	Instantly repairs units in a small area.
+58	Artemis Targeting System
+59	Increases Weapon Precision.
+60	Web
+61	Slows all vehicles within the equipment effect radius.
+62	Aero Defender Gun
+63	Gun centered on unit protects against missiles.
+64	AMH-Air Repair Unit
+65	Able to spot repair other aerodynes without landing.
+66	Helios Flame
+67	Massive damage to all units in the area,
+68	Holy Martyrdom
+69	The faithful self-destructs causing damage to a wide area.
+70	Damage Zone 3 (Rename me)
+71	Damage Zone 3 Description
+72	Personal Defender Gun
+73	Gun centered on unit protecting against missle attack.
+

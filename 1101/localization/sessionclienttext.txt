@@ -1,0 +1,653 @@
+//SESSIONCLIENT
+Connecting to localhost...
+Establishing GC-R-Link connection to
+Connection established, awaiting reply...
+Establishing GC-U-Link connection to localhost
+Establishing GC-U-Link connection to
+attempt
+ESCAPE to abort
+Awaiting session...
+Loading Special Object models...
+Creating world...
+Initialising GC-DCIS...
+Loading entities
+Loading weapons
+Loading movies
+Loading complete
+entered the game
+disconnected
+
+//INGAMEINTERFACE
+//misc
+Range N/A
+
+//dropzone stuff
+New dropzone available
+Dropship entering atmosphere
+Dropzone occupied
+
+//MULTIPLAYER
+Team 1
+Team 2
+Team 3
+Team 4
+Team 5
+Team 6
+Team 7
+Team 8
+
+Your team lost flagzone
+Team 1 lost flagzone
+Team 2 lost flagzone
+Team 3 lost flagzone
+Team 4 lost flagzone
+Team 5 lost flagzone
+Team 6 lost flagzone
+Team 7 lost flagzone
+Team 8 lost flagzone
+
+Your team claimed flagzone
+Team 1 claimed flagzone
+Team 2 claimed flagzone
+Team 3 claimed flagzone
+Team 4 claimed flagzone
+Team 5 claimed flagzone
+Team 6 claimed flagzone
+Team 7 claimed flagzone
+Team 8 claimed flagzone
+
+Your team scored
+Team 1 scored
+Team 2 scored
+Team 3 scored
+Team 4 scored
+Team 5 scored
+Team 6 scored
+Team 7 scored
+Team 8 scored
+
+Reinforcements available for Squad 1
+Reinforcements available for Squad 2
+Reinforcements available for Squad 3
+Reinforcements available for Squad 4
+Reinforcements available for Squad 5
+Reinforcements available for Squad 6
+Reinforcements available for Squad 7
+Reinforcements available for Squad 8
+Reinforcements available for Squad 9
+Reinforcements available for Squad 10
+Reinforcements available for Squad 11
+Reinforcements available for Squad 12
+
+Time Remaining
+Ping
+ms
+Score Limit
+
+Score
+Flagzones
+
+Loading
+Playing
+Victorious
+Defeated
+
+Start Game?
+
+Time Until Voted Start
+
+Line Of Sight
+
+//PER SQUAD STUFF
+//moving
+Command APC moving
+Squad 1 moving
+Squad 2 moving
+Squad 3 moving
+Squad 4 moving
+Squad 5 moving
+Squad 6 moving
+Squad 7 moving
+Squad 8 moving
+Squad 9 moving
+Squad 10 moving
+Squad 11 moving
+Squad 12 moving
+Squad 13 moving
+Squad 14 moving
+
+//move denied
+Command APC move order denied
+Squad 1 move order denied
+Squad 2 move order denied
+Squad 3 move order denied
+Squad 4 move order denied
+Squad 5 move order denied
+Squad 6 move order denied
+Squad 7 move order denied
+Squad 8 move order denied
+Squad 9 move order denied
+Squad 10 move order denied
+Squad 11 move order denied
+Squad 12 move order denied
+Squad 13 move order denied
+Squad 14 move order denied
+
+//stacking move order
+Command APC stacking move order
+Squad 1 stacking move order
+Squad 2 stacking move order
+Squad 3 stacking move order
+Squad 4 stacking move order
+Squad 5 stacking move order
+Squad 6 stacking move order
+Squad 7 stacking move order
+Squad 8 stacking move order
+Squad 9 stacking move order
+Squad 10 stacking move order
+Squad 11 stacking move order
+Squad 12 stacking move order
+Squad 13 stacking move order
+Squad 14 stacking move order
+
+//stacked move denied
+Command APC stacked move order denied
+Squad 1 stacked move order denied
+Squad 2 stacked move order denied
+Squad 3 stacked move order denied
+Squad 4 stacked move order denied
+Squad 5 stacked move order denied
+Squad 6 stacked move order denied
+Squad 7 stacked move order denied
+Squad 8 stacked move order denied
+Squad 9 stacked move order denied
+Squad 10 stacked move order denied
+Squad 11 stacked move order denied
+Squad 12 stacked move order denied
+Squad 13 stacked move order denied
+Squad 14 stacked move order denied
+
+//attacking
+Command APC attacking
+Squad 1 attacking
+Squad 2 attacking
+Squad 3 attacking
+Squad 4 attacking
+Squad 5 attacking
+Squad 6 attacking
+Squad 7 attacking
+Squad 8 attacking
+Squad 9 attacking
+Squad 10 attacking
+Squad 11 attacking
+Squad 12 attacking
+Squad 13 attacking
+Squad 14 attacking
+
+//attack order denied
+Command APC attack order denied,
+Squad 1 attack order denied,
+Squad 2 attack order denied,
+Squad 3 attack order denied,
+Squad 4 attack order denied,
+Squad 5 attack order denied,
+Squad 6 attack order denied,
+Squad 7 attack order denied,
+Squad 8 attack order denied,
+Squad 9 attack order denied,
+Squad 10 attack order denied,
+Squad 11 attack order denied,
+Squad 12 attack order denied,
+Squad 13 attack order denied,
+Squad 14 attack order denied,
+
+//stacking attack order
+Command APC stacking attack order
+Squad 1 stacking attack order
+Squad 2 stacking attack order
+Squad 3 stacking attack order
+Squad 4 stacking attack order
+Squad 5 stacking attack order
+Squad 6 stacking attack order
+Squad 7 stacking attack order
+Squad 8 stacking attack order
+Squad 9 stacking attack order
+Squad 10 stacking attack order
+Squad 11 stacking attack order
+Squad 12 stacking attack order
+Squad 13 stacking attack order
+Squad 14 stacking attack order
+
+//stacked attack denied
+Command APC stacked attack order denied
+Squad 1 stacked attack order denied
+Squad 2 stacked attack order denied
+Squad 3 stacked attack order denied
+Squad 4 stacked attack order denied
+Squad 5 stacked attack order denied
+Squad 6 stacked attack order denied
+Squad 7 stacked attack order denied
+Squad 8 stacked attack order denied
+Squad 9 stacked attack order denied
+Squad 10 stacked attack order denied
+Squad 11 stacked attack order denied
+Squad 12 stacked attack order denied
+Squad 13 stacked attack order denied
+Squad 14 stacked attack order denied
+
+//guarding
+Command APC guarding
+Squad 1 guarding
+Squad 2 guarding
+Squad 3 guarding
+Squad 4 guarding
+Squad 5 guarding
+Squad 6 guarding
+Squad 7 guarding
+Squad 8 guarding
+Squad 9 guarding
+Squad 10 guarding
+Squad 11 guarding
+Squad 12 guarding
+Squad 13 guarding
+Squad 14 guarding
+
+//suppressive fire
+Command APC giving suppressive fire
+Squad 1 giving suppressive fire
+Squad 2 giving suppressive fire
+Squad 3 giving suppressive fire
+Squad 4 giving suppressive fire
+Squad 5 giving suppressive fire
+Squad 6 giving suppressive fire
+Squad 7 giving suppressive fire
+Squad 8 giving suppressive fire
+Squad 9 giving suppressive fire
+Squad 10 giving suppressive fire
+Squad 11 giving suppressive fire
+Squad 12 giving suppressive fire
+Squad 13 giving suppressive fire
+Squad 14 giving suppressive fire
+
+//suppressive fire denied
+Command APC suppressive fire denied
+Squad 1 suppressive fire denied
+Squad 2 suppressive fire denied
+Squad 3 suppressive fire denied
+Squad 4 suppressive fire denied
+Squad 5 suppressive fire denied
+Squad 6 suppressive fire denied
+Squad 7 suppressive fire denied
+Squad 8 suppressive fire denied
+Squad 9 suppressive fire denied
+Squad 10 suppressive fire denied
+Squad 11 suppressive fire denied
+Squad 12 suppressive fire denied
+Squad 13 suppressive fire denied
+Squad 14 suppressive fire denied
+
+//FEEDBACK
+//taking friendly fire
+Command APC taking friendly fire
+Squad 1 taking friendly fire
+Squad 2 taking friendly fire
+Squad 3 taking friendly fire
+Squad 4 taking friendly fire
+Squad 5 taking friendly fire
+Squad 6 taking friendly fire
+Squad 7 taking friendly fire
+Squad 8 taking friendly fire
+Squad 9 taking friendly fire
+Squad 10 taking friendly fire
+Squad 11 taking friendly fire
+Squad 12 taking friendly fire
+Squad 13 taking friendly fire
+Squad 14 taking friendly fire
+
+//enemy attacking
+Enemy attacking Command APC
+Enemy attacking Squad 1
+Enemy attacking Squad 2
+Enemy attacking Squad 3
+Enemy attacking Squad 4
+Enemy attacking Squad 5
+Enemy attacking Squad 6
+Enemy attacking Squad 7
+Enemy attacking Squad 8
+Enemy attacking Squad 9
+Enemy attacking Squad 10
+Enemy attacking Squad 11
+Enemy attacking Squad 12
+Enemy attacking Squad 13
+Enemy attacking Squad 14
+
+//destroyed
+Command APC destroyed
+Squad 1 destroyed
+Squad 2 destroyed
+Squad 3 destroyed
+Squad 4 destroyed
+Squad 5 destroyed
+Squad 6 destroyed
+Squad 7 destroyed
+Squad 8 destroyed
+Squad 9 destroyed
+Squad 10 destroyed
+Squad 11 destroyed
+Squad 12 destroyed
+Squad 13 destroyed
+Squad 14 destroyed
+
+//recharging
+Command Apc recharging
+Squad 1 recharging
+Squad 2 recharging
+Squad 3 recharging
+Squad 4 recharging
+Squad 5 recharging
+Squad 6 recharging
+Squad 7 recharging
+Squad 8 recharging
+Squad 9 recharging
+Squad 10 recharging
+Squad 11 recharging
+Squad 12 recharging
+Squad 13 recharging
+Squad 14 recharging
+
+//allied unit destroyed
+Allied structure destroyed
+Allied infantry destroyed
+Allied aerodyne destroyed
+Allied terradyne destroyed
+Allied hoverdyne destroyed
+
+//enemy unit destroyed
+Enemy structure destroyed
+Enemy infantry destroyed
+Enemy aerodyne destroyed
+Enemy terradyne destroyed
+Enemy hoverdyne destroyed
+
+//id (for entity info)
+Squad 0
+Squad 1
+Squad 2
+Squad 3
+Squad 4
+Squad 5
+Squad 6
+Squad 7
+Squad 8
+Squad 9
+Squad 10
+Squad 11
+Squad 12
+Squad 13
+Squad 14
+
+//NORMAL COMBAT Squads	
+//unit lost
+Unit lost, Squad 1
+Unit lost, Squad 2
+Unit lost, Squad 3
+Unit lost, Squad 4
+Unit lost, Squad 5
+Unit lost, Squad 6
+Unit lost, Squad 7
+Unit lost, Squad 8
+Unit lost, Squad 9
+Unit lost, Squad 10
+Unit lost, Squad 11
+Unit lost, Squad 12
+Unit lost, Squad 13
+Unit lost, Squad 14
+
+//special weapon confirm
+Squad 1 special weapon confirmed
+Squad 2 special weapon confirmed
+Squad 3 special weapon confirmed
+Squad 4 special weapon confirmed
+Squad 5 special weapon confirmed
+Squad 6 special weapon confirmed
+Squad 7 special weapon confirmed
+Squad 8 special weapon confirmed
+Squad 9 special weapon confirmed
+Squad 10 special weapon confirmed
+Squad 11 special weapon confirmed
+Squad 12 special weapon confirmed
+
+//special weapon use denied
+Squad 1 special weapon use denied
+Squad 2 special weapon use denied
+Squad 3 special weapon use denied
+Squad 4 special weapon use denied
+Squad 5 special weapon use denied
+Squad 6 special weapon use denied
+Squad 7 special weapon use denied
+Squad 8 special weapon use denied
+Squad 9 special weapon use denied
+Squad 10 special weapon use denied
+Squad 11 special weapon use denied
+Squad 12 special weapon use denied
+
+//using special weapon
+Squad 1 using special weapon 
+Squad 2 using special weapon 
+Squad 3 using special weapon 
+Squad 4 using special weapon 
+Squad 5 using special weapon 
+Squad 6 using special weapon 
+Squad 7 using special weapon 
+Squad 8 using special weapon 
+Squad 9 using special weapon 
+Squad 10 using special weapon 
+Squad 11 using special weapon 
+Squad 12 using special weapon 
+
+//special equipment confirmed
+Squad 1 special equipment confirmed
+Squad 2 special equipment confirmed
+Squad 3 special equipment confirmed
+Squad 4 special equipment confirmed
+Squad 5 special equipment confirmed
+Squad 6 special equipment confirmed
+Squad 7 special equipment confirmed
+Squad 8 special equipment confirmed
+Squad 9 special equipment confirmed
+Squad 10 special equipment confirmed
+Squad 11 special equipment confirmed
+Squad 12 special equipment confirmed
+
+//special equipment use denied
+Squad 1 special equipment use denied
+Squad 2 special equipment use denied
+Squad 3 special equipment use denied
+Squad 4 special equipment use denied
+Squad 5 special equipment use denied
+Squad 6 special equipment use denied
+Squad 7 special equipment use denied
+Squad 8 special equipment use denied
+Squad 9 special equipment use denied
+Squad 10 special equipment use denied
+Squad 11 special equipment use denied
+Squad 12 special equipment use denied
+
+//using special equipment
+Squad 1 using special equipment 
+Squad 2 using special equipment 
+Squad 3 using special equipment 
+Squad 4 using special equipment 
+Squad 5 using special equipment 
+Squad 6 using special equipment 
+Squad 7 using special equipment 
+Squad 8 using special equipment 
+Squad 9 using special equipment 
+Squad 10 using special equipment 
+Squad 11 using special equipment 
+Squad 12 using special equipment 
+
+//apc loading
+Squad 1 loading
+Squad 2 loading
+Squad 3 loading
+Squad 4 loading
+Squad 5 loading
+Squad 6 loading
+Squad 7 loading
+Squad 8 loading
+Squad 9 loading
+Squad 10 loading
+Squad 11 loading
+Squad 12 loading
+
+//apc load denied
+Squad 1 load denied
+Squad 2 load denied
+Squad 3 load denied
+Squad 4 load denied
+Squad 5 load denied
+Squad 6 load denied
+Squad 7 load denied
+Squad 8 load denied
+Squad 9 load denied
+Squad 10 load denied
+Squad 11 load denied
+Squad 12 load denied
+
+//apc unloading
+Squad 1 unloaded
+Squad 2 unloaded
+Squad 3 unloaded
+Squad 4 unloaded
+Squad 5 unloaded
+Squad 6 unloaded
+Squad 7 unloaded
+Squad 8 unloaded
+Squad 9 unloaded
+Squad 10 unloaded
+Squad 11 unloaded
+Squad 12 unloaded
+
+//apc unload denied
+Squad 1 unload denied
+Squad 2 unload denied
+Squad 3 unload denied
+Squad 4 unload denied
+Squad 5 unload denied
+Squad 6 unload denied
+Squad 7 unload denied
+Squad 8 unload denied
+Squad 9 unload denied
+Squad 10 unload denied
+Squad 11 unload denied
+Squad 12 unload denied
+
+//try to move outside world
+Move order denied
+
+//tutorial
+Next
+
+//taskbar
+//titles
+Attack Mode
+Movement Mode
+Formation
+
+//selections
+//attack mode
+Free
+Return
+Hold
+
+//movement mode
+Offensive
+Defensive
+Hold Position
+
+//formation
+Line
+Box
+Column
+
+//acknowledge
+Fire at will
+Returning fire
+Holding fire
+
+Assuming offensive movement
+Assuming defensive movement
+Holding position
+
+Assuming line formation
+Assuming box formation
+Assuming column formation
+
+//tooltips
+Force movement
+Defensive movement
+Hold position
+
+Fire at will
+Return fire
+Hold fire
+
+Line formation
+Box formation
+Column formation
+
+Display mini map
+Display mega map
+
+//combat menu
+Options
+Resume
+Exit Combat
+Are you sure?
+Yes
+No
+
+Recharging
+
+Minimap
+Left-click on the dropzone to drop your ship
+Dropship button
+Squad button
+Left-click on this button to view the tactical overview
+Move the mouse over your objective to view more information about it
+Left-click on this button to go back to normal view and continue the course
+Special Weapon
+Special Equipment
+
+Press this button to set your squad to Free Fire
+Press this button to set your squad to Return Fire
+Press this button to set your squad to Hold Fire
+
+Press this button to set your squad to Offensive Movement
+Press this button to set your squad to Defensive Movement
+Press this button to set your squad to Hold Position
+
+Press this button to set your squad to Line Formation
+Press this button to set your squad to Box Formation
+Press this button to set your squad to Column Formation
+
+APC
+
+OBJECTIVE COMPLETED
+
+Squad 13
+Squad 14
+
+Time Limit
+Score Limit
+Reinforcements Enabled
+Mins
+Reinforcements Disabled
+APC Mode
+Friendly Fire Enabled
+Friendly Fire Disabled
+Damage Factor
+
+Team
+Game Server

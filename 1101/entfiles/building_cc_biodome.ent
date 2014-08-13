@@ -1,0 +1,58 @@
+//Building_cc_biodome.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+119	//slope size i x
+33	//höjd i collision objekt
+140	//slope size i z
+
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+13
+
+//main model animation
+Model
+Building_cc_biodome
+
+//other stuff
+Radius
+40.0
+Height
+33.0
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+10000
+
+
+WreckModel
+Building_cc_biodome_wreck
+

@@ -1,0 +1,62 @@
+//building_wc_terraforming_facility_main.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+56.0	//slope size i x
+19.0	//höjd i collision objekt
+52.0	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//name of entity (formal name, for editor, etc)
+Name
+111
+
+//main model animation
+Model
+building_wc_terraformer_VER5
+
+//other stuff
+Radius
+17.0
+Height
+7.5
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+10000
+
+
+WreckModel
+building_wc_terraformer_VER5_wreck
+
+
+
+
+
+
+
+
+
+

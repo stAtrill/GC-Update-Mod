@@ -1,0 +1,60 @@
+PICTURE 380 257 Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 443 192 Mngm_Innerframe_Vert_Ltoend.tga
+PICTURE 442 256 Mngm_Innerframe_LR_corner.tga
+
+PICTURE 441 53 Mngm_Innerframe_UR_corner.tga
+PICTURE 443 69 Mngm_Innerframe_Dial_left.tga
+PICTURE 377 52 Mngm_Innerframe_Horiz_Rtoend.tga
+
+PICTURE 197 256 Mngm_Innerframe_SW_corner.tga
+PICTURE 213 258 Mngm_Innerframe_Horiz_Ltoend.tga
+
+PICTURE 197 192 Mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 197 54 Mngm_T_L_Corner2.tga
+PICTURE 212 54 Mngm_L_L_Horiz_Line.tga
+PICTURE 196 66 Mngm_Innerframe_Vert_Utoend.tga
+
+PICTURE 205 140 Mngm_PoppupBox.tga
+PICTURE 205 61 Mngm_PoppupBox3.tga
+
+
+PICTURE 212 89 Mngm_namebox_New2.tga
+PICTURE 212 135 Mngm_namebox_New2.tga
+
+PICTURE 212 183 Mngm_namebox_New2.tga
+
+PICTURE 220 71 Mngm_GameName2.tga
+PICTURE 220 117 Mngm_Password2.tga
+PICTURE 222 165 Mngm_NumberOfPlayers.tga
+
+//MOD SUPPORT
+//MOD SUPPORT
+//MOD SUPPORT
+//MOD SUPPORT
+
+//gc standard mode toggle
+PICTURE ID_GCSTANDARDTOGGLE MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 222 212 mngm_dropsbord_checkbox1.tga
+
+//current mod mode toggle
+PICTURE ID_MODTOGGLE MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 222 225 mngm_dropsbord_checkbox1.tga
+
+//gc standard mode text
+TEXT ID_GCSTANDARDTEXT gfx/font/font_mui.tga 243 212 128 20
+
+//current mod mode text
+TEXT ID_MODTEXT gfx/font/font_mui.tga 243 225 128 20
+
+//MOD SUPPORT
+//MOD SUPPORT
+//MOD SUPPORT
+//MOD SUPPORT
+
+INPUT ID_LANHOSTGAMENAME gfx/font/font_mui.tga 227 93 170
+
+INPUT ID_LANHOSTPASSWORD gfx/font/font_mui.tga 227 139 170
+
+INPUT ID_LANHOSTMAXPLY gfx/font/font_mui.tga 227 187 120
+
+BUTTON ID_REQUESTERCANCEL KEY_ESC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 394 248 Mngm_Newcomm_Cancel.tga 0.4 394 248 Mngm_Newcomm_Cancel_Eff.tga
+BUTTON ID_IN_ACCEPTHOSTGAME KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 212 247 Mngm_Ok.tga 0.4 208 247 Mngm_Ok_Eff.tga

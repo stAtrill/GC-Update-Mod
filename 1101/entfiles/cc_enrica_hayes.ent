@@ -1,0 +1,96 @@
+//cc_Enrica_Hayes.ent
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+INFANTRY
+
+// Squad button
+Button
+unitico_inf_2.tga
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//the name of the entity
+Name
+128
+
+//type of mover(foot, air, vehicle)
+MoverType
+foot
+
+//Flag to say if main object will follow aimer
+AimerInYControl
+
+//Create an aimer
+UseAimer
+
+//Thou shall bleed
+FleshFlag
+
+//main model animation
+Model
+wc_templar
+
+//fire offset
+FireOffset
+0.0
+1.5
+0.0
+
+//other stuff
+Radius
+1.0
+Height
+2.2
+PivotHeight
+0.0
+Acceleration
+150.0
+Friction
+100.0
+MaxSpeed
+7.0
+TurnSpeed
+//Radianer/sekund    6.28 = 1 varv/sekund
+2.2
+TurnAcceleration
+30.0
+TurnFriction
+25.0
+HeadTurnSpeed
+5.0
+0.0
+SlopeBorder
+2
+ViewRange
+200.0
+ProjectileProtection
+60
+Power
+1000
+// Detection
+Stealth
+50
+Perception
+50
+//WRECK
+// NONE YET
+
+
+

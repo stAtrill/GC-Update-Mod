@@ -1,0 +1,47 @@
+
+PICTURE 161 76 OndCol/Mngm_Popup_Back.tga
+PICTURE 161 140 OndCol/Mngm_Popup_Back.tga
+PICTURE 161 204 OndCol/Mngm_Popup_Back.tga
+
+PICTURE 225 76 OndCol/Mngm_Popup_Back.tga
+PICTURE 225 140 OndCol/Mngm_Popup_Back.tga
+PICTURE 225 204 OndCol/Mngm_Popup_Back.tga
+
+PICTURE 289 76 OndCol/Mngm_Popup_Back.tga
+PICTURE 289 140 OndCol/Mngm_Popup_Back.tga
+PICTURE 289 204 OndCol/Mngm_Popup_Back.tga
+
+PICTURE 353 76 OndCol/Mngm_Popup_Back.tga
+PICTURE 353 140 OndCol/Mngm_Popup_Back.tga
+PICTURE 353 204 OndCol/Mngm_Popup_Back.tga
+
+PICTURE 417 76 OndCol/Mngm_Popup_Back.tga
+PICTURE 417 140 OndCol/Mngm_Popup_Back.tga
+PICTURE 417 204 OndCol/Mngm_Popup_Back.tga
+
+
+PICTURE 408 259 OndCol/Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 473 194 OndCol/Mngm_Innerframe_Vert_Ltoend.tga
+PICTURE 472 258 OndCol/Mngm_Innerframe_LR_corner.tga
+
+PICTURE 471 69 OndCol/Mngm_Innerframe_UR_corner.tga
+PICTURE 473 85 OndCol/Mngm_Innerframe_Dial_left.tga
+PICTURE 407 68 OndCol/Mngm_Innerframe_Horiz_Rtoend.tga
+
+
+PICTURE 154 258 OndCol/Mngm_Innerframe_SW_corner.tga
+PICTURE 170 260 OndCol/Mngm_Innerframe_Horiz_Ltoend.tga
+
+PICTURE 154 194 OndCol/Mngm_Innerframe_Vert_Ltoend.tga
+PICTURE 154 70 OndCol/Mngm_T_L_Corner2.tga
+PICTURE 170 70 OndCol/Mngm_L_L_Horiz_Line.tga
+PICTURE 153 85 OndCol/Mngm_Innerframe_Vert_Utoend.tga
+
+
+TEXT gfx/font/font_mui_ond.tga 172 81 286 170 11
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 460 81 OndCol/Mngm_Slider_Arrow_U_Rest.tga OndCol/Mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 460 248 OndCol/Mngm_Slider_Arrow_Dwn_Rest.tga OndCol/Mngm_Slider_Arrow_Dwn_Eff.tga
+
+
+//BUTTONS
+BUTTON ID_REMOVEHELP KEY_ESC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 172 247 OndCol/Mngm_Ok.tga 0.3 168 247 OndCol/Mngm_Ok_Eff.tga

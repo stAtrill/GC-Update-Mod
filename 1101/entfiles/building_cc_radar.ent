@@ -1,0 +1,63 @@
+//building_cc_radar.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+14	//slope size i x
+7	//höjd i collision objekt
+12	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+// Enable Radar vision
+RADARSIGHT
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//the name of the entity
+Name
+56
+
+//main model animation
+Model
+building_cc_radar
+
+//other stuff
+Radius
+6.0
+Height
+7.0
+PivotHeight
+0.0
+ViewRange
+300.0
+ProjectileProtection
+80
+Power
+8000
+
+WreckModel
+building_cc_radar_wreck
+
+
+

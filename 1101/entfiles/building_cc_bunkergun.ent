@@ -1,0 +1,92 @@
+//building_cc_bunkergun.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+14	//slope size i x
+4.2	//höjd i collision objekt
+14	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+FIXEDGUN
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//the name of the entity
+Name
+17
+
+//Create an aimer
+UseAimer
+
+//Aimer inställningar
+AimerXDegLimits
+50
+0
+
+//main model animation
+Model
+building_cc_bunkergun
+
+ChildOffset
+//offset of the child (X, Y, Z)
+0.0
+0.0 
+0.0
+
+//Barrel Model
+BarrelOffset
+//offset of the barrel child (x,y,z)
+0.0
+2.5
+1.3
+
+//fire offset (X, -Y, Z)
+FireOffset
+1.32
+0.27
+3.32
+
+HeadTurnSpeed
+1.4
+1.2
+
+//other stuff
+Radius
+2.9
+Height
+4.2
+PivotHeight
+0.0
+ViewRange
+250.0
+ProjectileProtection
+80
+Power
+1500
+//DETECTION
+Stealth
+0
+Perception
+0
+WreckModel
+building_cc_bunkergun_Wreck.mdl
+
+
+

@@ -1,0 +1,171 @@
+0	XXXX
+1	Connecting...
+2	WON login successful. 
+3	WON account creation in progress.
+4	WON account creation failed.
+5	WON login failed. User already logged on. Try again later.
+6	WON login failed. Bad username or password. Make sure they are correct and try again.
+7	WON login failed. Unspecified error.
+8	Could not load Verifierkey.
+9	Could not open Verifierkey.
+
+// --- Directory listing errors
+10	Directory listing timed out.
+11	Requested directory was not found on the Directory Server.
+// %d specifies the error number. Very important to have %d in the localized string as well
+12	Directory listing failed: error %d!
+
+// --- Authentication failures
+13	Authentication failed. User Unknown!
+14	Authentication failed. Wrong password!
+15	Authentication failed. CDKey already in use!
+16	Authentication failed. General Failure.
+17	Authentication failed. 
+The Authentication Server could not be reached.
+18	Authentication failed. Bad address.
+19	Authentication failed. 
+
+Timeout while talking to the Authentication Server.
+20	Authentication failed. CRC failed!
+// %d specifies the error number.   Very important to have %d in the localized string as well.
+21	Authentication failed: Error %d!
+
+// --- Account creation errors
+22	Account creation failed. CD key in use!
+23	Account creation failed. CRC failed!
+24	Account creation failed. User exists!
+// %d specifies the error number.   Very important to have %d in the localized string as well.
+25	Account creation failed. Error: %d
+
+// --- GC dir listing errors
+26	Unable to list GroundControl direcory.
+
+Timeout while talking to the Directory Server.
+27	Unable to list GroundControl dir: Directory not found!
+// %d specifies the error number.   Very important to have %d in the localized string as well.
+28	Unable to list GroundControl directory: enspecifed error %d
+// --- Starting chatroom errors
+29	No WON identity set. Enter WON login name and password.
+30	No factory servers available to start chatroom.
+31	Could not start chatroom. Timeout occurred.
+32	Could not start chatroom. Request format is invalid.
+33	Could not start chatroom. Server low on resources.
+34	Could not start chatroom. Name already in use.
+// %d specifies the error number.   Very important to have %d in the localized string as well.
+35	Failed to start chat server! Error: %d
+
+// --- Connecting to chatroom errors
+36	Specified room not found
+37	Timed out connecting to chat server
+38	Chat server unreachable
+// %d specifies the error number.   Very important to have %d in the localized string as well.
+39	Failed to connect to chat server! Error: %d
+40	Could not connect to chatroom. Client with the same name already exist.
+41	This chatroom requires password.
+42	Could not connect to chatroom. Server is full
+43	Failed to retrieve client list. Must be client.
+44	Failed to retrieve client list. Unknown error.
+// --- General Skrimish errors or things I forgot :)
+45	Invalid or missing CD key.
+46	Creating stage and joining the Lobby
+47	Joined stage as a client.
+48	Leaving Stage.
+49	Getting chatroom list.
+50	Getting clientlist.
+51	Connecting to chatroom.
+52	Creating chatroom.
+53	Account created.
+54	Getting list of Dropin games.
+55	Creating Game.
+56	Joining game.
+57	Getting gamelist.
+58	Preparing to start mission.
+59	Error getting directory servers. Check your Internet connection.
+60	WON login in progress.
+61	Join timed out.
+62	Start of session may have failed.
+Press cancel to stop waiting.
+// extremely important to keep the %d and %s in the string. %d is the old version %s is the new
+63	Patching %d -> %s.
+64	Checking for patches.
+65	Game with that name already exist.
+66	Error occured while creating game.
+67	Wrong password.
+68	Error joining game.
+69	Join denied. Game full.
+70	Join denied. In progress.
+71	Join denied. No open spots.
+72	Join denied. Reason unknown.
+73	Waiting for DS to start game session.
+74	No Message of the Day available at the moment.
+75	Connecting to server...
+// extremely important to keep the %d's  precent complete (numbytes/totbytes)
+76	%d%% (%d/%d)
+77	Patch download complete.
+Press OK to quit Ground Control and apply the patch.
+78	Download aborted.
+You have to complete the download to play GC on the Internet.
+79	Download failed.
+You have to complete the download to play GC on the Internet.
+// extremely important to keep the %d's   Lastpinged of max (percentage)
+80	%d servers of %d pinged (%d%%)
+81	Patch available. Press Ok to download. Press cancel to continue
+82	Not a valid version and no patch available.
+83	Creating profile.
+84	%s entered the chat.
+85	%s left the chat.
+86	*%s%s*
+87	[%s whispers "%s"]
+88	<%s> %s
+89	Join denied.
+Game has been closed.
+90	Starting download.
+91	User not found.
+92	Sent message to %s.
+93	Unknown command.
+Available commands:
+/w <name> <text> - whisper to a user
+/me <text> - emote text
+/i <name> - ignore user
+/ui <name> - unignore user
+/motd - displays Message of the Day
+/ping - starts a refresh of the server pings. Press refresh list to get the new ping times.
+/refresh - starts a refresh of the serverlist.
+94	No version to download.
+95	User %s added to ignorelist
+96	User %s removed from ignorelist
+97	Network connection failed. Please check your Internet connection.
+98	Could not register game on server. General Error.
+99	Could not register game on server. Network Error.
+100	Server is full. Could not register game.
+Select another server or try again.
+101	Create Session - Invalid or missing 'maxclients' parameter.
+102	Create Session - Invalid or missing 'session id' parameter.
+103	Create Session - Invalid or missing 'missionname' parameter.
+104	Create Session - Dedicated Server couldn't create a unique filename for the custom config.
+105	Create Session - Dedicated Server couldn't allocate the custom config.
+106	Create Session - Dedicated Server couldn't store the custom config.
+107	Create Session - Dedicated Server couldn't create session.
+108	Create Session - Missing 'timelimit' value.
+109	Create Session - Missing 'scorelimit' value.
+110	Create Session - Missing 'reinforcementsflag' value.
+111	Create Session - Missing 'reinforceinterval' value.
+112	Create Session - Missing 'apcmode' value.
+113	Create Session - Missing 'friendlyfireflag' value.
+114	Create Session - Missing 'damagefactor' value.
+115	Game registration in progress.
+116	Game already registered on server.
+117	Game registration request sent to server.
+118	Game server reservation completed successfully.
+119	Join denied.
+Game has been closed.
+120	Getting updated list of Dedicated Server. This may take a while.
+121	Updated list of Dedicated Servers retrieved.
+122	Bad password (passwords must have at least 6 characters).
+123	You don't have any of the following required map(s):
+124	THE HOST HAS SELECTED A MAP YOU DO NOT HAVE: 
+125	You have successfully downloaded the map(s). You can now rejoin the game.
+126	The map download site did not contain all the maps you needed. 
+127	The map download was aborted.
+128	The map download failed.
+129	The map download failed.

@@ -1,0 +1,24 @@
+0	Render API
+1	Resolution
+2	640x480
+3	800x600
+4	1024x768
+5	32 bit rendering
+6	View Distance
+7	Terrain Detail
+8	Object Detail
+9	Effect Detail
+10	High Quality Ground
+11	High Quality Sky
+12	Lensflares
+13	Vehicle Tracks
+14	Fog
+15	Cloud shadows
+16	Object shadows
+17	Specular light
+18	Texel Center
+19	Ground Quality
+20	Object Quality
+21	Blend
+22	Additive
+23	Gamma

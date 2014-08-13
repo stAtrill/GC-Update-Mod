@@ -1,0 +1,56 @@
+//building_cc_boxes.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+4.7	//slope size i x
+3.0	//höjd i collision objekt
+6.2	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+14
+
+//main model animation
+Model
+cc_ammoboxes_1
+
+//other stuff
+Radius
+3.5
+Height
+3.0
+PivotHeight
+0.0
+ProjectileProtection
+40
+Power
+600
+
+
+
+
+
+
+
+

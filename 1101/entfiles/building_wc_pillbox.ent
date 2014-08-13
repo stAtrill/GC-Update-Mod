@@ -1,0 +1,88 @@
+//building_wc_pillbox.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+8	//slope size i x
+5	//höjd i collision objekt
+7	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+FIXEDGUN
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//the name of the entity
+Name
+98
+
+//Create an aimer
+UseAimer
+
+//Aimer inställningar
+AimerXDegLimits
+75
+0
+
+//main model animation
+Model
+building_wc_pillbox
+
+ChildOffset
+//offset of the child (X, Y, Z)
+0.0
+0.0
+0.0
+
+//Barrel Model
+BarrelOffset
+//offset of the barrel child (x,y,z)
+0.0
+3.0
+2.5
+
+//fire offset
+FireOffset
+0.0
+0.0
+0.7
+
+//other stuff
+Radius
+3.2
+Height
+5.0
+PivotHeight
+0.0
+HeadTurnSpeed
+2.0
+1.0
+ViewRange
+250.0
+ProjectileProtection
+80
+Power
+3000
+//DETECTION
+Stealth
+0
+Perception
+0
+
+WreckModel
+building_WC_pillbox_wreck
+
+
+

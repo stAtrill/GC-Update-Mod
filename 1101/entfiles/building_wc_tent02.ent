@@ -1,0 +1,57 @@
+//Building_cc_factory01.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+16.0	//slope size i x
+3.0	//höjd i collision objekt
+22.0	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+1
+
+//name of entity (formal name, for editor, etc)
+Name
+221
+
+//main model animation
+Model
+Wc_tent_02
+
+//other stuff
+Radius
+3.0
+Height
+7.0
+PivotHeight
+0.0
+ProjectileProtection
+80
+Power
+300
+
+Wreckmodel
+Wc_tent_02_wreck
+
+

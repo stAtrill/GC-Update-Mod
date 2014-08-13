@@ -1,0 +1,70 @@
+MOVIE 34 36 42 22 movie/briefing/Crayven.cut
+//TOP ROW BORDERS
+PICTURE 31 33 Mngm_T_L_Corner.tga
+PICTURE ID_DEBRIEFPIC 63 33 Mngm_MissionFailure.tga
+PICTURE 319 50 Mngm_R_Of_Header.tga
+PICTURE 461 50 Mngm_U_R_Line.tga
+PICTURE 589 50 Mngm_U_R_Corner.tga
+PICTURE 589 66 Mngm_U_R_Vert_Line.tga
+PICTURE 39 65 Mngm_U_L_Lines.tga
+PICTURE 39 193 Mngm_M_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 238 417 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 462 418 Mngm_U_R_Line.tga
+PICTURE 590 415 Mngm_L_R_Corner.tga
+PICTURE 590 287 Mngm_L_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 39 290 Mngm_L_L_Vert_Line.tga
+PICTURE 31 418 Mngm_L_L_Corner.tga
+//Small pic just right of butt butts
+PICTURE 313 418 Mngm_EndOfLowButts.tga
+PICTURE 326 417 Mngm_Innerframe_Horiz_Free_128.tga
+
+
+//BORDER EFFECT
+//PICTURE 374 424 Mngm_Dropsbord_LEffect1.tga
+PICTURE 502 398 Mngm_Dropsbord_LEffect2.tga
+//PICTURE 585 270 Mngm_Dropsbord_LEffect3.tga
+
+PICTURE 493 425 Mngm_Lborder3.tga
+PICTURE 416 418 Mngm_U_R_Line.tga
+
+
+//Thin Corner
+PICTURE 46 415 Mngm_L_L_Small_Corner.tga
+PICTURE 43 287 Mngm_L_R_Vert_Line.tga
+PICTURE 62 418 Mngm_L_L_Horiz_Line.tga
+
+
+//BUTTON ID_PREVJOURNAL MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 226 396 Mngm_Button_previous.tga 0.4 226 396 Mngm_Button_previous_Eff.tga
+//BUTTON ID_REPLAYJOURNAL MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 312 396 Mngm_Button_replay.tga 0.4 312 396 Mngm_Button_replay_Eff.tga
+//BUTTON ID_NEXTJOURNAL MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 389 396 Mngm_Button_next.tga 0.4 389 396 Mngm_Button_next_Eff.tga
+
+
+TEXTPRINTER ID_JOURNAL gfx/font/font_mui.tga 130 58 380 74
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 574 66 Mngm_Slider_Arrow_U_Rest.tga Mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 574 111 Mngm_Slider_Arrow_Dwn_Rest.tga Mngm_Slider_Arrow_Dwn_Eff.tga
+
+
+SOUND ID_JOURNALSOUND
+
+
+MOVIE ID_PLANETMODEL 53 57 546 423 movie/mui_digitalkrig7b.cut
+
+
+NEWSFLASH ID_NEWSLINE gfx/font/font_mui.tga 130 408 380 22
+
+
+TIMER ID_PLANETTIMER 1.5
+
+
+//Butts
+BUTTON ID_NEXTMISSION KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 63 418 Mngm_NextMission.tga 0.4 63 418 Mngm_NextMission_Eff.tga
+BUTTON ID_STATSBUT MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 211 418 Mngm_Statistics.tga 0.4 211 418 Mngm_Statistics_Eff.tga
+
+// exit
+BUTTON ID_EXITDEBRIEFING MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 510 418 Mngm_LowButt_Exit3.tga 0.4 510 418 Mngm_LowButt_exit3_Eff.tga
+
+BUTTON ID_HELP KEY_F1 MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 561 419 Mngm_Dropsbord_QuestionM.tga 0.4 561 419 Mngm_Question_Eff.tga

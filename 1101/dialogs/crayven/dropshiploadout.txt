@@ -1,0 +1,169 @@
+MOVIE 236 80 164 114 movie/dropshiploadout_dropper.cut
+MOVIE 34 36 42 22 movie/briefing/Crayven.cut
+//TOP ROW BORDERS
+PICTURE 31 33 Mngm_T_L_Corner.tga
+PICTURE 63 33 Mngm_ConfigureDropship_Header.tga
+//PICTURE 300 50 Mngm_R_Of_Header.tga
+PICTURE 461 50 Mngm_U_R_Line.tga
+PICTURE 589 50 Mngm_U_R_Corner.tga
+PICTURE 589 66 Mngm_U_R_Vert_Line.tga
+PICTURE 39 65 Mngm_U_L_Lines.tga
+PICTURE 39 193 Mngm_M_R_Vert_Line.tga
+
+
+
+//BUTT BORDERS
+PICTURE 39 290 Mngm_L_L_Vert_Line.tga
+PICTURE 31 418 Mngm_L_L_Corner.tga
+//Small pic just right of butt butts
+PICTURE 413 418 Mngm_EndOfLowButts.tga
+PICTURE 310 417 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 577 418 Mngm_L_L_Corner_FLH.tga
+PICTURE 585 290 Mngm_L_L_Vert_Line_FLH.tga
+//PICTURE 353 418 Mngm_EndOfLowButts_FLH.tga
+
+
+
+
+//DROPSHIP BORDERS
+
+PICTURE 234 59 Mngm_Dropshiptextbord.tga
+PICTURE 362 59 Mngm_Dropsbord_TL.tga
+PICTURE 490 59 Mngm_Dropsbord_TR.tga
+
+PICTURE 576 91 Mngm_Dropsbord_L_line.tga
+PICTURE 576 219 Mngm_Dropsbord_L_line2.tga
+PICTURE 560 347 Mngm_Dropsbord_LR.tga
+
+PICTURE 216 91 Mngm_Dropsbord_Middle_Crossw.tga
+PICTURE 248 187 Mngm_Dropsbord_Middle_Line.tga
+
+PICTURE 376 187 Mngm_Dropsbord_Middle_corner1.tga
+PICTURE 389 219 Mngm_Dropsbord_Middle_Linedown.tga
+PICTURE 432 412 Mngm_Dropsbord_LL_Horiso.tga
+
+PICTURE 368 396 Mngm_Dropsbord_LM_corner.tga
+
+PICTURE 389 347 Mngm_Dropsbord_LM_Line.tga
+
+PICTURE 107 59 Mngm_Dropsbord_TR_corner1.tga
+PICTURE 43 59 Mngm_Dropsbord_TL_corner1.tga
+PICTURE 48 91 Mngm_Dropsbord_TL_Vertline.tga
+PICTURE 48 219 Mngm_Dropsbord_TL_Vertline2.tga
+PICTURE 48 347 Mngm_Dropsbord_TL_Vertline3.tga
+
+PICTURE 48 411 Mngm_Dropsbord_LL_Corner1.tga
+PICTURE 112 393 Mngm_Dropsbord_LM_corner2.tga
+PICTURE 209 265 Mngm_Dropsbord_LM_Line2.tga
+
+PICTURE 209 219 Mngm_Dropsbord_LM_Line3.tga
+
+//BOXES
+
+
+PICTURE 456 78 Mngm_Dropsbord_Box1L.tga
+PICTURE 456 193 Mngm_Dropsbord_Box2L.tga
+PICTURE 456 306 Mngm_Dropsbord_Box3L.tga
+
+PICTURE 392 78 Mngm_Dropsbord_BoxR.tga
+PICTURE 392 191 Mngm_Dropsbord_BoxR.tga
+PICTURE 392 304 Mngm_Dropsbord_BoxR.tga
+
+PICTURE 396 79 Mngm_1.tga
+PICTURE 396 192 Mngm_2.tga
+PICTURE 396 305 Mngm_3.tga
+
+PICTURE 500 423 Mngm_Lborder_Short.tga
+
+
+
+
+//BORDER EFFECT
+
+//PICTURE 374 424 Mngm_Dropsbord_LEffect1.tga
+PICTURE 502 398 Mngm_Dropsbord_LEffect2.tga
+PICTURE 585 270 Mngm_Dropsbord_LEffect3.tga
+
+
+//SQUAD LISTS
+
+PICTURE 88 78 Mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 106 Mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 134 Mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 162 Mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 190 Mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 218 Mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 246 Mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 274 Mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 302 Mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 330 Mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 358 Mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 386 Mngm_Dropsbord_SquadBox_R.tga
+
+
+PICTURE 56 78 Mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 106 Mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 134 Mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 162 Mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 190 Mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 218 Mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 246 Mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 274 Mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 302 Mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 330 Mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 358 Mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 386 Mngm_Dropsbord_SquadBox_L.tga
+
+//SLIDER BARD FOR SQUAD LIST
+//OLD LINE OF CODE --> SQUADLIST ID_SQUADLIST 58 82 160 360
+SQUADLIST ID_SQUADLIST CLICK_SOUND ButtonPress 58 82 160 360
+SCROLLBAR 217 90 270 Mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 217 377 Mngm_Slider_Arrow_U_Rest.tga Mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 217 400 Mngm_Slider_Arrow_Dwn_Rest.tga Mngm_Slider_Arrow_Dwn_Eff.tga
+
+
+//PICTURE 195 71 Mngm_Dropsbord_ConfigWindow.tga
+PICTURE 231 78 Mngm_Dropsbord_ConfigWindowBack.tga
+
+
+PICTURE 52 57 Mngm_Dropsbord_SquadList.tga
+
+
+TEXT ID_SQUADNAME gfx/font/font_mui_big.tga 239 201 155 18
+TEXT ID_SQUADTEXT gfx/font/font_mui.tga 239 219 155 180
+
+
+//Squad pad for testing LL
+DROPTARGET ID_DROPSHIP11 424 83
+DROPTARGET ID_DROPSHIP12 424 110
+DROPTARGET ID_DROPSHIP13 424 137
+DROPTARGET ID_DROPSHIP14 424 164
+
+//Squad pad for testing LM
+DROPTARGET ID_DROPSHIP21 424 196
+DROPTARGET ID_DROPSHIP22 424 223
+DROPTARGET ID_DROPSHIP23 424 250
+DROPTARGET ID_DROPSHIP24 424 277
+
+//Squad pad for testing LR
+DROPTARGET ID_DROPSHIP31 424 309
+DROPTARGET ID_DROPSHIP32 424 336
+DROPTARGET ID_DROPSHIP33 424 363
+DROPTARGET ID_DROPSHIP34 424 390
+
+
+BUTTON ID_AUTOLOADBUT 495 61 Mngm_Dropsbord_Autoload.tga 0.4 495 61 Mngm_Dropsbord_Autoload.tga
+PICTURE ID_AUTOLOADCHECKBOX 474 61 Mngm_Dropsbord_Checkbox1.tga
+
+
+//BUTTON ID_DSES MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 249 172 Mngm_ConfigSq_new_Eff.tga 0.4 249 172 Mngm_ConfigSq_new.tga
+BUTTON ID_DSES MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 190 418 Mngm_ConfigureSquad_Test.tga 0.4 190 418 Mngm_ConfigureSquad_Test_Eff.tga
+
+
+//Low Butts Left
+BUTTON ID_DSBACK KEY_ESC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 349 418 Mngm_LowButt_Back_New3.tga 0.4 349 418 Mngm_LowButt_Back_New_Eff3.tga
+BUTTON ID_DSACCEPT KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 63 418 Mngm_StartMission.tga 0.4 63 418 Mngm_StartMission_Eff.tga
+
+BUTTON ID_EXITDROPSHIPLOADOUT MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 513 418 Mngm_LowButt_Exit3.tga 0.4 513 418 Mngm_LowButt_exit3_Eff.tga
+
+BUTTON ID_HELP KEY_F1 MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 561 419 Mngm_Dropsbord_QuestionM.tga 0.4 561 419 Mngm_Question_Eff.tga

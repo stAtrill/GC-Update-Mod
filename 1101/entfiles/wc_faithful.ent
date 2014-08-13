@@ -1,0 +1,181 @@
+//wc_faithful.ent
+ModName
+DARKCONS
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+INFANTRY
+
+ApcLoadable
+
+// Squad button
+Button
+UNITICO_INF_3_FAITH.tga
+
+// Squad button "in-apc" icon
+ApcButton
+UNITICO_INF_IN_TRANSP_4_faith.tga
+
+// Max number of units in squad
+MaxUnits
+12
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+Description
+263
+
+BranchSortOrderValue
+3
+
+//the name of the entity
+Name
+262
+
+//score awarded in mp per unit in squad
+//default is 1 per unit
+MultiplayerScorePerEntity
+1
+
+//type of mover(foot, air, vehicle)
+MoverType
+foot
+
+//Flag to say if main object will follow aimer
+AimerInYControl
+
+//Create an aimer
+UseAimer
+
+//Thou shall bleed
+FleshFlag
+
+//death chunk model
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+
+//no default death effect
+NoDefaultDeathEffect
+
+//main model animation
+Model
+wc_faithful
+
+//fire offset
+FireOffset
+0.0
+1.4
+1.7
+
+//Fires in static direction
+StaticFireDir
+0.0
+1.0
+1.0
+//other stuff
+Radius
+1.3
+Height
+2.2
+PivotHeight
+0.0
+Acceleration
+110.0
+Friction
+100.0
+MaxSpeed
+10.0
+TurnSpeed
+//Radianer/sekund    6.28 = 1 varv/sekund
+4.0
+HeadTurnSpeed
+5.0
+0.0
+SlopeBorder
+2
+ViewRange
+300.0
+ProjectileProtection
+40
+Power
+1200
+// Detection
+Stealth
+50
+Perception
+0
+//WRECK
+wreckmodel
+Death_wc_faithful_wreck_part1
+wreckmodel
+Death_wc_faithful_wreck_part2
+wreckmodel
+Death_wc_faithful_wreck_part3
+wreckmodel
+Death_wc_faithful_wreck_part4
+wreckmodel
+Death_wc_faithful_wreck_part5
+
+//sound bank
+//valid banks are:
+//CRAYVEN_ANTIAIRVEHICLE
+//CRAYVEN_ARTILLERYVEHICLE
+//CRAYVEN_ATTACKAERODYNE
+//CRAYVEN_BOMBERAERODYNE
+//CRAYVEN_COMMANDAPC
+//CRAYVEN_ENGINEERTRUCKER
+//CRAYVEN_FIGHTERAERODYNE
+//CRAYVEN_HEAVYTANK
+//CRAYVEN_JAEGER
+//CRAYVEN_LIGHTTANK
+//CRAYVEN_MARINE
+//CRAYVEN_MEDIUMTANK
+//CRAYVEN_ROCKETVEHICLE
+//CRAYVEN_SCOUTAERODYNE
+//CRAYVEN_SCOUTVEHICLE
+//OND_ANTIAIRVEHICLE
+//OND_ARTILLERYVEHICLE
+//OND_ATTACKAERODYNE
+//OND_BEAMPLATFORM
+//OND_COMMANDAPC
+//OND_CRUSADER
+//OND_DRONECARRIER
+//OND_ENGINEERTRUCKER
+//OND_FIGHTERAERODYNE
+//OND_HEAVYHOVERDYNE
+//OND_LIGHTHOVERDYNE
+//OND_MEDIUMHOVERDYNE
+//OND_SCOUTAERODYNE
+//OND_SCOUTVEHICLE
+//OND_TEMPLAR
+SoundBank
+OND_FAITHFUL
+
+
+

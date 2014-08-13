@@ -1,0 +1,326 @@
+MASSIVE ENTERTAINMENT
+
+DIRECTOR & LEAD GAME DESIGNER
+Martin Walfisz
+
+LEAD SOFTWARE ENGINEER
+Dan Andersson
+
+TECHNICAL DIRECTOR
+Mats Grahm
+
+ART DIRECTOR
+Tobias Strömvall
+
+LEAD MISSION DESIGNER
+Henrik Sebring
+
+GAME DESIGN
+Martin Walfisz
+Henrik Sebring
+
+SOFTWARE ENGINEERING
+Dan Andersson
+Johannes Norneby
+Martin Rystrand
+Daniel Ljungberg
+
+3D ENGINE DEVELOPMENT
+Mats Grahm
+Niklas Hansson
+
+ART
+Tobias Strömvall
+Thomas Bengtsson
+Orhan Karagöz
+Joakim Månsson
+Glenn Kristoffersen
+
+MISSION DESIGN
+Henrik Sebring
+Per Edman
+Niklas Larsson
+Anders Olsson
+Johan Persson
+
+MUSIC & AUDIO EFFECTS
+Ola Strandh
+
+PROJECT MANAGEMENT & QA LEAD
+Peter Kullgard
+
+QA TEAM
+Peter Kullgard
+Martin Persson
+Richard Hultgren
+Carl Fransson
+Fredrik Jansson
+
+GAME STORY
+Marcus Skyler
+Henrik Sebring
+Martin Walfisz
+
+MANUAL CONTENT
+Henrik Sebring
+Marcus Skyler
+
+ADDITIONAL ART
+Magnus Larsson
+Jonas Dahlin
+
+PR COORDINATOR
+Anne Eckles
+
+FINANCES
+Mats Melander
+
+SPECIAL THANKS TO
+Christian Pérez
+Susan Lewis (ThinkBIG)
+Paul Grace
+Jeff Lee
+Magnus Nilsson
+Sven Jansson
+Tomas Althén
+Arne Borg
+Johan "Bepp" Ramestam
+Andreas "Diktator" Selling
+Christian Franzén
+Åsa Wiebe
+Stefan Sylvén
+Fredrik Nilsson
+Patrik Berander
+John Tillberg
+Cpt. Björn Kullgard
+Mathias Malmqvist
+Elizabeth Lindau
+Ronnie Nilsson
+Patrik Nilsson KA2
+Chefen KA2
+The Swedish Armed Forces
+
+
+
+
+
+SIERRA STUDIOS
+
+Senior Vice President
+J. Mark Hood
+
+DEVELOPMENT
+Producer
+Jeff Pobst
+Assistant Producer
+Bernadette Pryor
+
+CINEMATIC DIRECTION
+Directing & Editing
+Jim Carey
+Additional Direction
+Jeff Pobst
+
+MARKETING
+Vice President Marketing
+Jim Veevaert
+Director of Marketing
+Koren Buckner
+Associate Product Manager
+Marc Tardif
+Marketing Producer
+Glenn Oliver
+Web Editor
+Guy Welch
+Marketing Info. Manager
+Ingrid Pelzer
+Marketing Info. Assistant
+Jelaine Kraetsch
+European Brand Manager
+Djamil Kamal
+
+PUBLIC RELATIONS
+Public Relations Manager
+Hillary Crowley
+Sr. Public Relations Manager
+Genevieve Ostergard
+Public Relations Coordinator
+Kellie Hobin
+
+PACKAGE DESIGN
+MarCom Manager
+Justin Kirby
+Creative Services
+Orlena Yeung
+BlueSpark Studios
+David Brzozowski
+Dien Duong
+Game Manual
+Cheryl Sweeney
+
+WON.NET NETWORKING
+Producer
+Ross Perez
+Engineers
+Mike Nicolino
+Erik De Bonte
+Lee Olds
+Noel Wade
+Brian Rothstein
+Len Skiena
+Dean Webster
+Quality Assurance
+Eric Harman
+David Cain
+
+DIALOGUE RECORDING
+Voice Directing & Casting
+Jeff Pobst
+Voice Recording Specialist
+Ben Houge
+Voices Recorded at
+Hollywood Recording Services
+Hollywood, CA
+Voice Recording Engineer
+Alex Triujeque
+Voice Casting Agency
+The Voicecaster, Burbank, CA
+Voice Casting Agents
+Martha Mayakis
+LeAnn Koehnen
+Lisa Dyson
+Huck Liggett
+Talent Paymaster
+The Talent Fund, Half-Moon Bay, CA.
+
+
+
+
+
+CAST OF CHARACTERS
+Sarah Parker          Jennifer Hale
+Deacon Stone          Dee Baker
+Annie-1               Allison Levine
+Ghost                 Andre Ware
+Enrica Hayes          Tasia Valenza
+Paladin Magnus        Gregg Berger
+Cardinal Aegeri       Philip Clarke
+Sergeant Cole         Nathan Carlson
+Major Thomas          David Jeremiah
+Bishop Delendre       Mark Klastorin
+"M"                   Nick Guest
+
+Additional Voice Acting
+Anne Eckles
+Lina Ehn
+
+Squad & Dropship Voices
+Dee Baker             Gregg Berger
+Nathan Carlson        Philip Clarke
+Nick Guest            Jennifer Hale
+Nick Jameson          David Jeremiah
+Mark Klastorin        Joyce Kurtz
+Allison Levine        Michael McGaharn
+Daran Norris          Anneliza Scott
+Tasia Valenza         Andre Ware
+
+QUALITY ASSURANCE
+QA Manager
+Gary Stevens
+QA Supervisor
+Ken Eaton
+QA Lead
+Chris Mason
+QA Testers
+Chad Martin Danny Harrison
+Dan Nations Quang Pham
+Erinn Hamilton Lester Stocker
+Phil Kuhlmey Joe Easter
+Zach Hays Dave Thomas II
+Dave Johnson Mark Storie
+Brian Theissen Brian Burnett
+Chris Lee Ryan Watson
+Michael Grant Craig Bradford
+
+HARDWARE COMPATIBILITY
+Compatibility Lab Manager
+Pat Callahan
+Compatibility Lab Technicians
+Brad Rosenthal
+Eric Leaf
+
+SUPPORT STAFF
+Corp. Product Certification
+Matthew Kangas
+Tech. Support Manager
+Brian Moss
+Tech. Support Lead
+Tracy Green
+
+LOCALIZATION
+Producer
+Barry Kehoe
+Engineering Lead
+Sean Forsyth
+Engineering
+Stephen Forsyth
+Joanne Russel
+QA Lead
+Sean Moran
+Graphics Lead
+David Fleming
+Audio
+Bill Sweeney
+ROW Producer
+Warren Wright
+
+SPECIAL THANKS
+Hubert Joly
+Dave Grenewetzki
+Dave Williamson
+Ralph Giuffre
+Suki Hayre
+Brad Nelson
+Emmanuel Schalit
+Kelly Zmak
+Fiona O’Carroll
+Mark Iverson
+Michael Fuller
+Doug Lombardi
+Adam Fossa
+Christine Smith
+Tassie Medlin
+Patricia Rice
+Beth Freeman
+Patricia Smith
+Ground Control Beta Testers
+
+
+
+
+
+VERY SPECIAL THANKS TO
+Spouses and families (for (most of them) still being there despite us ignoring them during crunch time)
+The Offspring for Pretty Fly (for a White Guy)
+Everyone at the Squad Leader photo session
+Pub&Café (PC) for providing beer at desperate times
+Kauren
+Baugen
+Husqvarna
+Laserdome
+Food at Palermo/Petros/Piaff/Brunnen/The Chinese place/Cillas Bafe
+Coca Cola
+The coffee machine (yes, it also makes chocolate!)
+Brutal-Akademien
+Slitz
+Massive Mobile
+Nicole who had to postpone her honeymoon
+...and everyone else who helped out! THANKS!
+
+Uses Bink Video, Copyright 1997-2000 by RAD Game Tools, Inc.
+
+
+
+
+
+(c) 2000 Massive Entertainment AB and Sierra On-line, Inc.

@@ -1,0 +1,78 @@
+//LIGHNING
+ModName
+DARKCONS
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, SUPPORT, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+4
+
+Noteammarker
+
+//the name of the entity
+Name
+224
+
+//type of mover(foot, air, vehicle)
+MoverType
+vehicle
+
+//main model animation
+Model
+LIGHTNING_prop
+
+
+
+//------------------------------------------------
+
+//other stuff
+Radius
+4.5
+Height
+8.0
+PivotHeight
+0.35
+Acceleration
+101.0
+Friction
+100.0
+MaxSpeed
+7.0
+//Radianer/sekund    6.28 = 1 varv/sekund
+TurnSpeed
+3.0
+HeadTurnSpeed
+0.5
+0.5
+SlopeBorder
+2
+ViewRange
+250.0
+ProjectileProtection
+2000
+Power
+1
+// Detection
+Stealth
+0
+Perception
+0
+
+
+
+

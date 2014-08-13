@@ -1,0 +1,102 @@
+//building_cc_pillboxtower.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+9	//slope size i x
+18	//höjd i collision objekt
+9	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+FIXEDGUN
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//the name of the entity
+Name
+51
+
+//Create an aimer
+UseAimer
+
+//Aimer inställningar
+AimerXDegLimits
+90
+330
+
+//main model animation
+Model
+building_cc_pillboxtower
+
+ChildOffset
+//offset of the child (X, Y, Z)
+0.0 
+13.4 
+0.0
+
+//Barrel Model
+BarrelOffset
+//offset of the barrel child (x,y,z)
+0.0
+0.0
+2.95
+
+//Number of firing offsets
+FireOffsetCount
+1
+
+//fire offset (X, -Y, Z)
+FireOffset
+-0.84
+0.47
+2.93
+
+//other stuff
+Radius
+4.5
+Height
+18.0
+PivotHeight
+0.0
+HeadTurnSpeed
+2.0
+2.0
+ViewRange
+300.0
+ProjectileProtection
+80
+Power
+3000
+Stealth
+0
+Perception
+0
+WreckModel
+Building_CC_Pillboxtower_Wreck.mdl
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover, snd_engine_vehicle, snd_engine_air,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+AmbientSound
+snd_ambient_building1
+
+
+

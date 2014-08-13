@@ -1,0 +1,179 @@
+MOVIE 32 36 44 22 movie/briefing/PHOENIX.cut
+//TOP ROW BORDERS
+PICTURE 31 33 pxcol/mngm_T_L_Corner.tga
+PICTURE ID_DEBRIEFPIC 63 33 pxcol/mngm_MissionFailure.tga
+PICTURE 319 50 pxcol/mngm_R_Of_Header.tga
+PICTURE 461 50 pxcol/mngm_U_R_Line.tga
+PICTURE 589 50 pxcol/mngm_U_R_Corner.tga
+PICTURE 589 66 pxcol/mngm_U_R_Vert_Line.tga
+PICTURE 39 65 pxcol/mngm_U_L_Lines.tga
+PICTURE 39 193 pxcol/mngm_M_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 238 417 pxcol/mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 462 418 pxcol/mngm_U_R_Line.tga
+PICTURE 590 415 pxcol/mngm_L_R_Corner.tga
+PICTURE 590 287 pxcol/mngm_L_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 39 290 pxcol/mngm_L_L_Vert_Line.tga
+PICTURE 31 418 pxcol/mngm_L_L_Corner.tga
+//Small pic just right of butt butts
+PICTURE 302 418 pxcol/mngm_EndOfLowButts.tga
+PICTURE 326 417 pxcol/mngm_Innerframe_Horiz_Free_128.tga
+
+
+
+
+//BORDER EFFECT
+//PICTURE 374 424 pxcol/mngm_Dropsbord_LEffect1.tga
+PICTURE 502 398 pxcol/mngm_Dropsbord_LEffect2.tga
+//PICTURE 585 270 pxcol/mngm_Dropsbord_LEffect3.tga
+
+PICTURE 493 425 pxcol/mngm_Lborder3.tga
+PICTURE 416 418 pxcol/mngm_U_R_Line.tga
+
+
+//Thin Corner
+PICTURE 46 415 pxcol/mngm_L_L_Small_Corner.tga
+PICTURE 43 287 pxcol/mngm_L_R_Vert_Line.tga
+PICTURE 62 418 pxcol/mngm_L_L_Horiz_Line.tga
+
+//SQUAD CONFIGURATION BOARDERS
+
+PICTURE 55 116 pxcol/mngm_Squads_SHeader.tga
+PICTURE 183 116 pxcol/mngm_EquipSquad_Dropships2.tga
+
+
+//BOARDERS
+
+PICTURE 536 361 pxcol/mngm_Slider_Base.tga
+PICTURE 573 233 pxcol/mngm_Slider_mid2.tga
+
+PICTURE 233 410 pxcol/mngm_Innerframe_SW_corner.tga
+PICTURE 249 412 pxcol/mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 233 346 pxcol/mngm_Innerframe_Vert_Ltoend.tga
+
+
+PICTURE 583 55 pxcol/mngm_Innerframe_UR_corner.tga
+PICTURE 585 71 pxcol/mngm_Innerframe_Dial_left.tga
+PICTURE 519 54 pxcol/mngm_Innerframe_Horiz_Rtoend.tga
+
+PICTURE 339 56 pxcol/mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 334 412 pxcol/mngm_Innerframe_Horiz_Free_128.tga
+
+PICTURE 234 55 pxcol/mngm_T_L_Corner2.tga
+PICTURE 232 66 pxcol/mngm_Slider_upper.tga
+PICTURE 249 55 pxcol/mngm_L_L_Horiz_Line.tga
+
+
+
+
+PICTURE 234 231 pxcol/mngm_T_L_Corner2.tga
+PICTURE 232 242 pxcol/mngm_Slider_upper.tga
+PICTURE 249 231 pxcol/mngm_L_L_Horiz_Line.tga
+
+PICTURE 339 230 pxcol/mngm_Innerframe_Horiz_Free_128.tga
+
+PICTURE 573 231 pxcol/mngm_Innerframe_UR_corner.tga
+PICTURE 575 247 pxcol/mngm_Innerframe_Dial_left.tga
+PICTURE 509 230 pxcol/mngm_Innerframe_Horiz_Rtoend.tga
+
+
+
+
+
+
+
+PICTURE 586 223 pxcol/mngm_Innerframe_LR_corner.tga
+PICTURE 522 224 pxcol/mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 587 159 pxcol/mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 233 223 pxcol/mngm_Innerframe_SW_corner.tga
+PICTURE 249 225 pxcol/mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 233 159 pxcol/mngm_Innerframe_Vert_Ltoend.tga
+
+
+
+
+
+PICTURE 177 361 pxcol/mngm_Slider_Base.tga
+PICTURE 214 233 pxcol/mngm_Slider_mid2.tga
+
+PICTURE 49 410 pxcol/mngm_Innerframe_SW_corner.tga
+PICTURE 65 412 pxcol/mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 49 346 pxcol/mngm_Innerframe_Vert_Ltoend.tga
+
+
+
+//UNITBOXES
+
+PICTURE 88 134 pxcol/mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 162 pxcol/mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 190 pxcol/mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 218 pxcol/mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 246 pxcol/mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 274 pxcol/mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 302 pxcol/mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 330 pxcol/mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 358 pxcol/mngm_Dropsbord_SquadBox_R.tga
+PICTURE 88 386 pxcol/mngm_Dropsbord_SquadBox_R.tga
+
+
+PICTURE 56 134 pxcol/mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 162 pxcol/mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 190 pxcol/mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 218 pxcol/mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 246 pxcol/mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 274 pxcol/mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 302 pxcol/mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 330 pxcol/mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 358 pxcol/mngm_Dropsbord_SquadBox_L.tga
+PICTURE 56 386 pxcol/mngm_Dropsbord_SquadBox_L.tga
+
+
+TEXT ID_MEDAL9TEXT gfx/font/font_mui_big_px.tga 500 68 30 32
+TEXT ID_MEDAL10TEXT gfx/font/font_mui_big_px.tga 500 68 30 32
+TEXT ID_MEDAL11TEXT gfx/font/font_mui_big_px.tga 500 68 30 32
+
+BUTTON ID_MISSIONSTATPIC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 68 78 pxcol/mngm_MissionStats.tga 0.4 67 77 pxcol/mngm_MissionStats_Eff.tga
+
+
+LIST ID_ROSTERLIST CLICK_SOUND ButtonPress2 60 139 157 281 pxcol/mngm_Listitem_Marker.tga
+SCROLLBAR 207 132 241 pxcol/mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 221 378 pxcol/mngm_Slider_Arrow_U_Rest.tga pxcol/mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 221 402 pxcol/mngm_Slider_Arrow_Dwn_Rest.tga pxcol/mngm_Slider_Arrow_Dwn_Eff.tga
+
+
+TEXT ID_ROSTERNAME gfx/font/font_mui_big_px.tga 247 68 350 18
+TEXT ID_ROSTERINFOOVERALL gfx/font/font_mui_px.tga 247 85 350 323
+
+
+TEXT ID_ROSTERINFO gfx/font/font_mui_px.tga 247 241 350 180
+SCROLLBAR 566 232 146 pxcol/mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 580 377 pxcol/mngm_Slider_Arrow_U_Rest.tga pxcol/mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 580 401 pxcol/mngm_Slider_Arrow_Dwn_Rest.tga pxcol/mngm_Slider_Arrow_Dwn_Eff.tga
+
+
+PICTURE ID_MEDAL1 533 68
+PICTURE ID_MEDAL2 501 68
+PICTURE ID_MEDAL3 469 68
+
+PICTURE ID_MEDAL4 533 68
+PICTURE ID_MEDAL5 501 68
+
+PICTURE ID_MEDAL6 533 68
+PICTURE ID_MEDAL7 501 68
+PICTURE ID_MEDAL8 469 68
+
+PICTURE ID_MEDAL9 533 68
+PICTURE ID_MEDAL10 533 68
+PICTURE ID_MEDAL11 533 68
+
+
+//butts
+BUTTON ID_NEXTMISSION KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 63 418 pxcol/mngm_NextMission.tga 0.4 63 418 pxcol/mngm_NextMission_Eff.tga
+BUTTON ID_TODEBRIEF MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 211 418 pxcol/mngm_Progress.tga 0.4 211 418 pxcol/mngm_Progress_Eff.tga
+BUTTON ID_EXITSTATS MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 510 418 pxcol/mngm_LowButt_Exit3.tga 0.4 510 418 pxcol/mngm_LowButt_exit3_Eff.tga
+
+BUTTON ID_HELP KEY_F1 MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 561 419 pxcol/mngm_Dropsbord_QuestionM.tga 0.4 561 419 pxcol/mngm_Question_Eff.tga

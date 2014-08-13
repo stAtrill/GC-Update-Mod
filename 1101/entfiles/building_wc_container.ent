@@ -1,0 +1,59 @@
+//building_wc_container.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+8	//slope size i x
+5.5	//höjd i collision objekt
+13	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//name of entity (formal name, for editor, etc)
+Name
+80
+
+//main model animation
+Model
+building_wc_container
+
+//other stuff
+Radius
+4.0
+Height
+5.5
+PivotHeight
+0.0
+ProjectileProtection
+50
+Power
+1000
+
+
+WreckModel
+building_wc_container_wreck
+WreckModel
+building_wc_container_wreck2
+
+
+
+
+

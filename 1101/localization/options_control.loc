@@ -1,0 +1,81 @@
+// squad selection
+0	Snap to Unit
+1	Select APC
+2	Select Squad 1
+3	Select Squad 2
+4	Select Squad 3
+5	Select Squad 4
+6	Select Squad 5
+7	Select Squad 6
+8	Select Squad 7
+9	Select Squad 8
+10	Select Squad 9
+11	Select Squad 10
+12	Select Squad 11
+13	Select Squad 12
+14	Select All Squads
+15	Deselect All
+// squad orders
+16	Stack Order
+17	Force Fire Order
+18	Force Move Order
+19	Guard Order
+20	Cancel Order
+21	Cycle Movement Mode
+22	Cycle Fire Mode
+23	Cycle Formation
+24	Use Special Equipment
+25	Use Special Weapon
+// camera
+26	Forward
+27	Back
+28	Strafe Left
+29	Strafe Right
+30	Up
+31	Down
+32	Fast Up
+33	Fast Down
+34	Turn Left
+35	Turn Right
+36	Look Up
+37	Look Down
+// toggles
+38	Toggle Squad Menu
+39	Hide Interface
+40	Game Menu
+41	Player Information
+42	Toggle Large Map
+43	Show Entity Range
+44	Pause
+45	Save Screenshot
+46	Chat
+47	Drop Dropship 1
+48	Drop Dropship 2
+49	Drop Dropship 3
+//mouse
+50	Mouse Sensitivity
+51	Disable Wheel
+52	Left Click Move
+53	Left Click Attack
+54	Camera Rotation Speed
+//joystick
+55	Disable Joystick
+56	Forward
+57	Invert Forward
+58	Strafe
+59	Invert Strafe
+60	Up
+61	Invert Up
+62	Turn
+63	Invert Turn
+64	Look Up
+65	Invert Look Up
+66	None
+67	X-axis
+68	Y-axis
+69	Z-axis
+70	X Rotation
+71	Y Rotation
+72	Z Rotation
+73	Joystick
+74	No Joystick Found

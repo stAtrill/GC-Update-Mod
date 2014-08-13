@@ -1,0 +1,60 @@
+//building_wc_communications_transmitter
+ModName
+DARKCONS
+
+SlopeModifier
+3	//slope värde
+102	//slope size i x
+22	//höjd i collision objekt
+125	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//name of entity (formal name, for editor, etc)
+Name
+281
+
+//main model animation
+Model
+building_wc_communications_transmitter
+
+//other stuff
+Radius
+10
+Height
+10
+PivotHeight
+0.0
+ProjectileProtection
+80
+Power
+10000
+
+WreckModel
+building_wc_communications_transmitter_wreck
+
+
+
+
+

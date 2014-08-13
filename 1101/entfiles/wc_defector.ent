@@ -1,0 +1,119 @@
+//WC_commandapc.ent
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, SUPPORT, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+SUPPORT
+
+// Squad button
+Button
+unitico_transp_2.tga
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+0
+
+UseAimer
+
+//the name of the entity
+Name
+157
+
+//type of mover(foot, air, vehicle)
+MoverType
+hover
+
+//main model animation
+Model
+wc_apc
+
+//_________________OFFSETTJAFSOCHANNATSTRUL___________________
+//child animation
+ChildOffset
+cc_lighttank_turret
+//offset of the child (X, -Y, Z)
+0.15 
+1.1 
+-3.3
+
+//Barrel Model
+BarrelOffset
+//offset of the barrel child (x,y,z)
+0.0 
+2.3 
+-0.45
+
+
+//fire offset (X, -Y, Z)
+FireOffset
+0
+0
+0.5
+
+//____________ENDOF_OFFSETTJAFSOCHANNATSTRUL___________________
+
+//other stuff
+Radius
+4.5
+Height
+4.5
+PivotHeight
+5.5
+Acceleration
+90.0
+Friction
+75.0
+MaxSpeed
+30.0
+TurnSpeed
+//Radianer/sekund    6.28 = 1 varv/sekund
+2.2
+HeadTurnSpeed
+2.0
+2.0
+SlopeBorder
+1
+ViewRange
+300.0
+ProjectileProtection
+89
+Power
+9000
+FlyingHeight
+5.5
+// Detection
+Stealth
+0
+Perception
+0
+//WRECK
+WreckModel
+wc_apc_wreck_delendre
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover1-2, snd_engine_vehicle1-2, snd_engine_air1-2,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+AmbientSound
+snd_engine_vehicle1
+
+Description
+179
+
+BranchSortOrderValue
+3
+

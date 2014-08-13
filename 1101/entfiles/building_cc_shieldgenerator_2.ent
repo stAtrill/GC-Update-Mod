@@ -1,0 +1,55 @@
+//building_cc_shieldgenerator_2.ent
+ModName
+DARKCONS
+
+SlopeModifier
+3	//slope värde
+110	//slope size i x
+13	//höjd i collision objekt
+110	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+287
+
+//main model animation
+Model
+building_cc_shieldgenerator_2
+
+//other stuff
+Radius
+12.0
+Height
+12.0
+PivotHeight
+0.0
+ProjectileProtection
+10000
+Power
+10000
+
+WreckModel
+building_cc_shieldgenerator_2_wreck

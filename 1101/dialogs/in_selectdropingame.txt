@@ -1,0 +1,128 @@
+TEXT ID_IN_PINGPROG gfx/font/font_mui.tga 350 41 200 20
+
+//TOP ROW BORDERS
+PICTURE 31 33 Mngm_T_L_Corner.tga
+PICTURE 63 33 Mngm_Header_Drop-InGame.tga
+PICTURE 319 50 Mngm_R_Of_Header.tga
+PICTURE 461 50 Mngm_U_R_Line.tga
+PICTURE 589 50 Mngm_U_R_Corner.tga
+PICTURE 589 66 Mngm_U_R_Vert_Line.tga
+PICTURE 39 65 Mngm_U_L_Lines.tga
+PICTURE 39 223 Mngm_M_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 238 417 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 462 418 Mngm_U_R_Line.tga
+PICTURE 590 415 Mngm_L_R_Corner.tga
+PICTURE 590 287 Mngm_L_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 39 290 Mngm_L_L_Vert_Line.tga
+PICTURE 31 418 Mngm_L_L_Corner.tga
+//Small pic just right of butt butts
+PICTURE 127 418 Mngm_EndOfLowButts.tga
+PICTURE 326 417 Mngm_Innerframe_Horiz_Free_128.tga
+
+
+
+//BORDER EFFECT
+
+//PICTURE 374 424 Mngm_Dropsbord_LEffect1.tga
+PICTURE 502 398 Mngm_Dropsbord_LEffect2.tga
+//PICTURE 585 270 Mngm_Dropsbord_LEffect3.tga
+
+PICTURE 493 425 Mngm_Lborder3.tga
+PICTURE 416 418 Mngm_U_R_Line.tga
+
+
+//BOARDERS
+PICTURE 586 410 Mngm_Innerframe_LR_corner.tga
+PICTURE 522 411 Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 587 346 Mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 233 410 Mngm_Innerframe_SW_corner.tga
+PICTURE 249 412 Mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 233 346 Mngm_Innerframe_Vert_Ltoend.tga
+
+
+PICTURE 573 141 Mngm_Innerframe_UR_corner.tga
+PICTURE 575 157 Mngm_Innerframe_Dial_left.tga
+PICTURE 509 140 Mngm_Innerframe_Horiz_Rtoend.tga
+
+PICTURE 339 140 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 334 412 Mngm_Innerframe_Horiz_Free_128.tga
+
+PICTURE 234 141 Mngm_T_L_Corner2.tga
+PICTURE 232 152 Mngm_Slider_upper.tga
+PICTURE 249 141 Mngm_L_L_Horiz_Line.tga
+
+
+PICTURE 573 152 Mngm_Slider_upper.tga
+
+PICTURE 536 361 Mngm_Slider_Base.tga
+PICTURE 573 243 Mngm_Slider_mid2.tga
+
+
+PICTURE 241 125 Mngm_Header_Drop-inGames.tga
+
+
+
+
+
+PICTURE 234 154 Mngm_Innerframe_SW_corner.tga
+PICTURE 250 156 Mngm_Innerframe_Horiz_Ltoend.tga
+
+PICTURE 239 156 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 320 156 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 440 156 Mngm_Innerframe_Horiz_Free_128.tga
+
+
+PICTURE 574 154 Mngm_Innerframe_LR_corner.tga
+PICTURE 510 155 Mngm_Innerframe_Horiz_Rtoend.tga
+
+PICTURE 573 152 Mngm_Slider_upper.tga
+
+//BANNERCLIPS
+
+PICTURE 87 58 Mngm_Boarder_Clip_Left.tga
+PICTURE 505 58 Mngm_Boarder_Clip_Right.tga
+
+PICTURE 398 53 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 208 53 Mngm_Innerframe_Horiz_Free_128.tga
+
+PICTURE 418 118 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 108 118 Mngm_Innerframe_Horiz_Free_128.tga
+
+
+//Thin Corner
+PICTURE 46 415 Mngm_L_L_Small_Corner.tga
+PICTURE 43 287 Mngm_L_R_Vert_Line.tga
+PICTURE 62 418 Mngm_L_L_Horiz_Line.tga
+
+TEXT ID_NAMESERVERLIST gfx/font/font_mui.tga 264 149 184 20
+TEXT ID_PINGSERVERLIST gfx/font/font_mui.tga 445 149 30 20
+TEXT ID_NUMPLYSSERVERLIST gfx/font/font_mui.tga 475 149 30 20
+TEXT ID_MAPSERVERLIST gfx/font/font_mui.tga 505 149 80 20
+
+//BUTTS
+BUTTON ID_ACCEPTLANJOIN KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 48 147 Mngm_JoinGame.tga 0.4 48 147 Mngm_JoinGame_Eff.tga
+// Dropin list with scrollbar
+LIST ID_LANSERVERLIST CLICK_SOUND ButtonPress2 247 165 334 258 Mngm_Listitem_Marker.tga
+SCROLLBAR 566 161 215 Mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 580 377 Mngm_Slider_Arrow_U_Rest.tga Mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 580 401 Mngm_Slider_Arrow_Dwn_Rest.tga Mngm_Slider_Arrow_Dwn_Eff.tga
+
+BUTTON ID_IN_REFRESHDROPINGLIST MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 48 185 Mngm_RefreshList.tga 0.4 48 185 Mngm_RefreshList_Eff.tga
+
+BUTTON ID_LAUNCHGCNEWS MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 48 237 Mngm_GCNews.tga 0.4 48 237 Mngm_GCNews_Eff.tga
+BUTTON ID_LAUNCHGCSTRATEGY MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 48 275 Mngm_GCStrategy.tga 0.4 48 275 Mngm_GCStrategy_Eff.tga
+BUTTON ID_LAUNCHGCCOMMUNITY MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 48 313 Mngm_GCCommunity.tga 0.4 48 313 Mngm_GCCommunity_Eff.tga
+
+
+BUTTON ID_EXIT MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 510 418 Mngm_LowButt_Exit3.tga 0.4 510 418 Mngm_LowButt_exit3_Eff.tga
+BUTTON ID_IN_LEAVE KEY_ESC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 63 418 Mngm_LowButt_Back.tga 0.4 63 418 Mngm_LowButt_Eff_Back.tga
+
+BUTTON ID_HELP KEY_F1 MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 561 419 Mngm_Dropsbord_QuestionM.tga 0.4 561 419 Mngm_Question_Eff.tga
+
+//BANNER
+PICTURE ID_BANNER 92 63

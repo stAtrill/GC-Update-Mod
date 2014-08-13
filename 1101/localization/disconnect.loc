@@ -1,0 +1,28 @@
+0	Disconnected (no reason specified)
+1	Connection failed (GC:R-Link)
+2	Connection failed (GC:U-Link)
+3	Failed to load mission
+4	Failed to calculate squad checksum
+5	Failed to create world
+6	Failed to create interface
+7	Lost server connection
+8	User aborted connection
+9	Illegal track client
+10	Invalid color
+11	Invalid team
+12	Normal disconnection
+13	Lost client connection
+14	Bad mission version
+15	Bad squad checksum
+16	Bad entity type checksum
+17	Invalid entity type
+18	Bad weapon type checksum
+19	Invalid weapon type
+20	Invalid dropship name
+21	Server is full
+22	Sync-Start game already in progress
+23	Server shutdown
+24	Invalid protocol version
+25	Invalid mod name
+26	Invalid password
+27	Invalid net id or non-client (GC-U-Link)

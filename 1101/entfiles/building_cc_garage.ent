@@ -1,0 +1,60 @@
+//building_cc_ammodepot.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+34	//slope size i x
+5.3	//höjd i collision objekt
+18.0	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+0
+
+//name of entity (formal name, for editor, etc)
+Name
+35
+
+//main model animation
+Model
+building_cc_garage
+//other stuff
+Radius
+10.0
+Height
+5.0
+PivotHeight
+0.0
+ProjectileProtection
+80
+Power
+10000
+
+WreckModel
+building_cc_garage_wreck
+WreckModel
+building_cc_garage_wreck_02
+
+
+
+

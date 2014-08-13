@@ -1,0 +1,95 @@
+//building_cc_wallgun.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+14	//slope size i x
+11	//höjd i collision objekt
+12	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+FIXEDGUN
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//the name of the entity
+Name
+68
+
+//Create an aimer
+UseAimer
+
+//Aimer inställningar
+AimerXDegLimits
+70
+355
+
+//main model animation
+Model
+building_cc_wallgun
+
+ChildOffset
+//offset of the child (X, Y, Z)
+0.0
+0.0 
+-2.21
+
+//Barrel Model
+BarrelOffset
+//offset of the barrel child (x,y,z)
+0.0
+9.0
+-1.0
+
+//fire offset (X, -Y, Z)
+FireOffset
+1.97
+0.12
+6.4
+
+//other stuff
+Radius
+5.0
+Height
+11.0
+PivotHeight
+0.0
+HeadTurnSpeed
+2.0
+2.0
+ViewRange
+350.0
+ProjectileProtection
+90
+Power
+2500
+//DETECTION
+Stealth
+0
+Perception
+0
+WreckModel
+building_cc_wallgun_wreck
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+0	Mission not downloaded yet or description missing.
+1	No mission selected for game yet.
+2	Time limit
+3	Score limit
+4	Reinforcements
+5	Reinforce interval
+6	Techlevel
+7	Cycle Teams
+8	Allow Alliances
+9	Default squads
+10	Friendly fire
+11	APC type
+12	No APC
+13	Not Vital APC
+14	Vital APC
+15	Damage factor
+16	Wimpy
+17	Normal
+18	Tough
+19	Viking
+20	Wimpy damage
+21	Normal damage
+22	Tough damage
+23	Viking damage
+24	Connecting...
+25	Server disconnected
+26	Can't join - server is full.
+27	Connection to server lost
+28	Failed to connect to server
+29	Incorrect password
+30	The Drop-in server is currently not available. Select another server or try again later.
+31	Server name
+32	Ping
+33	Plys
+34	Current map
+35	You were dropped by the host
+36	Can't join - you don't have mission %s
+37	*%s%s*
+38	[%s whispers "%s"]
+39	<%s> %s
+40	User not found.
+41	Sent message to %s.
+42	www.won.net/RE/gccommunity.html
+43	www.won.net/RE/gcnews.html
+44	www.won.net/RE/gcstrategy.html

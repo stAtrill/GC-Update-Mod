@@ -1,0 +1,37 @@
+// force types
+0	Crayven
+1	Order
+2	Phoenix
+// branch types
+3	Infantry
+4	Tank
+5	Support
+6	Aerodyne
+7	Fixed gun
+8	Building
+// crayven rank types
+9	Inexperienced
+10	Experienced
+11	Veteran
+12	Blood Veteran
+13	Elite
+14	Hero
+// Order rank types
+15	Unproven
+16	Faithful
+17	Priestly
+18	Battle-Brother
+19	Sunbringer
+20	Divine Hero
+// Phoenix rank types
+21	Skirmisher
+22	Outcast
+23	Rogue
+24	Brigand	
+25	Marauder
+26	Warlord
+// difficulty types
+27	Easy
+28	Light
+29	Normal
+30	Hard

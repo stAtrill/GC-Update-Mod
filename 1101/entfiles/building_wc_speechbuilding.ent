@@ -1,0 +1,59 @@
+//Building_wc_speechbuilding
+ModName
+DARKCONS
+
+SlopeModifier
+3	//slope värde
+100	//slope size i x
+113	//höjd i collision objekt
+120	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//name of entity (formal name, for editor, etc)
+Name
+285
+
+//main model animation
+Model
+building_wc_speechbuilding
+
+//other stuff
+Radius
+25.0
+Height
+60.0
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+11000
+
+
+WreckModel
+building_wc_speechbuilding_wreck
+
+
+

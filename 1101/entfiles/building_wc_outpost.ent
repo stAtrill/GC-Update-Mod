@@ -1,0 +1,61 @@
+//building_wc_outpost.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+8	//slope size i x
+18	//höjd i collision objekt
+8	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//name of entity (formal name, for editor, etc)
+Name
+97
+
+//main model animation
+Model
+Building_wc_Outpost
+
+//other stuff
+Radius
+5.0
+Height
+8.0
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+5000
+
+WreckModel
+building_wc_outpost_wreck
+
+
+
+
+
+

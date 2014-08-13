@@ -1,0 +1,79 @@
+//building_wc_missiletower.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+16	//slope size i x
+4	//höjd i collision objekt
+20	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+FIXEDGUN
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//the name of the entity
+Name
+96
+
+//Create an aimer
+UseAimer
+
+//Aimer inställningar
+AimerXDegLimits
+75
+0
+
+//main model animation
+Model
+building_wc_rockettower
+
+//child animation
+ChildOffset
+//offset of the child
+0.0
+2.0
+0.0
+
+//fire offset
+FireOffset
+2.0
+2.0
+0.0
+
+//other stuff
+Radius
+6.9
+Height
+4.0
+PivotHeight
+0.0
+HeadTurnSpeed
+2.0
+1.0
+ViewRange
+400.0
+ProjectileProtection
+80
+Power
+2000
+//DETECTION
+Stealth
+0
+Perception
+0
+WreckModel
+RocketTower_Wreck
+

@@ -1,0 +1,66 @@
+0	Dropship Alpha
+1	Dropship Beta
+2	Dropship Gamma
+3	Special Weapon
+4	Special Equipment
+5	Firepower
+6	Armor
+7	Range
+8	Speed
+9	Are you sure you want to quit?
+10	My Game
+11	Overwrite existing game?
+// default player name - max 31 chars long
+12	Player
+// default server name - max 31 chars long
+13	My multiplayer name
+// CD key stuff in MPSETUP..  perhaps not the right loc file.. 
+14	Invalid CD key!
+15	CD key accepted.
+16	WinSock v1.1 is required to play multiplayer
+17	Press the question mark in the lower right corner to receive screen instructions.
+18	Press the question mark in the lower right corner to receive screen instructions.
+19	Failed to load game.
+// 1st %s is keyname, 2nd %s is one of the lines from options_control.loc (ie PrtScr is already binded to Save screenshot...)
+20	%s is already binded to %s. Press the key again to change binding.
+21	Click to change binding, delete to remove it
+22	Press new key for binding
+23	Major Sarah Parker
+24	Deacon Jarred Stone
+25	Major Sarah Parker
+// MP Setup and Create WON account stuff
+26	Check here and enter your email address below if you want to get info and updates on Ground Control and other games (You must be over 13 years old to submit an email address).
+27	LAN/Cable
+28	ISDN
+29	56k 
+30	33.6k
+31	Auto detect
+32	Insert CD
+33	Ok
+34	Cancel
+35	Ground Control version %d %s
+// help texts when getting denied in interface
+36	Too many squads loaded for this mission
+37	Dropship not available
+38	Infantry not allowed on this mission
+39	Terradynes not allowed on this mission
+40	Support vehicles not allowed on this mission
+41	Aerodynes not allowed on this mission
+42	Infantry not allowed on this mission
+43	Hoverdynes not allowed on this mission
+44	Support vehicles not allowed on this mission
+45	Aerodynes not allowed on this mission
+46	You do not have any squads in the dropship
+47	A squad with that name already exists
+48	No name specified
+49	A multiplayer must have 2 to 8 players
+50	No map in cycle (map cycle empty)
+51	Team not allowed
+52	No password specified
+53	Password mismatch
+54	Email incorrect
+55	Select net connection
+56	You must have a key binded to the Game Menu
+57	No help is available for this screen
+58	Color already in use
+59	No map selected

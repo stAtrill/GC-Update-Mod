@@ -1,0 +1,51 @@
+PICTURE 380 257 Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 443 192 Mngm_Innerframe_Vert_Ltoend.tga
+PICTURE 442 256 Mngm_Innerframe_LR_corner.tga
+
+PICTURE 441 53 Mngm_Innerframe_UR_corner.tga
+PICTURE 443 69 Mngm_Innerframe_Dial_left.tga
+PICTURE 377 52 Mngm_Innerframe_Horiz_Rtoend.tga
+
+PICTURE 197 256 Mngm_Innerframe_SW_corner.tga
+PICTURE 213 258 Mngm_Innerframe_Horiz_Ltoend.tga
+
+PICTURE 197 192 Mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 197 54 Mngm_T_L_Corner2.tga
+PICTURE 212 54 Mngm_L_L_Horiz_Line.tga
+PICTURE 196 66 Mngm_Innerframe_Vert_Utoend.tga
+
+PICTURE 205 140 Mngm_PoppupBox.tga
+PICTURE 205 61 Mngm_PoppupBox3.tga
+
+PICTURE 212 89 Mngm_namebox_New2.tga
+PICTURE 212 132 Mngm_namebox_New2.tga
+
+
+//TEXT
+PICTURE 220 71 Mngm_EnterName.tga
+PICTURE 220 113 Mngm_Password3.tga
+
+PICTURE 222 157 Mngm_InternetConnection.tga
+
+
+PICTURE ID_NETCHECK0 222 177
+PICTURE ID_NETCHECK1 222 193
+PICTURE ID_NETCHECK2 320 177
+PICTURE ID_NETCHECK3 320 193
+PICTURE ID_NETCHECK4 222 209
+
+TEXT ID_NETTEXT0 gfx/font/font_mui_chat.tga 242 180 70 20
+TEXT ID_NETTEXT1 gfx/font/font_mui_chat.tga 242 196 70 20
+TEXT ID_NETTEXT2 gfx/font/font_mui_chat.tga 340 180 70 20
+TEXT ID_NETTEXT3 gfx/font/font_mui_chat.tga 340 196 70 20
+TEXT ID_NETTEXT4 gfx/font/font_mui_chat.tga 242 212 70 20
+
+INPUT ID_MPNAMEINPUT gfx/font/font_mui.tga 227 93 168
+INPUT ID_WONPASSWORD gfx/font/font_mui.tga 227 138 168
+
+//BUTTONS
+BUTTON MOUSE_CLICK IN_CREATEACCOUNT 222 230 Mngm_CreateNewWONAccount.tga 0.5 222 230 Mngm_CreateNewWONAccount_eff.tga
+
+BUTTON ID_REQUESTERCANCEL KEY_ESC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 394 248 Mngm_Newcomm_Cancel.tga 0.4 394 248 Mngm_Newcomm_Cancel_Eff.tga
+BUTTON ID_MPSETUPACCEPT KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 212 247 Mngm_Ok.tga 0.4 208 247 Mngm_Ok_Eff.tga

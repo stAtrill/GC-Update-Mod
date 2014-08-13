@@ -1,0 +1,185 @@
+//TOP ROW BORDERS
+PICTURE 31 33 Mngm_T_L_Corner.tga
+PICTURE 63 33 Mngm_Header_Drop-InGame.tga
+PICTURE 319 50 Mngm_R_Of_Header.tga
+PICTURE 461 50 Mngm_U_R_Line.tga
+PICTURE 589 50 Mngm_U_R_Corner.tga
+PICTURE 589 66 Mngm_U_R_Vert_Line.tga
+PICTURE 39 65 Mngm_U_L_Lines.tga
+PICTURE 39 193 Mngm_M_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 238 417 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 462 418 Mngm_U_R_Line.tga
+PICTURE 590 415 Mngm_L_R_Corner.tga
+PICTURE 590 287 Mngm_L_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 39 290 Mngm_L_L_Vert_Line.tga
+PICTURE 31 418 Mngm_L_L_Corner.tga
+//Small pic just right of butt butts
+PICTURE 238 418 Mngm_EndOfLowButts.tga
+PICTURE 326 417 Mngm_Innerframe_Horiz_Free_128.tga
+
+
+
+//BORDER EFFECT
+
+//PICTURE 374 424 Mngm_Dropsbord_LEffect1.tga
+PICTURE 502 398 Mngm_Dropsbord_LEffect2.tga
+//PICTURE 585 270 Mngm_Dropsbord_LEffect3.tga
+
+PICTURE 493 425 Mngm_Lborder3.tga
+PICTURE 416 418 Mngm_U_R_Line.tga
+
+//BOARDERS
+
+
+PICTURE 339 72 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 334 412 Mngm_Innerframe_Horiz_Free_128.tga
+
+//AVAILABLE MAPS BOARDERS
+
+//PICTURE 49 77 Mngm_T_L_Corner2.tga
+PICTURE 47 110 Mngm_Slider_upper.tga
+PICTURE 64 99 Mngm_L_L_Horiz_Line.tga
+
+
+PICTURE 272 98 Mngm_Innerframe_UR_corner.tga
+PICTURE 274 114 Mngm_Innerframe_Dial_left.tga
+PICTURE 208 97 Mngm_Innerframe_Horiz_Rtoend.tga
+
+PICTURE 49 230 Mngm_Innerframe_SW_corner.tga
+PICTURE 65 232 Mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 49 166 Mngm_Innerframe_Vert_Ltoend.tga
+
+
+PICTURE 56 83 Mngm_Header_AvailableMaps2.tga
+
+
+PICTURE 235 181 Mngm_Slider_Base.tga
+PICTURE 272 53 Mngm_Slider_mid2.tga
+
+
+//GLOBAL OPTIONS
+
+//PICTURE 49 287 Mngm_T_L_Corner2.tga
+PICTURE 47 268 Mngm_Slider_upper.tga
+PICTURE 64 257 Mngm_L_L_Horiz_Line.tga
+
+PICTURE 312 256 Mngm_Innerframe_UR_corner.tga
+PICTURE 314 272 Mngm_Innerframe_Dial_left.tga
+PICTURE 248 255 Mngm_Innerframe_Horiz_Rtoend.tga
+
+
+PICTURE 49 410 Mngm_Innerframe_SW_corner.tga
+PICTURE 65 412 Mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 49 346 Mngm_Innerframe_Vert_Ltoend.tga
+
+
+
+PICTURE 56 241 Mngm_Header_GlobalOptions.tga
+
+
+PICTURE 275 361 Mngm_Slider_Base.tga
+PICTURE 312 233 Mngm_Slider_mid2.tga
+
+
+
+//MAP INFO
+
+//PICTURE 332 287 Mngm_T_L_Corner2.tga
+PICTURE 330 268 Mngm_Slider_upper.tga
+PICTURE 348 257 Mngm_L_L_Horiz_Line.tga
+
+PICTURE 573 256 Mngm_Innerframe_UR_corner.tga
+PICTURE 575 272 Mngm_Innerframe_Dial_left.tga
+PICTURE 509 255 Mngm_Innerframe_Horiz_Rtoend.tga
+
+
+PICTURE 332 410 Mngm_Innerframe_SW_corner.tga
+PICTURE 348 412 Mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 332 346 Mngm_Innerframe_Vert_Ltoend.tga
+
+
+
+PICTURE 339 241 Mngm_MapOptions.tga
+
+
+
+PICTURE 536 361 Mngm_Slider_Base.tga
+PICTURE 573 233 Mngm_Slider_mid2.tga
+
+
+
+//MAP CYCLE
+
+//PICTURE 320 73 Mngm_T_L_Corner2.tga
+PICTURE 330 84 Mngm_Slider_upper.tga
+PICTURE 348 73 Mngm_L_L_Horiz_Line.tga
+
+
+PICTURE 572 72 Mngm_Innerframe_UR_corner.tga
+PICTURE 574 88 Mngm_Innerframe_Dial_left.tga
+PICTURE 508 71 Mngm_Innerframe_Horiz_Rtoend.tga
+
+
+PICTURE 331 230 Mngm_Innerframe_SW_corner.tga
+PICTURE 347 232 Mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 331 166 Mngm_Innerframe_Vert_Ltoend.tga
+
+
+
+PICTURE 339 57 Mngm_Header_MapCycle.tga
+
+
+PICTURE 536 181 Mngm_Slider_Base.tga
+PICTURE 573 53 Mngm_Slider_mid2.tga
+
+
+//SWAP ARROWS
+BUTTON ID_DROPINADDTOCYCLE MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 301 121 Mngm_Select_Campaign_Arrow_R2.tga 0.4 301 121 Mngm_Select_Campaign_Arrow_R_Eff2.tga
+BUTTON ID_DROPINREMOVEFROMCYCLE MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 301 150 Mngm_Select_Campaign_Arrow_L2.tga 0.4 301 150 Mngm_Select_Campaign_Arrow_L_Eff2.tga
+
+
+//Thin Corner
+PICTURE 46 415 Mngm_L_L_Small_Corner.tga
+PICTURE 43 287 Mngm_L_R_Vert_Line.tga
+PICTURE 62 418 Mngm_L_L_Horiz_Line.tga
+
+
+//ARROWS
+LIST ID_DROPINMAPLIST CLICK_SOUND ButtonPress2 60 105 220 140 Mngm_Listitem_Marker.tga
+SCROLLBAR 265 103 93 Mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 278 197 Mngm_Slider_Arrow_U_Rest.tga Mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 278 221 Mngm_Slider_Arrow_Dwn_Rest.tga Mngm_Slider_Arrow_Dwn_Eff.tga
+
+LIST ID_DROPINMAPCYCLELIST CLICK_SOUND ButtonPress2 343 80 238 165 Mngm_Listitem_Marker.tga
+SCROLLBAR 565 78 118 Mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 578 197 Mngm_Slider_Arrow_U_Rest.tga Mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 578 221 Mngm_Slider_Arrow_Dwn_Rest.tga Mngm_Slider_Arrow_Dwn_Eff.tga
+
+LIST ID_DROPINGLOBALOPTIONS CLICK_SOUND ButtonPress2 60 265 140 153 Mngm_Listitem_Marker.tga
+SCROLLBAR 305 264 112 Mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 318 377 Mngm_Slider_Arrow_U_Rest.tga Mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 318 401 Mngm_Slider_Arrow_Dwn_Rest.tga Mngm_Slider_Arrow_Dwn_Eff.tga
+
+LIST ID_DROPINMAPOPTIONS CLICK_SOUND ButtonPress2 343 265 140 153 Mngm_Listitem_Marker.tga
+SCROLLBAR 565 264 112 Mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 578 377 Mngm_Slider_Arrow_U_Rest.tga Mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 578 401 Mngm_Slider_Arrow_Dwn_Rest.tga Mngm_Slider_Arrow_Dwn_Eff.tga
+
+
+//PLAYERBOX
+PICTURE ID_LOBBYPLY0COLOR HELPTEXT 8 59 65
+TEXT ID_LOBBYPLY0NAME HELPTEXT 6 gfx/font/font_mui.tga 62 66 156 14
+PICTURE ID_LOBBYPLY0FORCE HELPTEXT 7 176 66
+PICTURE ID_LOBBYPLY0TEAM HELPTEXT 9 202 66
+
+
+//BUTTS
+BUTTON ID_EXIT MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 510 418 Mngm_LowButt_Exit3.tga 0.4 510 418 Mngm_LowButt_exit3_Eff.tga
+BUTTON ID_ACCEPTLANHOSTDROPIN KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 63 418 Mngm_StartGame.tga 0.4 63 418 Mngm_StartGame2_Eff.tga
+BUTTON ID_LEAVELANHOSTDROPIN KEY_ESC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 174 418 Mngm_Cancel.tga 0.4 174 418 Mngm_Cancel_Eff.tga
+
+BUTTON ID_HELP KEY_F1 MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 561 419 Mngm_Dropsbord_QuestionM.tga 0.4 561 419 Mngm_Question_Eff.tga

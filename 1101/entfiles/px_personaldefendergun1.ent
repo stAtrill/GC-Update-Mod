@@ -1,0 +1,80 @@
+//building_px_transmitter
+ModName
+DARKCONS
+
+SlopeModifier
+3	//slope värde
+2	//slope size i x
+4	//höjd i collision objekt
+2	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+PHOENIX
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+fixedgun
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+5
+
+//name of entity (formal name, for editor, etc)
+Name
+125
+
+
+//Create an aimer
+UseAimer
+
+//Set up and down limits
+AimerXDegLimits
+90
+350
+
+//child animation
+ChildOffset
+//offset of the child (X, Y, Z)
+0.0
+1.0
+0.0
+
+//fire offset (X, Y, Z)
+FireOffset
+0.0
+0.2
+1.2
+
+//main model animation
+Model
+px_personaldefendergun1
+
+//other stuff
+Radius
+12.0
+Height
+11.5
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+9000
+
+
+WreckModel
+px_personaldefendergun_wreck
+
+

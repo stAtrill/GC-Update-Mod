@@ -1,0 +1,62 @@
+//Building_cc_Medicalfacility.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+40	//slope size i x
+5	//höjd i collision objekt
+50	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+46
+
+//main model animation
+Model
+Building_cc_Medicalfacility
+
+//other stuff
+Radius
+15.0
+PivotHeight
+5.0
+ProjectileProtection
+90
+Power
+10000
+
+WreckModel
+building_cc_medicalfacility_wreck
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover, snd_engine_vehicle, snd_engine_air,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+AmbientSound
+snd_ambient_building6
+

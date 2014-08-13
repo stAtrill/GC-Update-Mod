@@ -1,0 +1,60 @@
+//building_cc_cistern.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+32	//slope size i x
+28	//höjd i collision objekt
+18.5	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+62
+
+//main model animation
+Model
+building_cc_silo_mini_set
+
+//other stuff
+Height
+28
+Radius
+9.5
+PivotHeight
+0.0
+ProjectileProtection
+90
+EnergyProtection
+90
+Power
+2000
+
+WreckModel
+building_cc_silo_mini_set_wreck
+
+
+

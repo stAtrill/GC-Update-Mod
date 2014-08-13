@@ -1,0 +1,95 @@
+//cc_apc.ent
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+SUPPORT
+
+// Squad button
+Button
+unitico_transp_1.tga
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//the name of the entity
+Name
+119
+
+//type of mover(foot, air, vehicle)
+MoverType
+vehicle
+
+//main model animation
+Model
+cc_apc
+
+ChildOffset
+0.0 
+3.16 
+0.0
+
+BarrelOffset
+0.0 
+2.1 
+0.0
+
+//fire offset
+FireOffset
+0.0
+0.0
+1.0
+
+//other stuff
+Radius
+3.8
+Height
+2.6
+PivotHeight
+0.0
+Acceleration
+95.0
+Friction
+65.0
+MaxSpeed
+20.0
+TurnSpeed
+//Radianer/sekund    6.28 = 1 varv/sekund
+2.2
+HeadTurnSpeed
+2.3
+0.0
+SlopeBorder
+1
+ViewRange
+200.0
+ProjectileProtection
+80
+Power
+3000
+// Detection
+Stealth
+0
+Perception
+0
+//WRECK
+
+WreckModel
+CC_apc_wreck
+
+
+

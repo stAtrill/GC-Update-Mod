@@ -1,0 +1,200 @@
+AIMERS
+
+om entityn skall använda sig av en aimer skriver man:
+
+UseAimer
+
+om detta inte skrivs kommer entityn inte att ha någon aimer
+och isåfall kan den inte skjuta eller se några fiender.
+Default inställningar för en aimer är fritt snurrande runt
+sin y axel och fast i 0 runt sin x axel. Om detta skall ändras
+skriver man:
+
+AimerXDegLimits
+90		-toppgraden (mellan 0 och 360)
+0		-bottengraden (mellan 0 och 360)
+
+Detta sätter gränserna runt x axeln. I detta fallet 90 grader uppåt och
+0 noll grader neråt. Om man vill ha en fixed aimer runt x blir topp och
+botten graderna samma tex 0 0 (rakt fram). Default är 0 0.
+För rotation runt Y gäller:
+
+AimerYDegLimits
+315		-vänstergraden (mellan 0 och 360)
+45		-högergraden (mellan 0 och 360)
+
+Detta ger rotation med 45 grader åt båda håll från 0 punkten. För fixed
+ange samma grader för vänster och höger typ 0 0 (rakt fram). Default är
+0 360 vilket ger fritt rörande.
+
+Om aimern skall kontrollera basmodellens y respective x rotation används:
+
+AimerInYControl		-för rotation runt y.
+
+och
+
+AimerInXControl		-för rutation runt x.
+
+För att bästämma hur snabbt en aimer kan rotera skriver man de olika 
+hastigheterna i radianer/sekund med först hastigheten runt y(åt sidorna)
+och sedan hastigheten runt x(upp och ner). Ser ut såhär
+
+HeadTurnSpeed
+4.0
+1.0
+
+
+CHILD MODELS
+
+För att få en childmodel måste en koppling göras till en model file som
+childen skall använda sig utav. Kan se ut såhär:
+
+ChildModel
+cc_lighttank_turret
+
+Direkt efter modellnamnet skrivs avståndet från basmodellen till 
+childmodellens pivot punkt i x, -y och z. -Y pga det uppochnervända
+koordinatsystemet som används. Kan se ut så här:
+
+-0.744
+-2.25
+-2.49
+
+Om en aimer används måste fire avståndet skrivas. Annars blir det default
+0 0 0 meter från childets pivot punkt i x, -y och z. FireOffset mäts från
+childets pivot till mynningen där kulan skall spawnas. Såhär:
+
+FireOffset
+0.0
+0.0
+3.0
+
+
+
+STORLEK
+
+Alla entities i spelet är specifierade som en cylinder med en höjd och en
+radie. Höjden är delad i två delar med en höjd över pivotpunkten och en
+under(båda possitiva). Ser ut såhär:
+
+Radius
+3.5		-Asso 7 meter i diametern
+
+Height
+4.0
+
+PivotHeight
+1.0		-Sammanlagt 5 meter hög
+
+
+
+MOVERS
+
+Ett antal parametrar styr hur en entity rör sig i världen. Först görs valet
+vilket typ av mover man vill använda(foot, air, vehicle och hover). Såhär:
+
+MoverType
+vehicle
+
+Sedan bestäms de olika parametrarna för hastigheten i motorn. Varje frame 
+minskar hastigheten med Friction tills det att den nått 0. Om movern gasar
+ökar hastighteten med Acceleration dock max till MaxSpeed. Detta gör att
+hastigheten ökar som mest med Acceleration - Friction per frame.
+
+Acceleration
+35.0		-m/s/s
+Friction
+25.0		-m/s/s
+MaxSpeed
+25.0		-m/s
+
+Svänghastigheten bestäms i radianer/sekund dvs 3.14 är det samma som ett 
+halvt varv på en sekund. Specas så här:
+
+TurnSpeed
+4.0
+
+Alla movers undersöker området framför sig för att undvika kollisioner.
+Avståndet från entityns pivot + dess radius till den punken man slutar
+leta efter kolliderande entities specas såhär:
+
+CheckDistance
+12.0
+
+Vid en förflyttning undviker movern sluttningar av en viss vinkel i kartan.
+Dessa specas genom att skriva in vinkeln i grader såhär: 
+
+SlopeBorder
+45
+
+Om movern är av typen air eller hover måste flyghöjden specas enligt
+följande:
+ 
+FlyingHeight
+30.0
+
+Om movern är av typen air måste ett avstånd som bestämmer hur långt entityn
+skall flyga förbi sitt mål innan den vänder om. Detta för att undvika att
+den fastnar i en cirkel runt målet. Ser ut såhär:
+ 
+TurnOffset
+100.0
+
+
+
+
+
+
+
+
+
+
+
+
+//cc_lighttank.ent
+
+//Entity ID (must be unique for each type)
+EntityID
+3
+
+// Force (0 Crayven, 1 Wrath, 2 Dith)
+Force
+0
+
+//Branch (0 Infantry, 1 Tank, 2 Aerodyne)
+Branch
+1
+
+// Bitmap representation
+Picture
+default.tga
+
+// Max number of units in squad
+MaxUnits
+8
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+0
+
+//type of entity (for editor, SQUAD, BUILDING, PROP?)
+EntityType
+SQUAD
+
+//the name of the entity
+EntityName
+Light Tank
+
+ViewRange
+100.0
+Power
+750
+
+//Management stuff
+//Cost (Unit price)
+Cost
+1000
+//Rank squadleaders required rank
+Rank
+0
+

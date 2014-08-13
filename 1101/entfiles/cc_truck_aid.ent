@@ -1,0 +1,94 @@
+//cc_truck_aid.ent
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, SUPPORT, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+SUPPORT
+
+// Squad button
+Button
+unitico_transp_1.tga
+
+// Max number of units in squad
+MaxUnits
+4
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//the name of the entity
+Name
+148
+
+//type of mover(foot, air, vehicle)
+MoverType
+vehicle
+
+//main model animation
+Model
+cc_truck_aid
+
+//Aimer to see
+UseAimer
+
+//fire offset
+FireOffset
+0.0
+3.5
+0.0
+
+//other stuff
+Radius
+7.0
+Height
+4.0
+PivotHeight
+0.0
+Acceleration
+100.0
+Friction
+87.0
+MaxSpeed
+17.0
+TurnSpeed
+//Radianer/sekund    6.28 = 1 varv/sekund
+2.2
+HeadTurnSpeed
+2.0
+0.0
+SlopeBorder
+1
+ViewRange
+200.0
+ProjectileProtection
+80
+Power
+3000
+// Detection
+Stealth
+0
+Perception
+0
+//WRECK
+WreckModel
+cc_truck_aid_wreck
+WreckModel
+cc_truck_aid_wreck2
+
+
+AmbientSound
+snd_engine_vehicle1
+
+SoundBank
+CRAYVEN_ENGINEERTRUCKER
+

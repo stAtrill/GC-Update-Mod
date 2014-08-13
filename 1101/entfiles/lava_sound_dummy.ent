@@ -1,0 +1,57 @@
+//lava_sound_dummy.ent
+ModName
+GC
+
+SlopeModifier
+1	//slope värde
+32	//slope size i x
+6	//höjd i collision objekt
+22	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+150
+
+//main model animation
+Model
+Dummy_1
+
+//other stuff
+Radius
+0
+Height
+0
+PivotHeight
+0
+ProjectileProtection
+0
+EnergyProtection
+0
+Power
+0
+
+AmbientSound
+snd_ambient_Building5.wav
+
+
+

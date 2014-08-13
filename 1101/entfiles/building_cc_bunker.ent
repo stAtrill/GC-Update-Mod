@@ -1,0 +1,57 @@
+//building_cc_bunker.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+21.4	//slope size i x
+7.5	//höjd i collision objekt
+28.4	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+16
+
+//main model animation
+Model
+building_cc_bunker
+
+//other stuff
+Radius
+8.5
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+10000
+
+WreckModel
+building_cc_bunker_wreck
+
+
+
+

@@ -1,0 +1,113 @@
+//building_cc_artillery.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+18.4	//slope size i x
+8.3	//höjd i collision objekt
+18.4	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+FIXEDGUN
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//the name of the entity
+Name
+6
+
+//Create an aimer
+UseAimer
+
+//Aimer inställningar
+AimerXDegLimits
+70
+0
+
+//main model animation
+Model
+building_cc_artillery
+
+ChildOffset
+//offset of the child (X, Y, Z)
+0.0
+0.0 
+0.0
+
+//Barrel Model
+BarrelOffset
+//offset of the barrel child (x,y,z)
+0.0
+6.25
+1.4
+
+//Number of firing offsets
+FireOffsetCount
+4
+
+//fire offset (X, Y, Z)
+FireOffset
+2.72
+0.17
+12.4
+
+//fire offset (X, Y, Z)
+//FireOffset1
+1.57
+0.90
+11.7
+
+//fire offset (X, Y, Z)
+//FireOffset2
+-1.57
+0.90
+11.7
+
+//fire offset (X, Y, Z)
+//FireOffset3
+-2.72
+0.17
+12.4
+
+//other stuff
+Radius
+9.0
+Height
+8.3
+PivotHeight
+0.0
+HeadTurnSpeed
+1.5
+1.5
+ViewRange
+700.0
+ProjectileProtection
+80
+Power
+2000
+//DETECTION
+Stealth
+0
+Perception
+0
+WreckModel
+Building_CC_Artillery_wreck.mdl
+
+
+

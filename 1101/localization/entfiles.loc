@@ -1,0 +1,297 @@
+0	Aerodyne Repair Facility
+1	Ammunition Depot
+2	Ammunition Depot
+3	Damaged Ammunition Depot
+4	Damaged Ammunition Depot
+5	Damaged Ammunition Depot
+6	G-Lob Artillery
+7	Vulcan 9000 Autocannon
+8	Barrack
+9	Damaged Barrack
+10	Damaged Barrack
+11	Damaged Barrack
+12	Barrack Under Construction
+13	Bio Dome
+14	Supply boxes
+15	Supply boxes
+16	Bunker
+17	AKA-125mm Gun
+18	Camouflage Net
+19	Cistern
+20	Command Center
+21	Container
+22	Container
+23	Control Tower
+24	Docking Bay
+25	Drop Ship Hangar
+26	Stationary Drop Ship
+27	Voltage House
+28	Equipment Depot
+29	Equipment Storage
+30	Weapon Factory Plant
+31	Field Power Generator
+32	Field Repair Facility
+33	Fuel Tank
+34	Fuel Tank Accessory
+35	APC Garage
+36	Aerodyne Hangar
+37	Small Aerodyne Hangar
+38	Assembly Plant
+39	Processing Cylinder
+40	Processing Plant
+41	Corporate Tower
+42	Aerodyne Base Facility
+43	Storage Zone
+44	Medical Barrack
+45	Medical Barrack
+46	Medical Facility
+47	Mining Facility
+48	Outpost
+49	Outpost
+50	CCT-9 Pillbox
+51	CCT-123 Sentry Tower
+52	Advanced Power Station
+53	Power Station Mk. 1
+54	Power Station Mk. 2
+55	Power Station Mk. Pioneer
+56	FAFNIR-2 Radar Station
+57	Communication Center
+58	FALCON Satellite Dish
+59	Research Facility
+60	Crashed Satellite
+61	SKYDD-9 Shield Generator
+62	F9 Silo
+63	Terraforming Central
+64	Terraforming Facility
+65	Terraforming Facility
+66	Steel Wall
+67	Steel Wall Corner
+68	CTT-175mm Cannon
+69	Vehicle Bay
+70	Silo
+71	Silo
+72	Ammunition Depot
+73	J-Sight Anti-Air Gun
+74	Barrack
+75	Light Barrier
+76	Armor Plated Barrier
+77	Bunker
+78	Underground Bunker Entrance
+79	Command Center
+80	Container
+81	Container
+82	Equipment Depot
+83	Factory
+84	Factory
+85	Factory
+86	Field Power Generator
+87	Field Repair Bay
+88	Underground Fan
+89	Underground Fan
+90	Hoverdyne Repair Center
+91	Hoverdyne Repair Center
+92	Lindau-666 Howitzer
+93	Processing Plant
+94	Medical Facility
+95	Mining Facility
+96	Hugh TA/9 Missile Launcher
+97	Outpost
+98	Pulse Laser Pillbox
+99	Pulse Laser Pillbox
+100	Power Unit
+101	Power Generator
+102	Advanced Power Station
+103	Communication Relay
+104	Communication Station
+105	Dell-Hugh Cordcooler
+106	Advanced Research Facility
+107	Aeris-4 Pulse Turret
+108	Small Power Generator
+109	Sub Road Entrance
+110	Order Cathedral
+111	Main Terraforming Facility
+112	Terraforming Pipecooler
+113	Power Generator
+114	Concrete Wall
+115	Concrete Wall Corner
+116	Concrete Wall Corner
+117	Tier-7 Guana Turret
+118	Anti-Air Terradyne
+119	APC Terradyne
+120	Artillery Terradyne
+121	Attack Aerodyne
+122	Bomber Aerodyne
+123	Condor Bomber Aerodyne
+124	Crayven Command APC
+125	Defender Gun
+126	Defender Gun
+127	Defender Gun
+128	Enrica Hayes
+129	Fighter Aerodyne
+130	Service Truck
+131	Fork Truck
+132	Fork Truck Lifter
+133	Heavy Terradyne
+134	Jaeger Infantry
+135	Scout Aerodyne
+136	Light Terradyne
+137	Marine Infantry
+138	Main Battle Terradyne
+139	Deployed Radar
+140	Deployed Radar
+141	Deployed Radar
+142	Rocket Terradyne
+143	Scout Terradyne
+144	Autocannon Sentry Gun
+145	Rocket Sentry Gun
+146	Anti-Air Sentry Gun
+147	Engineer Truck
+148	Medical Truck
+149	Flatbed Truck
+150	LavaDUMMY
+151	Anti-Air Hoverdyne
+152	Artillery Hoverdyne
+153	Attack Aerodyne
+154	Beam Platform
+155	Order Command APC
+156	Crusader Infantry
+157	The Defector
+158	Defendergun Mk. 1
+159	Defendergun Mk. 2
+160	Defendergun Mk. 3
+161	Drone Carrier
+162	Fighter Aerodyne
+163	Heavy Hoverdyne
+164	Recon Aerodyne
+165	Light Hoverdyne
+166	Medium Hoverdyne
+167	Deployed Radar
+168	Deployed Radar
+169	Deployed Radar
+170	Scout Hoverbike
+171	Torpedo Sentry Gun
+172	AntiAir Sentry Gun
+173	Laser Sentry Gun
+174	Templar Torpedo Infantry
+175	10-ton Transporter
+176	20-ton Transporter
+177	Xenofact
+178	Crayven entity DUMMY long description, to be changed later...
+179	Order entity DUMMY long description, to be changed later...
+180	Marines are armed with assault rifles, capable of defeating light terradyne armor. Infantry can be loaded into the Command APC for protection and transport.
+181	Jaegers are extremely stealthy and with great perception. They are armed with high powered rifles, powerful enough to punch through the front armor of a medium terradyne.
+182	Scout Terradynes have great speed and excellent perception. They have light armor and are only armed with a machinegun.
+183	Light Terradynes have good movement abilities and fairly good armament. The light terradyne is capable of attacking both ground and airborne targets.
+184	The Main Battle Terradyne excels at offensive maneuvers with good firepower and armor. It cannot target airborne targets.
+185	Annihilator Terradynes are heavily armored and can sustain an enormous amount of pounding. It cannot target airborne targets. Light weapons cannot penetrate its front armor.
+186	Anti-Air Terradynes are fast and have great perception. They are designed to shoot down enemy aerodynes. It cannot engage ground targets.
+187	Rocket Terradynes can engage both ground and airborne targets although it cannot lock onto infantry. It is fairly slow and light armored.
+188	The Artillery Terradyne fires ballistic artillery grenades. It works best when used with forward observing scouts. The Artillery is heavily armored and extremely slow. It cannot target airborne targets.
+189	Light Aerodynes are very fast and stealthy and have exceptional perception. They are lightly armed and armored and are not suited for heavy combat.
+190	Fighter Aerodynes are very fast and designed to take out hostile aerodynes and are not capable of attacking ground targets. They have light armor.
+191	Attack Aerodynes are designed to take out heavy ground targets. They are lightly armored and are no match for enemy fighters.
+192	Short-Range Bombers are slow compared to other aerodynes but are capable of delivering massive destruction in the form of bombs. They cannot target airborne targets.
+193	Crusader infantry are armed with Storm carbines capable of defeating lightly armored targets. Crusaders like all infantry can be transported in the Command APC.
+194	Templars are stealthy and fairly perceptive. Their weapon systems are capable of defeating most ground targets. They are completely defenseless against enemy infantry and aerodynes.
+195	Recon Hoverbikes have excellent speed and perception but have very light armor and are only armed with a light pulse laser.
+196	Light Hoverdynes are very fast and have good perception but light armor. Their fast firing Electro Discharge Cannon can engage both ground and airborne targets.
+197	The Order Main Battle Hoverdyne has good speed and perception. Its heavy armor combined with good firepower makes it an excellent offensive unit. It cannot target airborne targets.
+198	The heavy hoverdyne is very slow but makes up for it with extremely heavy armor and great firepower. It cannot engage airborne targets.
+199	Anti-Air Hoverdynes are fast and perceptive, with light armor. Its weapon system is homing but can only engage airborne targets.
+200	Beam Platforms have awesome firepower and weapon range but are fairly lightly armored. Beam platforms can target both airborne and gound targets.
+201	Artillery Hoverdynes launches proton clusters with great blast radius. They are slow compared to other hoverdynes and cannot target airborne targets.
+202	Drone Carriers are armed with small ground homing drones capable of good damage. The drones are not capable of locking onto extremely small targets such as infantry.
+203	Recon Aerodynes have exceptional speed, perception and stealth but light armor and weak firepower.
+204	Attack Aerodynes are designed to take out heavy ground targets. They are lightly armored and are no match for enemy fighters.
+205	Fighter Aerodynes are extremely fast and stealthy. They are armed with powerful guided anti-aerodyne torpedoes.
+206	Bishop Delendre
+207	Sergeant Cole's Truck
+208	Deployed Repair Station
+209	Data Crystal
+210	Medical Facility
+211	Toxic Waste Silo
+212	Toxic Waste Processor
+213	Major Dwight Thomas
+214	Turbine
+215	Biohazard Tank
+216	Jamming Facility
+217	Anti-Aerospace Cannon
+218	Paladin Magnus
+219	Bishop Delendre
+220	Shuttle dropzone
+221	Fieldtent
+222	Oildump
+223	Cardinal Aegeri
+224	Wildlife
+225	Advanced Power Station
+226	Fieldcamp
+227	RPX-5 Anti-Air Turret
+228	Phoenix Basic Infantry
+229	Phoenix Infantry are armed with assault rifles able to damage lightly armored targets. They may be transported in the Command APC for safe transport.
+230	Phoenix Plasma Grenadier
+231	The Phoenix Grenadier is armed with an unstable plasma grenade launcher and is lightly armored. His weapon deals damage to the area and is capable of damaging most ground targets.
+232	Phoenix Power Armor
+233	Phoenix Power Armor enhances the strength and endurance of normal infantry. Gives them superior firepower and armor, but slows them considerably. They may be transported in the APC for swift transport.
+234	Phoenix Snipers
+235	Phoenix Snipers have very light armor and very powerful anti-infantry weapons. They have strong stealth and line of sight, but they can't withstand much damage.
+236	Phoenix Scout
+237 	The Scout tank is faster than a terradyne because of it's Pyro-tech engine. It is very lightly armed and has perception second only to snipers.
+238	Phoenix Light Tank
+239	The light tank is capable of attacking airborne and ground targets. It is moderately armed with rotating mounted cannons.
+240	Phoenix Medium Tank
+241	The Phoenix medium tank is equipped well in armor and weapons. It is limited in perception and unable to target airborne units.
+242	Phoenix Heavy Tank
+243	The heavy tank is armed with two slag throwers capable of destroying the the most powerful vehicles. It is slow and unable to target air-units.
+244	Phoenix Anti-Air
+245 	The anti-air unit is able to target and fire on only air-borne targets. It has homing missiles, but poor perception and speed.
+246	Phoenix Artillery
+247	The Phoenix Artillery has great perception and moves relatively quickly. It is capable of taking out large groups from a distance with it's powerful white-phosphorous barrage.
+248	Phoenix Pyrodyne
+249	The Pyrodyne is a heavily armored tank with twin plasma jets mounted. It is slow and has poor perception, but is lethal against infantry. It cannot target airborne units.
+250	Phoenix Scout Aerodyne
+251	This small jet has almost no armor and weapons, but is extremely fast with wide perception. It may target both air and ground targets.
+252	Phoenix Fighter Aerodyne
+253	The Phoenix fighter is built for air-to-air combat. It is fast and heavily armed, and is unable to attack ground units. 
+254	Phoenix Attack Aerodyne
+255	The Phoenix attack plane is designed to break the lines of ground troops. It's torpedos are capable of cutting a hole in the sturdiest units.
+256	Phoenix Swarm
+257	The Phoenix Swarm is a group of small one man fighters with high stealth and speed but almost no armor. Their weapons are weak but attack in a large mass to quickly wear down an enemy.
+258	Crayven Power Armor
+259	Crayven's power armor is designed to be armored like a tank with the manueverability of infantry. Medium armor and powerful twin-chain guns slow the power armor down.
+260	Radar Terradyne
+261	The Radar Terradyne has been equipped with an advanced recognition system capable of detecting enemies normally hidden to conventional radar.
+262	Order Faithful
+263	Faithful have no armor, and rebuilt Carbine rifles. Their only advantage is their great numbers which make them dangerous, and their tendency to explode to destroy enemy targets.
+264	Order Power Armor
+265	Order Power Armor carry powerful plasma cannons mounted on their backs. They are massive units that are able to "entrench" themselves and harder to hurt.
+266	Truck 1
+267	Truck 2
+268	Truck 3
+269	Truck 4
+270	Null1
+271	Phoenix Booster Station
+272	The Booster Station has become a rally point for all Phoenix warriors.  All who fight within it's presence attack with greater power and stronger armor.
+273	Deployed Radar Station 
+274	Deployed Radar Station
+275	Deployed Radar Station
+276	Phoenix Command APC
+277	Marc Herra
+278	Prison Tower
+279 	Prison Cell
+280 	Satellite Transmitter
+281	Communications Transmitter
+282	Research Archive
+283	Satellite Control Center
+284	Search Tower
+285 	Second Dawn Cathedral
+286 	Main Barracks
+287 	Shield Generator
+288 	Galen Yi
+289	Marc Herra
+290	Order Alarm Truck
+291	Rachel Morton
+292	Kila Balor
+293	Wallace Davidson
+294	Jarred Stone
+295	Galen's Shuttle
+296	Rogue Hoverdyne

@@ -1,0 +1,65 @@
+//Xenofact.ent
+//Can only be destroyed with Deactivation machinery
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+90.0	//slope size i x
+105.0	//höjd i collision objekt
+100.0	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+177
+
+//main model animation
+Model
+AlienCom.mdl
+
+//other stuff
+Radius
+17.0
+Height
+101.0
+PivotHeight
+0.0
+ProjectileProtection
+1000
+Power
+1000
+
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover1-2, snd_engine_vehicle1-2, snd_engine_air1-2,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+AmbientSound
+snd_ambient_building7
+
+
+

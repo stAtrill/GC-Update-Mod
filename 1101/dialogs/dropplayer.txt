@@ -1,0 +1,34 @@
+
+
+//PICTURE 205 140 Mngm_PoppupBox.tga
+//PICTURE 205 61 Mngm_PoppupBox3.tga
+//PICTURE 205 180 Mngm_PoppupBox.tga
+
+PICTURE 240 148 Mngm_PoppUp4.tga
+
+
+//boarders
+PICTURE 232 141 Mngm_T_L_Corner2.tga
+
+PICTURE 230 152 Mngm_Slider_upper.tga
+PICTURE 247 141 Mngm_L_L_Horiz_Line.tga
+
+PICTURE 395 140 Mngm_Innerframe_UR_corner.tga
+PICTURE 397 156 Mngm_Innerframe_Dial_left.tga
+PICTURE 331 139 Mngm_Innerframe_Horiz_Rtoend.tga
+
+PICTURE 232 330 Mngm_Innerframe_SW_corner.tga
+PICTURE 248 332 Mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 232 266 Mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 396 330 Mngm_Innerframe_LR_corner.tga
+PICTURE 332 331 Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 397 266 Mngm_Innerframe_Vert_Ltoend.tga
+
+
+PICTURE 273 151 Mngm_DropPlayer2.tga
+
+LIST ID_DROPPLAYERLIST CLICK_SOUND ButtonPress2 247 177 150 140 Mngm_Listitem_Marker.tga
+
+BUTTON ID_REQUESTERCANCEL KEY_ESC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 350 324 Mngm_Newcomm_Cancel.tga 0.4 350 324 Mngm_Newcomm_Cancel_Eff.tga
+BUTTON ID_DROPPLAYER KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 242 323 Mngm_Ok.tga 0.4 238 323 Mngm_Ok_Eff.tga

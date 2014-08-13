@@ -1,0 +1,640 @@
+//C:\Games\Sierra\GC\data\multiplayer\Missions\FZ1\FZ1.prp
+//Ground Control Prop File
+//GenEd Version 3.604
+
+	PROP
+		//type (mdl file)
+		alarm
+		//collision type
+		None
+		//position (x,y,z)
+		1087.500000
+		29.000000
+		862.500000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		alarm
+		//collision type
+		None
+		//position (x,y,z)
+		3256.250000
+		84.000000
+		3793.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		alarm
+		//collision type
+		None
+		//position (x,y,z)
+		4637.500000
+		138.316803
+		2725.000000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		alarm
+		//collision type
+		None
+		//position (x,y,z)
+		1631.250000
+		153.000000
+		5387.500000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		alarm
+		//collision type
+		None
+		//position (x,y,z)
+		5162.500000
+		230.000000
+		5550.000000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3221.875000
+		84.000000
+		3962.500000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3271.875000
+		84.000000
+		3625.000000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3271.875000
+		84.000000
+		3962.500000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3271.875000
+		84.000000
+		3925.000000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3140.625000
+		85.000000
+		3706.250000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3412.500000
+		85.000000
+		3765.625000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3200.000000
+		84.000000
+		3903.125000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3140.625000
+		84.000000
+		3881.250000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3140.625000
+		84.249992
+		3843.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3140.625000
+		84.000000
+		3743.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3162.500000
+		84.000000
+		3903.125000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3081.250000
+		84.000000
+		3821.875000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3162.500000
+		85.000000
+		3684.375000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3118.750000
+		84.000000
+		3765.625000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3081.250000
+		84.500008
+		3765.625000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3118.750000
+		84.000000
+		3821.875000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3221.875000
+		84.000000
+		3925.000000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3221.875000
+		84.000000
+		3662.500000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3221.875000
+		84.000000
+		3625.000000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3271.875000
+		84.000000
+		3662.500000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3200.000000
+		85.000000
+		3684.375000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3293.750000
+		84.000000
+		3684.375000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3331.250000
+		84.499992
+		3684.375000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3293.750000
+		84.000000
+		3903.125000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3353.125000
+		85.000000
+		3881.250000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3353.125000
+		85.000000
+		3843.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3353.125000
+		85.000000
+		3706.250000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3353.125000
+		84.000000
+		3743.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3331.250000
+		84.749992
+		3903.125000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3375.000000
+		85.000000
+		3821.875000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3412.500000
+		85.000000
+		3821.875000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_cc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3375.000000
+		84.999992
+		3765.625000
+		//rotation
+		1.570795
+

@@ -1,0 +1,107 @@
+[CRAYVEN]
+Grinning Skulls
+Steel Claws
+Red Tigers
+Green Berrets
+Iron Clads
+Eagle Claws
+Screamers
+Ivory Guards
+Avatars
+Headhunters
+Crayven Vikings
+Roaming Berzerkers
+Massive Roughnecks
+Wrecking Crew
+Brutal Deluxe
+Powerhouse
+Renegade Legion
+Unsung Heroes
+Starforce
+Red Wolves
+Unsung Heroes
+Rainbow Soldiers
+Vanguards
+Lucky Seven
+Hungry Lions
+Daring Tigers
+Daredevils
+Survivors
+Red Raptors
+Iron Chargers
+Powerforce
+Norsemen
+Ripperjacks
+Cranium Commandos
+Humble Destroyers
+Lethal Panthers
+
+[WRATH]
+Dark Spectres
+Dispatchers
+Purple Moon
+Sun Swords
+Shinning Daggers
+Fallen Angels
+Wrath Of God
+Nightstalkers
+Faithful Soldiers
+Dawn Destiny
+Grim Reaper
+Force Majeur
+Soul Reapers
+Golden Stars
+Abominations
+Grim Wolves
+God's Scimitars
+Aperian Sappers
+Steel Phantoms
+Plague Patrol
+Dark Prophets
+Metal Priests
+Lethal Justice
+Hands of the Sun
+Sons of Sun
+Shining Knights
+Knights of God
+Cavaliers
+Death Angels
+
+
+[PHOENIX]
+Fists of Heracles
+Shears of Atropos
+Gorgon's Fury
+Thunderbolts 
+Orion's Hunters
+Ares' Fury
+Deathsong of Orpheus
+Arrows of Artemis
+Spawn of Scylla
+Forge of Hephaestus
+Agents of Apocalypse
+Wings of Daedelus
+Morpheus' Nightmares
+Dragon's Teeth
+Nemean Lions
+Howlers of the Abyss
+Wrath of Medusa
+Judgement of Themis
+Pride of Nemesis
+Web of Arachne
+Fires of Helios
+Siren's Song
+Sons of Antaeus
+Sword of Damocles
+Pandora's Nightmares
+Erymanthian Boars
+Rhea's Trickery
+Bane of Hades
+Hounds of Ares
+Athena's Lance
+Charon's Children
+Phobos' Cadre
+Wolves of Hecate
+Ganymede's Flock
+Sons of Hyperion
+Nike's Wings

@@ -1,0 +1,29 @@
+
+//INNERBOX
+
+PICTURE 380 257 Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 443 192 Mngm_Innerframe_Vert_Ltoend.tga
+PICTURE 442 256 Mngm_Innerframe_LR_corner.tga
+
+PICTURE 441 133 Mngm_Innerframe_UR_corner.tga
+PICTURE 443 149 Mngm_Innerframe_Dial_left.tga
+PICTURE 377 132 Mngm_Innerframe_Horiz_Rtoend.tga
+
+
+PICTURE 197 256 Mngm_Innerframe_SW_corner.tga
+PICTURE 213 258 Mngm_Innerframe_Horiz_Ltoend.tga
+
+PICTURE 197 192 Mngm_Innerframe_Vert_Ltoend.tga
+PICTURE 197 133 Mngm_T_L_Corner2.tga
+PICTURE 212 133 Mngm_L_L_Horiz_Line.tga
+PICTURE 196 145 Mngm_Innerframe_Vert_Utoend.tga
+
+PICTURE 205 140 Mngm_PoppupBox.tga
+
+TEXT ID_REQUESTERTEXT gfx/font/font_mui_big.tga 210 145 225 103
+
+
+//BUTTONS
+BUTTON ID_REQUESTERCANCEL KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 214 245 Mngm_Ok.tga 0.3 211 245 Mngm_Ok_Eff.tga
+
+//LASTROW

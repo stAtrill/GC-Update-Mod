@@ -1,0 +1,74 @@
+//px_RadarStation1.ent
+ModName
+DARKCONS
+
+SlopeModifier
+3	//slope värde
+5.4	//slope size i x
+5	//höjd i collision objekt
+5.4	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Enable Radar Vision
+RADARSIGHT
+
+//Force (CRAYVEN, WRATH)
+Force
+PHOENIX
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+FIXEDGUN
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+6
+
+//the name of the entity
+Name
+273
+
+//Create an aimer
+UseAimer
+
+//main model animation
+Model
+Deployable_PX_Radar
+
+//fire offset (X, -Y, Z)
+FireOffset
+0.0
+3.0
+0.0
+
+//other stuff
+Radius
+5.0
+Height
+3.0
+PivotHeight
+0.0
+HeadTurnSpeed
+3.0
+3.0
+ViewRange
+680.0
+ProjectileProtection
+80
+Power
+1000
+// Detection
+Stealth
+0
+Perception
+0
+
+WRECK
+building_px_deployableradar_wreck

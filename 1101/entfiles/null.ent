@@ -1,0 +1,121 @@
+//null.ent
+ModName
+DARKCONS
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, SUPPORT, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+INFANTRY
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+4
+
+Noteammarker
+
+//the name of the entity
+Name
+270
+
+//type of mover(foot, air, vehicle)
+MoverType
+air
+
+//main model animation
+Model
+null
+
+
+
+//------------------------------------------------
+
+//other stuff
+Radius
+4.5
+Height
+8.0
+PivotHeight
+0.35
+Acceleration
+101.0
+Friction
+100.0
+MaxSpeed
+16.0
+//Radianer/sekund    6.28 = 1 varv/sekund
+TurnSpeed
+3.0
+HeadTurnSpeed
+0.5
+0.5
+SlopeBorder
+2
+ViewRange
+10.0
+ProjectileProtection
+1
+Power
+1
+// Detection
+Stealth
+0
+Perception
+0
+
+FleshFlag
+
+EasterEggAnimalType
+4
+
+
+//death chunk model
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+//WRECK
+Wreckmodel
+Death_alien_cow
+
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover1-2, snd_engine_vehicle1-3, snd_engine_air1-2,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+

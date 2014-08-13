@@ -1,0 +1,64 @@
+//TOP ROW BORDERS
+PICTURE 31 33 Mngm_T_L_Corner.tga
+//PICTURE 63 33 Mngm_Opt_Load_Load.tga
+PICTURE 319 50 Mngm_R_Of_Header.tga
+PICTURE 461 50 Mngm_U_R_Line.tga
+PICTURE 589 50 Mngm_U_R_Corner.tga
+PICTURE 589 66 Mngm_U_R_Vert_Line.tga
+PICTURE 39 65 Mngm_U_L_Lines.tga
+PICTURE 39 193 Mngm_M_R_Vert_Line.tga
+
+PICTURE 63 33 Mngm_Smiss_options.tga
+
+
+//BUTT BORDERS
+PICTURE 39 290 Mngm_L_L_Vert_Line.tga
+PICTURE 31 418 Mngm_L_L_Corner.tga
+//Small pic just right of butt butts
+PICTURE 191 418 Mngm_EndOfLowButts.tga
+PICTURE 326 417 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 462 418 Mngm_U_R_Line.tga
+PICTURE 590 415 Mngm_L_R_Corner.tga
+PICTURE 590 287 Mngm_L_R_Vert_Line.tga
+
+//MISSION,SQUAD, JOURNAL BOARDERS
+
+PICTURE 586 410 Mngm_Innerframe_LR_corner.tga
+PICTURE 522 411 Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 587 346 Mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 51 410 Mngm_Innerframe_SW_corner.tga
+PICTURE 67 412 Mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 51 346 Mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 586 224 Mngm_Innerframe_Vert_UtoFree.tga
+PICTURE 586 96 Mngm_Innerframe_Vert_LtoFree.tga
+
+
+PICTURE 50 294 Mngm_Innerframe_Vert_UtoFree.tga
+PICTURE 50 166 Mngm_Innerframe_Vert_LtoFree.tga
+
+
+
+PICTURE 585 73 Mngm_Innerframe_UR_corner.tga
+PICTURE 587 89 Mngm_Innerframe_Dial_left.tga
+PICTURE 521 72 Mngm_Innerframe_Horiz_Rtoend.tga
+
+PICTURE 409 72 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 360 72 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 190 72 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 170 72 Mngm_Innerframe_Horiz_Free_128.tga
+
+PICTURE 334 412 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 290 412 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 150 412 Mngm_Innerframe_Horiz_Free_128.tga
+
+
+PICTURE 51 73 Mngm_T_L_Corner2.tga
+PICTURE 49 89 Mngm_Slider_upper.tga
+PICTURE 67 73 Mngm_L_L_Horiz_Line.tga
+
+
+//Low Butts
+BUTTON ID_RESTOREOPTIONS KEY_ESC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 MOUSE_CLICK BACKFROMOPTIONS 63 418 MNGM_LOWBUTT_BACK_NEW2.tga 0.4 63 418 MNGM_LOWBUTT_BACK_NEW_EFF2.tga
+BUTTON ID_SAVEOPTIONS KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 127 418 Mngm_LowButt_Accept2.tga 0.4 127 418 Mngm_LowButt_Eff_Accept.tga

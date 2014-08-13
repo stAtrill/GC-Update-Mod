@@ -1,0 +1,61 @@
+//Building_wc_Shuttle_dropzone.ent
+
+SlopeModifier
+3	//slope värde
+40	//slope size i x
+12	//höjd i collision objekt
+54	//slope size i z
+
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//name of entity (formal name, for editor, etc)
+Name
+295
+
+//main model animation
+Model
+Building_wc_shuttle_dropzone
+
+//other stuff
+Radius
+18.0
+Height
+25.0
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+10000
+
+//WRECK
+WreckModel
+building_wc_shuttle_Dropzone_wreck
+
+ModName
+GC
+
+
+

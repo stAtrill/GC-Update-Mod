@@ -1,0 +1,175 @@
+// This file contains Direct 3D hardware limitations for a number of 
+// common 3D accelerators. The different boards are identified by a 
+// vendor id plus a device id, as reported by DirectX7. For chipsets 
+// used by several manufacturers, it is possible to create an entry
+// where vendor id is marked as *. This assumes that all vendors agree
+// on what device id to report for the chipset.
+//
+// For a number of parameters, the available options are ON, ALLOWED
+// and DISABLED. ON is the default and can be ommitted. DISABLED makes
+// the effect unavailable, and should be used for effects that crashes
+// the system or produce very ugly result. ALLOWED means that the effect
+// is initially disabled, but can be enabled in the options menu. This
+// setting can be used for effects that work less than perfect or that 
+// cause a substantial framerate drop on the card in question.
+
+
+[4634-1]				// 3dfx, Voodoo Graphics
+BUMPMAP DISABLED
+TRACKS_METHOD 2
+SPECULAR ALLOWED		// really should work, but turned off until fixed
+TEXELCENTER 0
+D3D_NOSYNC ON
+MAXRES 640
+
+[4418-25661]			// 3dfx, Voodoo Rush
+BUMPMAP DISABLED
+TRACKS_METHOD 2
+SPECULAR ALLOWED		// really should work, but turned off until fixed
+TEXELCENTER 0
+MAXRES 640
+
+[4634-2]				// 3dfx, Voodoo2
+BUMPMAP DISABLED		// really should work, but turned off until fixed
+BUMPMAP_METHOD 2	
+SPECULAR ALLOWED		// really should work, but turned off until fixed
+MAXRES 800
+
+[4634-3]				// 3dfx, Voodoo Banshee
+BUMPMAP DISABLED
+SPECULAR ALLOWED		// really should work, but turned off until fixed
+MAXRES 640
+
+[4634-5]				// 3dfx, Voodoo3
+SPECULAR ALLOWED		// really should work, but turned off until fixed
+BUMPMAP_METHOD 2		
+//D3D_NOSYNC ON
+MAXRES 1024
+ALTTAB_EVICT DISABLED
+
+[4634-9]				// 3dfx, Voodoo5
+FOG_METHOD 2
+MAXRES 1024
+
+[4318-32]				// NVidia, Riva TNT
+MAXRES 1024
+
+[4318-40]				// NVidia, Riva TNT2
+MAXRES 1024
+
+[4318-41]				// NVidia, TNT2 Ultra
+MAXRES 1024
+
+[4318-256]				// NVidia, GeForce
+D3D_CLIP ON
+MAXRES 1024
+
+[4318-257]				// Creative Labs GeForce card reports this.
+D3D_CLIP ON
+MAXRES 1024
+
+[4318-258]				// Don't know if there is a 258, but since 257 & 259 exist...
+D3D_CLIP ON
+MAXRES 1024
+
+[4318-259]				// NVidia Quadro GeForce
+D3D_CLIP ON
+MAXRES 1024
+
+[*-24]					// Riva 128, multiple vendors
+BUMPMAP DISABLED
+TRACKS ALLOWED
+TRACKS_METHOD 2
+SQUARETEXTURES
+MAXRES 800
+
+[32902-30720]			// Intel i740
+TRACKS_METHOD 2
+MAXRES 800
+
+[4139-1307]				// Matrox Millennium2
+NOT_SUPPORTED
+
+[4139-1311]				// Matrox Millennium2
+NOT_SUPPORTED
+
+[4139-1305]				// Matrox Millennium
+NOT_SUPPORTED
+
+[4139-1313]				// Matrox G200
+BUMPMAP DISABLED	
+TRACKS_METHOD 2
+MAXRES 1024
+
+[4139-1317]				// Matrox G400
+MAXRES 1024
+
+[4172-15623]			// Creative Blaster Extreme /fire 1000 gl pro
+BUMPMAP DISABLED
+POINT_METHOD 3
+TRACKS DISABLED
+TEXELCENTER 0.0
+MAXRES 640
+
+[4098-18242]			// ATI Rage Pro
+BUMPMAP DISABLED
+TRACKS_METHOD 2
+TEXELCENTER 0.0			// depending on driver version, 0.0 or 0.5 may work best
+FOG ON					// fog only works on some driver versions
+MAXRES 1024
+
+[4098-18249]			// ATI All In Wonder
+BUMPMAP DISABLED
+TRACKS_METHOD 2
+TEXELCENTER 0.0			// depending on driver version, 0.0 or 0.5 may work best
+MAXRES 1024
+LENSFLARE DISABLED
+
+
+[4098-18256]			// ATI Rage Pro Turbo (Expert98?)
+BUMPMAP DISABLED
+TRACKS_METHOD 2
+TEXELCENTER 0.0			// depending on driver version, 0.0 or 0.5 may work best
+POINT_METHOD 2
+MAXRES 1024
+
+[4098-21062]			// ATI Rage 128
+TEXELCENTER 0.33
+POINT_METHOD 2
+TRACKS_METHOD 2
+MAXRES 1024
+
+[4098-20550]			// ATI Rage 128 Pro
+TEXELCENTER 0.33
+TRACKS_METHOD 2
+POINT_METHOD 2
+MAXRES 1024
+
+
+[21299-35347]			// S3 Trio
+BUMPMAP DISABLED
+TRACKS_METHOD 2
+SQUARETEXTURES
+TEXELCENTER 0
+MAXRES 1024
+
+[21299-35362]			// Savage 4
+MAXRES 1024
+
+[21299-37122]			// Viper 2
+TRACKS_METHOD 2
+MAXRES 1024
+
+[21299-35360]			// Savage 3D
+TRACKS_METHOD 2
+MAXRES 1024
+
+[15677-4]				// Fire 1000 GL
+BUMPMAP DISABLED	
+TRACKS DISABLED
+POINT_METHOD 3
+TEXELCENTER 0
+MAXRES 640
+
+
+

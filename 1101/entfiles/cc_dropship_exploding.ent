@@ -1,0 +1,59 @@
+//CC_DROPSHIP_EXPLODING
+ModName
+DARKCONS
+
+SlopeModifier
+3	//slope värde
+44	//slope size i x
+16	//höjd i collision objekt
+58	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+Noteammarker
+
+//name of entity (formal name, for editor, etc)
+Name
+72
+
+//main model animation
+Model
+CC_DROPSHIP_EXPLODING
+
+//other stuff
+Radius
+15.0
+Height
+15.0
+PivotHeight
+0.0
+ProjectileProtection
+2000
+Power
+10000
+
+
+WreckModel
+cc_dropship_exploded
+
+
+//AmbientSound
+//snd_exploding_dropship
+

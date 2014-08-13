@@ -1,0 +1,52 @@
+//C:\Games\Sierra\GC\data\multiplayer\Missions\Fz8\Fz8.prp
+//Ground Control Prop File
+//GenEd Version 3.604
+
+	PROP
+		//type (mdl file)
+		Building_cc_Spotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3259.375000
+		69.000000
+		3346.875000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		Building_cc_Spotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3259.375000
+		69.000000
+		2984.375000
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		Building_cc_Spotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3578.125000
+		69.000000
+		3346.875000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		Building_cc_Spotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3571.875000
+		69.000000
+		2984.375000
+		//rotation
+		3.141590
+

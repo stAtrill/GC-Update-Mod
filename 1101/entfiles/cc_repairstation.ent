@@ -1,0 +1,70 @@
+//cc_repairstation.ent
+//deployable building
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+5.4	//slope size i x
+5	//höjd i collision objekt
+5.4	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+FIXEDGUN
+
+//Heals other units
+healer
+100
+40
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//the name of the entity
+Name
+208
+
+//main model animation
+Model
+Deployable_CC_Repairstation
+
+//other stuff
+Radius
+5.0
+Height
+3.0
+PivotHeight
+0.0
+HeadTurnSpeed
+3.0
+3.0
+ViewRange
+30.0
+ProjectileProtection
+80
+Power
+1000
+// Detection
+Stealth
+0
+Perception
+0
+// WRECK
+// NONE YET
+
+
+

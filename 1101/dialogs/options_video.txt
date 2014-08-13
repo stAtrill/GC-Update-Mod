@@ -1,0 +1,13 @@
+BUTTON MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 MOUSE_CLICK options_general 68 54 Mngm_General_Folder.tga 0.4 68 54 Mngm_General_Folder_Eff.tga
+PICTURE 183 54 Mngm_Video_Folder_Eff.tga
+BUTTON MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 MOUSE_CLICK options_control 298 54 Mngm_Controls_Folder.tga 0.4 298 54 Mngm_Controls_Folder_Eff.tga
+
+
+BUTTON ID_VIDEOMODE MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 62 90 Mngm_VideoMode.tga 0.4 62 90 Mngm_VideoMode_Eff.tga
+BUTTON ID_VIDEOOPTIONS MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 62 120 Mngm_VideoOptions.tga 0.4 62 120 Mngm_VideoOptions_Eff.tga
+
+
+LIST ID_VIDEOLIST 300 90 240 340 Mngm_Listitem_Marker.tga
+
+
+BUTTON ID_VIDEO_RESET MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 508 388 Mngm_Reset.tga 0.4 508 388 Mngm_Reset_Eff.tga

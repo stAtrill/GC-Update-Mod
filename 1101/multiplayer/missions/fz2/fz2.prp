@@ -1,0 +1,40 @@
+//L:\Ground Control\data\multiplayer\missions\Fz2\Fz2.prp
+//Ground Control Prop File
+//GenEd Version 3.511
+
+	PROP
+		//type (mdl file)
+		Rocket
+		//collision type
+		Box
+		//x size
+		12.500000
+		//height
+		12.500000
+		//z size
+		50.000000
+		//position (x,y,z)
+		3187.500000
+		7.500000
+		3650.000000
+		//rotation
+		5.078904
+
+	PROP
+		//type (mdl file)
+		Dino_Skeleton_V3
+		//collision type
+		Box
+		//x size
+		12.500000
+		//height
+		18.750000
+		//z size
+		6.250000
+		//position (x,y,z)
+		3253.125000
+		1.000000
+		3450.000000
+		//rotation
+		4.206240
+

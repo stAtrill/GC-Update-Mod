@@ -1,0 +1,66 @@
+
+
+===============RENAMED BY MARTINW============
+
+* Slightly updated the names of all CC units 
+
+
+===============RENAMED BY HENKE============
+
+* CC_DSCDish.ent -> building_cc_RadarDish.ent
+* building_wc_terraforming_facility_cammo.ent -> building_wc_powerstation.ent
+* building_wc_Hoover_repaircenter.ent -> building_wc_hoverRepair.ent
+* building_cc_AerodyneRepair.ent -> building_cc_aerodynerepair.ent
+
+
+===============ADDED BY HENKE==============
+
+* wc_templar.ent
+* wc_beamplatform.ent
+* wc_aavehicle.ent
+* wc_artilleryvehicle.ent
+* cc_attackaerodyne.eet
+* cc_lightaerodyne.ent
+
+===============REMOVED BY HENKE============
+
+* building_wc_control.ent - gammal och ful
+* building_wc_reactorcooler.ent - gammal och ful
+* building_cc_TerraformingF.ent  - fanns ingen mdl, verkar dock finnas en ny men skapa ny entfil oxo.
+* building_cc_sugga.ent - delme fil, kopia av building_cc_hotell
+* building_cc_radar.ent - gammal och ful
+* building_cc_hotell.ent - building_cc_jumpstation_tower.ent - fitt namn
+
+===============ADDED BY JOCKE==============
+
+* building_cc_vehiclebay.ent   
+* building_cc_Terraforming_facility_extention.ent
+* building_cc_Terraforming_facility.ent
+* building_cc_Terraforming_Central.ent
+* building_cc_Research_center.ent
+* building_cc_Radar_station.ent   -mått ändrade
+* building_cc_Power_station_main.ent
+* building_cc_Power_station_core.ent
+* building_cc_Field_repair.ent
+* building_cc_Field_generator.ent
+* building_cc_Equip_depot.ent
+* building_cc_equip_storage.ent
+* building_cc_Command_center.ent
+* building_wc_Terraforming_facility_main.ent
+* building_wc_temple_new -förbättrad version.ent
+* building_wc_Satellite_dish.ent
+* building_wc_Research_center.ent
+* building_wc_powerstation_main.ent
+* building_wc_Mining_facility.ent
+* building_wc_medical_facility.ent
+* building_wc_Industrial_building.ent
+* building_wc_Field_repair_tent.ent
+* building_wc_Field_generator.ent
+* building_wc_Factory_02.ent
+* building_wc_Factory_03.ent
+* building_wc_Equip_depot.ent -mått ändrade
+
+==============MODIFIERADE AV HENKE===============================
+
+SAMTLIGA FILER HAR FÅTT ProjectileProtection och EnergyProtection
+

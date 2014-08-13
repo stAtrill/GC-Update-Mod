@@ -1,0 +1,138 @@
+//wc_wctruck2.ent
+//THE 20-TONNE TRUCK
+ModName
+DARKCONS
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, SUPPORT, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+SUPPORT
+
+// Squad button
+Button
+UNITICO_TRANSP_1_Ond.tga
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//the name of the entity
+Name
+267
+
+//type of mover(foot, air, vehicle)
+MoverType
+hover
+
+//main model animation
+Model
+wc_truck
+
+//Aimer to see
+UseAimer
+
+//fire offset
+FireOffset
+0.0
+5.0
+0.0
+
+//other stuff
+Radius
+12.0
+Height
+5.7
+PivotHeight
+4.0
+Acceleration
+90.0
+Friction
+85.0
+MaxSpeed
+13.0
+TurnSpeed
+//Radianer/sekund    6.28 = 1 varv/sekund
+2.2
+HeadTurnSpeed
+2.0
+0.0
+SlopeBorder
+1
+ViewRange
+200.0
+ProjectileProtection
+80
+FlyingHeight
+5.0
+Power
+6000
+// Detection
+Stealth
+0
+Perception
+0
+//WRECK
+WreckModel
+wc_truck_wreck
+WreckModel
+wc_truck_wreck2
+WreckModel
+wc_truck_wreck3
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover1-2, snd_engine_vehicle1-2, snd_engine_air1-2,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+AmbientSound
+snd_engine_hover1
+
+//sound bank
+//valid banks are:
+//CRAYVEN_ANTIAIRVEHICLE
+//CRAYVEN_ARTILLERYVEHICLE
+//CRAYVEN_ATTACKAERODYNE
+//CRAYVEN_BOMBERAERODYNE
+//CRAYVEN_COMMANDAPC
+//CRAYVEN_ENGINEERTRUCKER
+//CRAYVEN_FIGHTERAERODYNE
+//CRAYVEN_HEAVYTANK
+//CRAYVEN_JAEGER
+//CRAYVEN_LIGHTTANK
+//CRAYVEN_MARINE
+//CRAYVEN_MEDIUMTANK
+//CRAYVEN_ROCKETVEHICLE
+//CRAYVEN_SCOUTAERODYNE
+//CRAYVEN_SCOUTVEHICLE
+//OND_ANTIAIRVEHICLE
+//OND_ARTILLERYVEHICLE
+//OND_ATTACKAERODYNE
+//OND_BEAMPLATFORM
+//OND_COMMANDAPC
+//OND_CRUSADER
+//OND_DRONECARRIER
+//OND_ENGINEERTRUCKER
+//OND_FIGHTERAERODYNE
+//OND_HEAVYHOVERDYNE
+//OND_LIGHTHOVERDYNE
+//OND_MEDIUMHOVERDYNE
+//OND_SCOUTAERODYNE
+//OND_SCOUTVEHICLE
+//OND_TEMPLAR
+SoundBank
+OND_ENGINEERTRUCKER
+
+
+
+

@@ -1,0 +1,96 @@
+//wc_sentrygun1
+// deployed structure
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+5.4	//slope size i x
+5	//höjd i collision objekt
+5.4	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+FIXEDGUN
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//the name of the entity
+Name
+173
+
+//Create an aimer
+UseAimer
+
+//Aimer inställningar
+AimerXDegLimits
+75
+0
+
+//main model animation
+Model
+Deployable_WC_Laser_Sentry
+
+
+ChildOffset
+//offset of the child (X, Y, Z)
+0.0
+2.65
+0.0
+
+//Barrel Model
+BarrelOffset
+//offset of the barrel child (x,y,z)
+0.0
+0.02
+0.0
+
+//fire offset (X, -Y, Z)
+FireOffset
+0.0
+0.0
+0.0
+
+//other stuff
+Radius
+5.0
+Height
+3.0
+PivotHeight
+0.0
+HeadTurnSpeed
+3.0
+3.0
+ViewRange
+200.0
+ProjectileProtection
+80
+EnergyProtection
+80
+Power
+1000
+// Detection
+Stealth
+50
+Perception
+0
+
+
+

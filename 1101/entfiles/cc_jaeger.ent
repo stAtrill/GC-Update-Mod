@@ -1,0 +1,173 @@
+//cc_Jaeger.ent
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+INFANTRY
+
+ApcLoadable
+
+// Squad button
+Button
+unitico_inf_2.tga
+
+// Squad button "in-apc" icon
+ApcButton
+unitico_inf_in_transp_2.tga
+
+// Max number of units in squad
+MaxUnits
+4
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+Description
+181
+
+BranchSortOrderValue
+1
+
+//the name of the entity
+Name
+134
+
+//score awarded in mp per unit in squad
+//default is 1 per unit
+MultiplayerScorePerEntity
+2
+
+//type of mover(foot, air, vehicle)
+MoverType
+foot
+
+//Flag to say if main object will follow aimer
+AimerInYControl
+
+//Create an aimer
+UseAimer
+
+//Thou shall bleed
+FleshFlag
+
+//death chunk model
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_cc_marine_wreck_part3
+DeathChunkModel
+Death_Cc_Jaeger_wreck_part
+//no default death effect
+NoDefaultDeathEffect
+
+//main model animation
+Model
+cc_jaeger
+
+//fire offset
+FireOffset
+0.0
+1.8
+0.0
+
+//other stuff
+Radius
+1.3
+Height
+2.2
+PivotHeight
+0.0
+Acceleration
+150.0
+Friction
+100.0
+MaxSpeed
+13.0
+TurnSpeed
+//Radianer/sekund    6.28 = 1 varv/sekund
+2.2
+HeadTurnSpeed
+5.0
+0.0
+SlopeBorder
+2
+ViewRange
+450.0
+ProjectileProtection
+40
+Power
+1400
+// Detection
+Stealth
+150
+Perception
+100
+//WRECK
+Wreckmodel
+Death_Cc_Jaeger_wreck
+Wreckmodel
+Death_Cc_Jaeger_wreck2
+
+
+//sound bank
+//valid banks are:
+//CRAYVEN_ANTIAIRVEHICLE
+//CRAYVEN_ARTILLERYVEHICLE
+//CRAYVEN_ATTACKAERODYNE
+//CRAYVEN_BOMBERAERODYNE
+//CRAYVEN_COMMANDAPC
+//CRAYVEN_ENGINEERTRUCKER
+//CRAYVEN_FIGHTERAERODYNE
+//CRAYVEN_HEAVYTANK
+//CRAYVEN_JAEGER
+//CRAYVEN_LIGHTTANK
+//CRAYVEN_MARINE
+//CRAYVEN_MEDIUMTANK
+//CRAYVEN_ROCKETVEHICLE
+//CRAYVEN_SCOUTAERODYNE
+//CRAYVEN_SCOUTVEHICLE
+//OND_ANTIAIRVEHICLE
+//OND_ARTILLERYVEHICLE
+//OND_ATTACKAERODYNE
+//OND_BEAMPLATFORM
+//OND_COMMANDAPC
+//OND_CRUSADER
+//OND_DRONECARRIER
+//OND_ENGINEERTRUCKER
+//OND_FIGHTERAERODYNE
+//OND_HEAVYHOVERDYNE
+//OND_LIGHTHOVERDYNE
+//OND_MEDIUMHOVERDYNE
+//OND_SCOUTAERODYNE
+//OND_SCOUTVEHICLE
+//OND_TEMPLAR
+SoundBank
+CRAYVEN_JAEGER
+
+
+
+

@@ -1,0 +1,57 @@
+//Building_cc_AerodyneRepair.mdl
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+67.2	//slope size i x
+64	//höjd i collision objekt
+52	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+0
+
+//main model animation
+Model
+Building_cc_Aerodyne_Repair_Center_Version
+
+//other stuff
+Radius
+23.0
+Height
+14.0
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+10000
+
+WreckModel
+building_cc_Aerodyne_repair_center_wreck
+
+

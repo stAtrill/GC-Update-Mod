@@ -1,0 +1,157 @@
+//TOP ROW BORDERS
+PICTURE 31 33 Mngm_T_L_Corner.tga
+PICTURE 63 33 Mngm_CustomGame.tga
+PICTURE 300 50 Mngm_Innerframe_Dial_trline2.tga
+
+
+PICTURE 461 50 Mngm_U_R_Line.tga
+PICTURE 589 50 Mngm_U_R_Corner.tga
+PICTURE 589 66 Mngm_U_R_Vert_Line.tga
+PICTURE 39 65 Mngm_U_L_Lines.tga
+PICTURE 39 193 Mngm_M_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 39 290 Mngm_L_L_Vert_Line.tga
+PICTURE 31 418 Mngm_L_L_Corner.tga
+//Small pic just right of butt butts
+PICTURE 238 418 Mngm_EndOfLowButts.tga
+PICTURE 326 417 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 462 418 Mngm_U_R_Line.tga
+PICTURE 590 415 Mngm_L_R_Corner.tga
+PICTURE 590 287 Mngm_L_R_Vert_Line.tga
+
+//CUSTOM MISSION BOARDERS
+
+
+PICTURE 50 410 Mngm_Innerframe_SW_corner.tga
+PICTURE 66 412 Mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 50 352 Mngm_Innerframe_Vert_Ltoend.tga
+
+
+PICTURE 253 410 Mngm_Innerframe_LR_corner.tga
+PICTURE 189 411 Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 254 346 Mngm_Innerframe_Vert_Ltoend.tga
+
+
+
+PICTURE 240 263 Mngm_Innerframe_UR_corner.tga
+PICTURE 242 279 Mngm_Innerframe_Dial_left.tga
+PICTURE 177 262 Mngm_Innerframe_Horiz_Rtoend.tga
+
+
+PICTURE 50 264 Mngm_T_L_Corner2.tga
+PICTURE 48 275 Mngm_Slider_upper.tga
+PICTURE 66 264 Mngm_L_L_Horiz_Line.tga
+
+
+PICTURE 203 361 Mngm_Slider_Base.tga
+PICTURE 240 233 Mngm_Slider_mid.tga
+
+
+
+
+
+//CUSTOM CAMPAIGN BOARDERS
+
+PICTURE 253 230 Mngm_Innerframe_LR_corner.tga
+PICTURE 189 231 Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 254 166 Mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 50 230 Mngm_Innerframe_SW_corner.tga
+PICTURE 66 232 Mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 50 166 Mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 349 83 Mngm_Innerframe_Horiz_Free_128.tga
+
+PICTURE 241 96 Mngm_Innerframe_Vert_UtoFree.tga
+//PICTURE 248 60 Mngm_Innerframe_Vert_LtoFree.tga
+
+PICTURE 240 83 Mngm_Innerframe_UR_corner.tga
+PICTURE 242 99 Mngm_Innerframe_Dial_left.tga
+PICTURE 176 82 Mngm_Innerframe_Horiz_Rtoend.tga
+
+
+PICTURE 50 84 Mngm_T_L_Corner2.tga
+PICTURE 48 95 Mngm_Slider_upper.tga
+PICTURE 66 84 Mngm_L_L_Horiz_Line.tga
+
+
+PICTURE 203 181 Mngm_Slider_Base.tga
+PICTURE 240 53 Mngm_Slider_mid.tga
+
+
+
+//INFOBOARDERS
+PICTURE 585 410 Mngm_Innerframe_LR_corner.tga
+PICTURE 521 411 Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 586 346 Mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 259 410 Mngm_Innerframe_SW_corner.tga
+PICTURE 275 412 Mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 259 346 Mngm_Innerframe_Vert_Ltoend.tga
+
+
+
+PICTURE 584 224 Mngm_Innerframe_Vert_UtoFree.tga
+PICTURE 584 106 Mngm_Innerframe_Vert_LtoFree.tga
+
+
+PICTURE 258 274 Mngm_Innerframe_Vert_UtoFree.tga
+PICTURE 258 156 Mngm_Innerframe_Vert_LtoFree.tga
+
+
+PICTURE 584 83 Mngm_Innerframe_UR_corner.tga
+PICTURE 586 99 Mngm_Innerframe_Dial_left.tga
+PICTURE 520 82 Mngm_Innerframe_Horiz_Rtoend.tga
+
+
+PICTURE 259 84 Mngm_T_L_Corner2.tga
+PICTURE 257 95 Mngm_Slider_upper.tga
+PICTURE 275 84 Mngm_L_L_Horiz_Line.tga
+
+
+
+
+
+//HEADLINES
+PICTURE 73 240 Mngm_CustomMissions.tga
+PICTURE 280 60 Mngm_Info.tga
+PICTURE 73 60 Mngm_CustomCampaigns.tga
+
+
+//BORDER EFFECT
+//PICTURE 374 424 Mngm_Dropsbord_LEffect1.tga
+PICTURE 502 398 Mngm_Dropsbord_LEffect2.tga
+//PICTURE 585 270 Mngm_Dropsbord_LEffect3.tga
+
+PICTURE 493 425 Mngm_Lborder3.tga
+PICTURE 416 418 Mngm_U_R_Line.tga
+
+
+
+// campaign list
+LIST ID_CUSTOMCAMPAIGNLIST CLICK_SOUND ButtonPress2 67 92 170 120 Mngm_Listitem_Marker.tga
+SCROLLBAR 233 165 106 Mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 246 197 Mngm_Slider_Arrow_U_Rest.tga Mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 246 221 Mngm_Slider_Arrow_Dwn_Rest.tga Mngm_Slider_Arrow_Dwn_Eff.tga
+
+
+//mission list
+LIST ID_CUSTOMMISSIONLIST CLICK_SOUND ButtonPress2 67 272 170 150 Mngm_Listitem_Marker.tga
+SCROLLBAR 233 270 106 Mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 246 377 Mngm_Slider_Arrow_U_Rest.tga Mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 246 400 Mngm_Slider_Arrow_Dwn_Rest.tga Mngm_Slider_Arrow_Dwn_Eff.tga
+
+
+//mission/campaign info
+TEXT ID_CUSTOMINFO gfx/font/font_mui.tga 272 92 305 300
+
+//BUTTONS
+BUTTON ID_STARTCUSTOMGAME KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 63 418 Mngm_StartGame4.tga 0.4 63 418 Mngm_StartGame_Eff.tga
+BUTTON KEY_ESC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 MOUSE_CLICK SINGLEPLAYERMENU 174 418 Mngm_Cancel2.tga 0.4 174 418 Mngm_Cancel2_Eff.tga
+
+
+//exit
+BUTTON ID_EXITCUSTOMGAME MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 510 418 Mngm_LowButt_Exit3.tga 0.4 510 418 Mngm_LowButt_exit3_Eff.tga
+
+BUTTON ID_HELP KEY_F1 MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 561 419 Mngm_Dropsbord_QuestionM.tga 0.4 561 419 Mngm_Question_Eff.tga

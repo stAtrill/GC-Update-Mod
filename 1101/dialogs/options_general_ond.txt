@@ -1,0 +1,9 @@
+PICTURE 68 54 ondcol/mngm_General_Folder_Eff.tga
+BUTTON MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 MOUSE_CLICK options_video 183 54 ondcol/mngm_Video_Folder.tga 0.4 183 54 ondcol/mngm_Video_Folder_Eff.tga
+BUTTON MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 MOUSE_CLICK options_control 298 54 ondcol/mngm_Controls_Folder.tga 0.4 298 54 ondcol/mngm_Controls_Folder_Eff.tga
+
+
+LIST ID_GENERALOPTIONSLIST 175 90 240 340 ondcol/mngm_Listitem_Marker.tga
+
+
+BUTTON ID_GENERAL_RESET MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 508 388 ondcol/Mngm_Reset.tga 0.4 508 388 ondcol/Mngm_Reset_Eff.tga

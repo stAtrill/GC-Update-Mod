@@ -1,0 +1,140 @@
+//snajdare_stratos.ent
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+AERODYNE
+
+// Squad button
+Button
+unitico_air_1.tga
+
+// Max number of units in squad
+MaxUnits
+6
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+4
+
+
+Description
+224
+
+BranchSortOrderValue
+0
+
+//the name of the entity
+Name
+224
+
+//type of mover(foot, hover, air, vehicle)
+MoverType
+air
+
+
+//main model animation
+Model
+snajdare
+
+Noteammarker
+
+FleshFlag
+
+
+//other stuff
+Radius
+9.0
+Height
+4.0
+PivotHeight
+2.0
+Acceleration
+100.0
+Friction
+85.0
+MaxSpeed
+25.0
+TurnSpeed
+//Radianer/sekund 6.28 = 1 varv/sekund
+1.1
+HeadTurnSpeed
+4.0
+4.0
+SlopeBorder
+4
+ViewRange
+400.0
+ProjectileProtection
+1
+Power
+1
+FlyingHeight
+250.0
+TurnOffset
+100.0
+
+// Detection
+Stealth
+0
+Perception
+0
+
+//WRECK
+
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover1-2, snd_engine_vehicle1-2, snd_engine_air1-2,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+AmbientSound
+snd_easteregg_birdswarm
+
+
+//sound bank
+//valid banks are:
+//CRAYVEN_ANTIAIRVEHICLE
+//CRAYVEN_ARTILLERYVEHICLE
+//CRAYVEN_ATTACKAERODYNE
+//CRAYVEN_BOMBERAERODYNE
+//CRAYVEN_COMMANDAPC
+//CRAYVEN_ENGINEERTRUCKER
+//CRAYVEN_FIGHTERAERODYNE
+//CRAYVEN_HEAVYTANK
+//CRAYVEN_JAEGER
+//CRAYVEN_LIGHTTANK
+//CRAYVEN_MARINE
+//CRAYVEN_MEDIUMTANK
+//CRAYVEN_ROCKETVEHICLE
+//CRAYVEN_SCOUTAERODYNE
+//CRAYVEN_SCOUTVEHICLE
+//OND_ANTIAIRVEHICLE
+//OND_ARTILLERYVEHICLE
+//OND_ATTACKAERODYNE
+//OND_BEAMPLATFORM
+//OND_COMMANDAPC
+//OND_CRUSADER
+//OND_DRONECARRIER
+//OND_ENGINEERTRUCKER
+//OND_FIGHTERAERODYNE
+//OND_HEAVYHOVERDYNE
+//OND_LIGHTHOVERDYNE
+//OND_MEDIUMHOVERDYNE
+//OND_SCOUTAERODYNE
+//OND_SCOUTVEHICLE
+//OND_TEMPLAR
+SoundBank
+CRAYVEN_SCOUTAERODYNE
+
+EasterEggAnimalType
+2

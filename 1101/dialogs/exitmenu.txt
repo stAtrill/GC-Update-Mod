@@ -1,0 +1,28 @@
+//INNERBOX
+PICTURE 380 257 Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 443 192 Mngm_Innerframe_Vert_Ltoend.tga
+PICTURE 442 256 Mngm_Innerframe_LR_corner.tga
+
+PICTURE 441 133 Mngm_Innerframe_UR_corner.tga
+PICTURE 443 149 Mngm_Innerframe_Dial_left.tga
+PICTURE 377 132 Mngm_Innerframe_Horiz_Rtoend.tga
+
+PICTURE 197 256 Mngm_Innerframe_SW_corner.tga
+PICTURE 213 258 Mngm_Innerframe_Horiz_Ltoend.tga
+
+PICTURE 197 192 Mngm_Innerframe_Vert_Ltoend.tga
+PICTURE 197 133 Mngm_T_L_Corner2.tga
+PICTURE 212 133 Mngm_L_L_Horiz_Line.tga
+PICTURE 196 145 Mngm_Innerframe_Vert_Utoend.tga
+
+PICTURE 205 140 Mngm_PoppupBox.tga
+
+
+
+//BUTTONS
+BUTTON ID_TOMAINMENU MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 216 149 Mngm_ExitTo_MainMenu.tga 0.4 214 149 Mngm_ExitTo_MainMenu_Eff.tga
+BUTTON ID_QUITREQ MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 212 182 Mngm_ExitTo_Windows.tga 0.4 214 182 Mngm_ExitTo_Windows_Eff.tga
+BUTTON KEY_ESC ID_REQUESTERCANCEL MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 394 248 Mngm_Newcomm_Cancel.tga 0.4 394 248 Mngm_Newcomm_Cancel_Eff.tga
+
+
+//LASTROW

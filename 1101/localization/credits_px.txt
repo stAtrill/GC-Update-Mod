@@ -1,0 +1,548 @@
+HIGH VOLTAGE SOFTWARE
+
+
+EXECUTIVE PRODUCER
+Keith Morton
+
+
+LEAD PROGRAMMER
+Daniel Chambers
+
+PROGRAMMERS
+Matthew Steinke
+Carlos Garcia
+Dan Goodman
+
+
+LEAD ARTIST
+Joe Hamell
+
+ARTISTS/ ANIMATORS
+Chris Cobb
+Darren Edwards
+Cedric Busse
+
+
+LEAD DESIGNER
+Tom Smith
+
+DESIGNERS
+Jeff Marks
+David A. Rodriguez
+Leif Lathrop
+
+
+STORYBOARD
+Pete McLennon
+
+
+SOUND ENGINEER
+D. Chadd Portwine
+
+
+GAME TESTER
+Chris Tarczon
+
+
+CEO/FOUNDER
+Kerry J. Ganofsky
+
+
+VP-BUSINESS DEVELOPMENT
+John Kopecky
+
+
+VP-DEVELOPMENT
+Dwight Luetscher
+
+
+VP-CREATIVE CONTENT
+Eric Nofsinger
+
+
+
+SPECIAL THANKS TO
+
+
+All the friends and family who contributed thier time and
+understanding to those of us involved with this project.
+
+Doug "Mechman" Smith
+
+Herman "Dragon's Teeth" Meyerhoff
+
+Alec "Spawn of Scylia" Dinwoodie
+
+
+
+
+
+
+
+
+
+
+    - - - - - - - -
+
+
+
+
+
+
+
+
+
+
+
+BLUR STUDIOS
+
+
+CG SUPERVISOR/ ART DIRECTOR
+David Stinnett
+
+PRODUCER
+Al Shier
+
+ANIMATORS
+Bill Zahn
+Neil Blevins
+Steve Blackmon
+Ed Lee
+Jeremy Cook
+Marlon Nowe
+Jeff Weisend
+Sam Gebhardt
+Juan Granja
+Tom Dillon
+
+MOTION CAPTURE TECHNICIAN
+John Bunt
+
+
+
+
+
+
+
+    - - - - - - - -
+
+
+
+
+
+
+
+
+
+SIERRA STUDIOS
+
+
+
+
+SENIOR VICE PRESIDENT
+J. Mark Hood
+
+PRODUCER
+Jeff Pobst
+
+ASSISTANT PRODUCER
+Bernadette Pryor
+
+
+
+
+DIRECTING & EDITING
+Jim Carey
+
+ADDITIONAL DIRECTION
+Jeff Pobst
+
+
+
+VP MARKETING
+Jim Veevaert
+
+DIRCTOR OF MARKETING
+Koren Buckner
+
+ASSOCIATE BRAND MANAGER
+Marc Tardif
+
+MARKETING PRODUCER
+Glenn Oliver
+
+WEB PRODUCER
+Guy Welch
+
+MARKETING INFO MANANGER
+Ingrid Pelzer
+
+MARKETING INFO ASSISTANT
+Jelaine Kraetsch
+
+EUROPEAN BRAND MANAGER
+Djamil Kamal
+
+
+
+PR MANAGER
+Hillary Crowley
+
+SENIOR PR MANAGER
+Genevieve Ostergard
+
+PR COORDINATOR
+Kelly Hobin
+
+
+
+MARCOM MANAGER
+Justin Kirby
+
+CREATIVE SERVICES
+Mike Rodgers
+Orlena Yeung
+
+BLUESPARK STUDIOS
+David Brzozowski
+Dien Duong
+
+MANUAL GRAPHIC DESIGN
+Cheryl Sweeney
+
+
+
+TITAN PRODUCER
+Ross Perez
+
+TITAN LEAD ENGINEER
+Mike Nicolino
+
+TITAN ENGINEERS
+Erik De Bonte
+Lee Olds
+Noel Wade
+Brian Rohstein
+Len Skiena
+Dean Webster
+
+TITAN QA
+Eric Harman
+David Cain
+
+
+
+QA MANAGER
+Gary Stevens
+
+QA SUPERVISOR
+Ken Eaton
+
+QA LEAD
+Jim Gentle
+
+QA TESTERS
+Matt Edington
+Mark Storie
+Chris Bourdon
+Erinn Hamilton
+
+
+
+COMPATIBILITY LAB MANAGER
+Pat Callahan
+
+SYSTEM OPERATIONS
+Amy Edge
+Eric Leaf
+Brian Burnette
+
+
+
+CORPORATE PRODUCT CERTIFICATION
+Chris Slack
+Matthew Kangas
+
+TECHNICAL SUPPORT MANAGER
+Brian Moss
+
+TECHNICAL SUPPORT LEAD
+Sacha Tarrant
+
+
+
+LOCALIZATION
+
+PRODUCER
+Barry Kehoe
+
+ENGINEERING LEAD
+Sean Forsyth
+
+ENGINEERING
+Stephen Forsyth
+Joanne Russel
+
+QA LEAD
+Sean Moran
+
+GRAPHICS LEAD
+David Fleming
+
+AUDIO
+Bill Sweeney
+
+ROW PRODUCER
+Warren Wright
+
+
+
+VOICE DIRECTING & CASTING
+Jeff Pobst
+
+VOICE RECORDING SPECIALIST
+Mike Caviezal
+
+VOICES RECORDED AT
+WoodHolly Recording Studios, CA
+
+VOICE CASTING AGENCY
+The Voicecaster, Burbank, CA
+
+VOICE CASTING AGENTS
+Martha Mayakis
+LeAnn Koehnen
+Lisa Dyson
+Huck Liggett
+
+TALENT PAYMASTER
+The Talent Fund,  Half-Moon Bay, CA
+
+
+
+CAST OF CHARACTERS
+
+SARAH PARKER
+Jennifer Hale
+
+DEACON STONE
+Dee Baker
+
+MARC HERRA
+Scott Weil
+
+ENRICA HAYES
+Tasia Valenza
+
+WALLACE DAVIDSON
+Michael Bell
+
+CORAL MANNING
+Mari Weiss
+
+SERGEANT COLE
+Nathan Carlson
+
+RACHEL MORTON
+Paty Lombard
+
+CARDINAL KILA BALOR
+Jennifer Darling
+
+CARDINAL GALEN YI
+Tom Kane
+
+UNITS
+Jamie Hanes
+Michael Bell
+Phil Reeves
+Scott Weil
+Larry Cedar
+Mari Weiss
+Nathan Carlson
+Tasia Valenza
+Dee Baker
+Paty Lombard
+Nicholas Guest
+Jennifer Darling
+Tom Kane
+
+
+
+
+
+
+
+SPECIAL THANKS
+Hubert Jolly
+Dave Grenewetski
+Dave Williamson
+Ralph Giuffre
+Suki Hayre
+Brad Nelson
+Emmanuel Schalit
+Kelly Zmak
+Fiona O'Carroll
+Mark Iverson
+Michael Fuller
+Adam Fossa
+Beth Freeman
+Christine Smith
+Stephanie Metcalf
+Patricia Rice
+
+
+
+
+
+
+
+
+
+    - - - - - - - -
+
+
+
+
+
+
+
+
+
+
+SPECIAL THANKS TO
+
+
+
+
+
+MASSIVE ENTERTAINMENT
+
+
+
+DIRECTOR & LEAD GAME DESIGNER
+Martin Walfisz
+
+LEAD SOFTWARE ENGINEER
+Dan Andersson
+
+TECHNICAL DIRECTOR
+Mats Grahm
+
+ART DIRECTOR
+Tobias Strömvall
+
+LEAD MISSION DESIGNER
+Henrik Sebring
+
+GAME DESIGN
+Martin Walfisz
+Henrik Sebring
+
+SOFTWARE ENGINEERING
+Dan Andersson
+Johannes Norneby
+Martin Rystrand
+Daniel Ljungberg
+
+3D ENGINE DEVELOPMENT
+Mats Grahm
+Niklas Hansson
+
+ART
+Tobias Strömvall
+Thomas Bengtsson
+Orhan Karagöz
+Joakim Mansson
+Glenn Kristoffersen
+
+MISSION DESIGN
+Henrik Sebring
+Per Edman
+Miklas Larsson
+Anders Olsson
+Johan Persson
+
+MUSIC & AUDIO EFFECTS
+Ola Strandh
+
+PROJECT MANAGEMENT & QA LEAD
+Peter Kullgard
+
+QA TEAM
+Peter Kullgard
+Martin Persson
+Richard Hultgren
+Carl Fransson
+Fredrik jansson
+
+GAME STORY
+Marcus Skyler
+Henrik Sebring
+Martin Walfisz
+
+MANUAL CONTENT
+Henrik Sebring
+Marcus Skyler
+
+ADDITIONAL ART
+Magnus Larsson
+Jonas Dahlin
+
+PR COORDINATOR
+Anne Eckles
+
+FINANCES
+Mats Melander
+
+
+
+SPECIAL THANKS
+Christian Pérez
+Susan Lewis (ThinkBIG)
+Paul Grace
+Jeff Lee
+Magnus Nilsson
+Sven Jansson
+Tomas Althen
+Arne Borg
+Johan "Bepp" Ramestam
+Andreas "Diktator" Selling
+Christian Franzen
+Asa Wiebe
+Stefan Sylven
+Fredrik Nilsson
+Patrik Berander
+John Tillberg
+Cpt. Björn Kullgard
+Mathias Malmqvist
+Elizabeth Lindau
+Ronnie Nilsson
+Patrik Nilsson KA2
+Chefen KA2
+The Swedish Armed Forces
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) 2000 High Voltage Software
+
+(c) 2000 Massive Entertainment AB and Sierra On-line, Inc.

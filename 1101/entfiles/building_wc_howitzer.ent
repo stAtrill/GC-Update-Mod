@@ -1,0 +1,92 @@
+//building_wc_howitzer.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+10	//slope size i x
+7	//höjd i collision objekt
+10	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+FIXEDGUN
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//the name of the entity
+Name
+92
+
+//Create an aimer
+UseAimer
+
+//Aimer inställningar
+AimerXDegLimits
+70
+0
+
+//main model animation
+Model
+building_wc_howitzer
+
+ChildOffset
+//offset of the child (X, Y, Z)
+0.0
+0.0 
+0.0
+
+//Barrel Model
+BarrelOffset
+//offset of the barrel child (x,y,z)
+0.0
+4.0
+-0.75
+
+//fire offset (X, -Y, Z)
+FireOffset
+0.0
+0.0
+6.85
+
+//other stuff
+Radius
+7.0
+Height
+7.0
+PivotHeight
+0.0
+HeadTurnSpeed
+2.0
+2.0
+ViewRange
+700.0
+ProjectileProtection
+60
+Power
+1500
+//DETECTION
+Stealth
+0
+Perception
+0
+WreckModel
+building_wc_howitzer_wreck
+
+
+
+

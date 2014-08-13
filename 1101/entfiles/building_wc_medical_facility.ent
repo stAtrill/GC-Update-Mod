@@ -1,0 +1,57 @@
+//building_wc_medical_facility.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+54	//slope size i x
+15	//höjd i collision objekt
+67  	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//name of entity (formal name, for editor, etc)
+Name
+94
+
+//main model animation
+Model
+building_wc_medical_facility_Ver2
+
+//other stuff
+Radius
+18.0
+Height
+10.0
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+10000
+
+
+WreckModel
+building_wc_medical_facility_Ver2_wreck
+
+
+
+
+

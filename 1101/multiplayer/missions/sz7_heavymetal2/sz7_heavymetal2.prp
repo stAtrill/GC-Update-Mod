@@ -1,0 +1,1828 @@
+//C:\Sierra\GC\data\multiplayer\missions\SZ7_HeavyMetal2\SZ7_HeavyMetal2.prp
+//Ground Control Prop File
+//GenEd Version 3.603
+
+	PROP
+		//type (mdl file)
+		Building_cc_Spotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3371.875000
+		103.000000
+		3228.125000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		Building_cc_Spotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3371.875000
+		103.195023
+		3115.625000
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		Building_cc_Spotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3478.125000
+		103.321388
+		3228.125000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		Building_cc_Spotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3478.125000
+		103.386185
+		3121.875000
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3043.750000
+		161.000000
+		3543.750000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2975.000000
+		161.000000
+		3543.750000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2912.500000
+		161.000000
+		3543.750000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2837.500000
+		161.000000
+		3543.750000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2762.500000
+		161.000000
+		3543.750000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2687.500000
+		161.000000
+		3543.750000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2612.500000
+		161.000000
+		3543.750000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2537.500000
+		161.000000
+		3543.750000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2462.500000
+		161.000000
+		3543.750000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2387.500000
+		161.000000
+		3543.750000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2312.500000
+		161.000000
+		3543.750000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2237.500000
+		161.000000
+		3543.750000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2162.500000
+		161.000000
+		3543.750000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		2818.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		2743.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		2668.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		2593.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		2518.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		2443.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		2368.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		2293.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		2218.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		2143.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		2068.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1993.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1918.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1843.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1768.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1693.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1618.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1543.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1468.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1393.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1318.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1243.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1168.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1093.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		1018.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		943.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		868.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		793.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		3062.500000
+		161.000000
+		718.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2087.500000
+		161.000000
+		3537.500000
+		//rotation
+		1.553342
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		2012.500000
+		161.000000
+		3537.500000
+		//rotation
+		1.535889
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		1937.500000
+		161.000000
+		3531.250000
+		//rotation
+		1.518435
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		1862.500000
+		161.000000
+		3525.000000
+		//rotation
+		1.500982
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		1787.500000
+		161.000000
+		3525.000000
+		//rotation
+		1.483529
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		1712.500000
+		161.000000
+		3518.750000
+		//rotation
+		1.466076
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		1637.500000
+		161.000000
+		3512.500000
+		//rotation
+		1.448622
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		1562.500000
+		161.000000
+		3512.500000
+		//rotation
+		1.431169
+
+	PROP
+		//type (mdl file)
+		cablegrave_1
+		//collision type
+		None
+		//position (x,y,z)
+		1487.500000
+		161.000000
+		3506.250000
+		//rotation
+		1.413716
+
+	PROP
+		//type (mdl file)
+		CC_sign_flat_C22
+		//collision type
+		None
+		//position (x,y,z)
+		4121.875000
+		161.000000
+		2865.625000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		antenna3
+		//collision type
+		None
+		//position (x,y,z)
+		3771.875000
+		161.000000
+		2812.500000
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		antenna
+		//collision type
+		None
+		//position (x,y,z)
+		3965.625000
+		161.000000
+		2809.375000
+		//rotation
+		2.565632
+
+	PROP
+		//type (mdl file)
+		antenna
+		//collision type
+		None
+		//position (x,y,z)
+		3784.375000
+		161.000000
+		2584.375000
+		//rotation
+		4.310960
+
+	PROP
+		//type (mdl file)
+		antenna2
+		//collision type
+		None
+		//position (x,y,z)
+		3821.875000
+		161.000000
+		2771.875000
+		//rotation
+		4.171334
+
+	PROP
+		//type (mdl file)
+		antenna2
+		//collision type
+		None
+		//position (x,y,z)
+		3846.875000
+		161.000000
+		2809.375000
+		//rotation
+		0.506145
+
+	PROP
+		//type (mdl file)
+		antenna2
+		//collision type
+		None
+		//position (x,y,z)
+		3784.375000
+		161.000000
+		2753.125000
+		//rotation
+		4.886918
+
+	PROP
+		//type (mdl file)
+		antenna4
+		//collision type
+		None
+		//position (x,y,z)
+		3781.250000
+		161.000000
+		2675.000000
+		//rotation
+		0.506145
+
+	PROP
+		//type (mdl file)
+		antenna4
+		//collision type
+		None
+		//position (x,y,z)
+		2725.000000
+		161.000000
+		2618.750000
+		//rotation
+		0.558505
+
+	PROP
+		//type (mdl file)
+		antenna4
+		//collision type
+		None
+		//position (x,y,z)
+		2887.500000
+		161.000000
+		2706.250000
+		//rotation
+		3.316123
+
+	PROP
+		//type (mdl file)
+		antenna4
+		//collision type
+		None
+		//position (x,y,z)
+		2843.750000
+		161.000000
+		2525.000000
+		//rotation
+		2.548179
+
+	PROP
+		//type (mdl file)
+		antenna2
+		//collision type
+		None
+		//position (x,y,z)
+		2796.875000
+		161.000000
+		2728.125000
+		//rotation
+		4.223693
+
+	PROP
+		//type (mdl file)
+		antenna2
+		//collision type
+		None
+		//position (x,y,z)
+		2909.375000
+		161.000000
+		2621.875000
+		//rotation
+		3.193950
+
+	PROP
+		//type (mdl file)
+		antenna2
+		//collision type
+		None
+		//position (x,y,z)
+		2834.375000
+		161.000000
+		2646.875000
+		//rotation
+		0.279252
+
+	PROP
+		//type (mdl file)
+		antenna2
+		//collision type
+		None
+		//position (x,y,z)
+		2790.625000
+		161.000000
+		2584.375000
+		//rotation
+		0.925024
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		3490.625000
+		161.000000
+		3921.875000
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		3496.875000
+		161.000000
+		2421.875000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		4165.625000
+		161.000000
+		3090.625000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		landingspotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3958.594971
+		101.000000
+		3342.908691
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		landingspotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3960.656738
+		101.000000
+		2986.941406
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		landingspotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3591.956787
+		101.000000
+		2628.549561
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		landingspotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3245.610352
+		101.000000
+		2628.549561
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		landingspotlight
+		//collision type
+		None
+		//position (x,y,z)
+		2884.611084
+		101.000000
+		3004.808838
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		landingspotlight
+		//collision type
+		None
+		//position (x,y,z)
+		2892.170410
+		101.000000
+		3341.534180
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		landingspotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3237.182129
+		101.000000
+		3718.338867
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		landingspotlight
+		//collision type
+		None
+		//position (x,y,z)
+		3624.760010
+		101.000000
+		3720.400635
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		leftlandinglight
+		//collision type
+		None
+		//position (x,y,z)
+		3558.504150
+		69.000000
+		3020.840088
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		leftlandinglight
+		//collision type
+		None
+		//position (x,y,z)
+		3563.658203
+		69.000000
+		3310.320557
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		leftlandinglight
+		//collision type
+		None
+		//position (x,y,z)
+		3275.036621
+		69.000000
+		3315.474609
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		leftlandinglight
+		//collision type
+		None
+		//position (x,y,z)
+		3272.459473
+		69.000000
+		3025.993652
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		2659.375000
+		161.000000
+		3096.875000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		3983.959717
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		4123.959961
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		4263.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		3843.959717
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		3703.959961
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		4403.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		4543.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		4683.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		4823.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		4963.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		5103.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		5243.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		5383.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		5523.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		5663.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		5803.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		5943.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		6083.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		6223.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		3708.031006
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		3848.031006
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		3988.031006
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		4128.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		4268.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		4408.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		4548.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		4688.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		4828.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		4968.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		5108.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		5248.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		5388.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		5528.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		5668.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		5808.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		5948.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		6088.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		6228.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3756.196289
+		161.000000
+		6368.030762
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_140m
+		//collision type
+		None
+		//position (x,y,z)
+		3076.883789
+		161.000000
+		6363.959473
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		Lava_River
+		//collision type
+		None
+		//position (x,y,z)
+		3988.820068
+		100.000000
+		2576.350098
+		//rotation
+		3.665189
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		3446.875000
+		161.000000
+		2421.875000
+		//rotation
+		0.785398
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		3396.875000
+		161.000000
+		2421.875000
+		//rotation
+		0.785398
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		3346.875000
+		161.000000
+		2421.875000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		2659.375000
+		161.000000
+		3146.875000
+		//rotation
+		2.356193
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		2659.375000
+		161.000000
+		3196.875000
+		//rotation
+		2.356193
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		2659.375000
+		161.000000
+		3240.625000
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		4165.625000
+		161.000000
+		3140.625000
+		//rotation
+		5.497783
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		4165.625000
+		161.000000
+		3190.625000
+		//rotation
+		5.497783
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		4165.625000
+		161.000000
+		3240.625000
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		3440.625000
+		161.000000
+		3921.875000
+		//rotation
+		3.926988
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		3390.625000
+		161.000000
+		3921.875000
+		//rotation
+		3.926988
+
+	PROP
+		//type (mdl file)
+		landinglights_vertical
+		//collision type
+		None
+		//position (x,y,z)
+		3340.625000
+		161.000000
+		3921.875000
+		//rotation
+		3.141590
+
+	PROP
+		//type (mdl file)
+		building_wc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3668.750000
+		117.000000
+		2484.375000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_wc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3168.750000
+		117.000000
+		2484.375000
+		//rotation
+		1.570795
+
+	PROP
+		//type (mdl file)
+		building_wc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		2734.375000
+		117.000000
+		2918.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_wc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		2734.375000
+		117.000000
+		3418.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_wc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		4103.125000
+		117.000000
+		3418.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_wc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		4103.125000
+		117.000000
+		2918.750000
+		//rotation
+		0.000000
+
+	PROP
+		//type (mdl file)
+		building_wc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3668.750000
+		117.000000
+		3853.125000
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		building_wc_wall
+		//collision type
+		Box
+		//x size
+		6.250000
+		//height
+		12.500000
+		//z size
+		37.500000
+		//position (x,y,z)
+		3168.750000
+		117.000000
+		3853.125000
+		//rotation
+		4.712385
+
+	PROP
+		//type (mdl file)
+		Lava_River
+		//collision type
+		None
+		//position (x,y,z)
+		4007.790039
+		105.000000
+		2610.219971
+		//rotation
+		0.000000
+

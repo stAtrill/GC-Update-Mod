@@ -1,0 +1,97 @@
+//cc_Forktruck.ent
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+SUPPORT
+
+// Squad button
+Button
+unitico_transp_1.tga
+
+// Max number of units in squad
+MaxUnits
+4
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//the name of the entity
+Name
+131
+
+//type of mover(foot, air, vehicle)
+MoverType
+vehicle
+
+//main model animation
+Model
+cc_Forktruck
+
+//Aimer to see
+UseAimer
+
+//fire offset
+FireOffset
+0.0
+2.5
+0.0
+
+//other stuff
+Radius
+3.5
+Height
+3.0
+PivotHeight
+0.0
+Acceleration
+70.0
+Friction
+50.0
+MaxSpeed
+15.0
+TurnSpeed
+//Radianer/sekund    6.28 = 1 varv/sekund
+2.2
+HeadTurnSpeed
+2.0
+0.0
+SlopeBorder
+1
+ViewRange
+200.0
+ProjectileProtection
+80
+Power
+2000
+TurnOffset
+20.0
+// Detection
+Stealth
+0
+Perception
+0
+//WRECK
+
+WreckModel
+CC_forktruck_wreck
+
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover1-2, snd_engine_vehicle1-2, snd_engine_air1-2,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+AmbientSound
+snd_engine_vehicle1
+

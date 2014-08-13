@@ -1,0 +1,17 @@
+BUTTON MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 MOUSE_CLICK options_general 68 54 Mngm_General_Folder.tga 0.4 68 54 Mngm_General_Folder_Eff.tga
+BUTTON MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND ButtonPress3 MOUSE_CLICK options_video 183 54 Mngm_Video_Folder.tga 0.4 183 54 Mngm_Video_Folder_Eff.tga
+PICTURE 298 54 Mngm_Controls_Folder_Eff.tga
+
+
+LIST ID_CONTROLLIST 300 90 240 340 Mngm_Listitem_Marker.tga
+
+
+BUTTON ID_CONTROL_RESET MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 508 388 Mngm_Reset.tga 0.4 508 388 Mngm_Reset_Eff.tga
+
+
+BUTTON ID_CONTROL_SQUADSELECTION MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 57 90 Mngm_Control_SquadSelection.tga 0.4 57 90 Mngm_Control_SquadSelection_Eff.tga
+BUTTON ID_CONTROL_SQUADORDERS MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 57 120 Mngm_Control_SquadOrders.tga 0.4 57 120 Mngm_Control_SquadOrders_Eff.tga
+BUTTON ID_CONTROL_CAMERA MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 57 150 Mngm_Control_Camera.tga 0.4 57 150 Mngm_Control_Camera_Eff.tga
+BUTTON ID_CONTROL_OTHER MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 57 180 Mngm_Control_Other.tga 0.4 57 180 Mngm_Control_Other_Eff.tga
+BUTTON ID_CONTROL_MOUSE MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 57 210 Mngm_Control_Mouse.tga 0.4 57 210 Mngm_Control_Mouse_Eff.tga
+BUTTON ID_CONTROL_JOYSTICK MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 63 240 Mngm_Joystick.tga 0.4 63 240 Mngm_Joystick_Eff.tga

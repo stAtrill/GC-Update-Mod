@@ -1,0 +1,57 @@
+//Building_cc_cammonet_jungle.ent
+ModName
+GC
+
+SlopeModifier
+3	//slope värde
+24.5	//slope size i x
+8.7	//höjd i collision objekt
+27.0	//slope size i z
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//name of entity (formal name, for editor, etc)
+Name
+18
+
+//main model animation
+Model
+Building_cc_jungle_cammonet_02
+
+//other stuff
+Radius
+8.0
+Height
+8.7
+PivotHeight
+0
+ProjectileProtection
+70
+Power
+3000
+
+
+
+WreckModel
+cc_jungle_cammonet_02_wreck

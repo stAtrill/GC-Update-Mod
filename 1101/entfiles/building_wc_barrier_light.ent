@@ -1,0 +1,52 @@
+//building_wc_barrier_light.ent
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+BUILDING
+
+// Stay Visible when detected
+StayVisibleWhenSeen
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+BUILDING
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+//name of entity (formal name, for editor, etc)
+Name
+75
+
+//main model animation
+Model
+building_wc_barrier_light
+
+//other stuff
+Radius
+2.0
+Height
+6.0
+PivotHeight
+0.0
+ProjectileProtection
+90
+Power
+1500
+
+
+
+
+
+

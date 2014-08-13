@@ -1,0 +1,137 @@
+//TOP ROW BORDERS
+PICTURE 31 33 Mngm_T_L_Corner.tga
+PICTURE 63 33 Mngm_LoadGame2.tga
+PICTURE 319 50 Mngm_R_Of_Header.tga
+PICTURE 461 50 Mngm_U_R_Line.tga
+PICTURE 589 50 Mngm_U_R_Corner.tga
+PICTURE 589 66 Mngm_U_R_Vert_Line.tga
+PICTURE 39 65 Mngm_U_L_Lines.tga
+PICTURE 39 193 Mngm_M_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 238 417 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 462 418 Mngm_U_R_Line.tga
+PICTURE 590 415 Mngm_L_R_Corner.tga
+PICTURE 590 287 Mngm_L_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 39 290 Mngm_L_L_Vert_Line.tga
+PICTURE 31 418 Mngm_L_L_Corner.tga
+//Small pic just right of butt butts
+PICTURE 238 418 Mngm_EndOfLowButts.tga
+PICTURE 326 417 Mngm_Innerframe_Horiz_Free_128.tga
+
+
+//SAVED GAMES BOARDERS
+
+
+PICTURE 50 380 Mngm_Innerframe_SW_corner.tga
+PICTURE 66 382 Mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 50 316 Mngm_Innerframe_Vert_Ltoend.tga
+
+
+PICTURE 254 380 Mngm_Innerframe_LR_corner.tga
+PICTURE 190 381 Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 255 316 Mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 349 83 Mngm_Innerframe_Horiz_Free_128.tga
+
+PICTURE 242 96 Mngm_Innerframe_Vert_UtoFree.tga
+//PICTURE 248 60 Mngm_Innerframe_Vert_LtoFree.tga
+
+PICTURE 241 83 Mngm_Innerframe_UR_corner.tga
+PICTURE 243 99 Mngm_Innerframe_Dial_left.tga
+PICTURE 177 82 Mngm_Innerframe_Horiz_Rtoend.tga
+
+PICTURE 50 84 Mngm_T_L_Corner2.tga
+PICTURE 48 95 Mngm_Slider_upper.tga
+PICTURE 66 84 Mngm_L_L_Horiz_Line.tga
+
+
+
+PICTURE 204 331 Mngm_Slider_Base.tga
+PICTURE 241 203 Mngm_Slider_mid.tga
+
+
+
+//MISSIONS BOARDERS
+
+PICTURE 586 380 Mngm_Innerframe_LR_corner.tga
+PICTURE 522 381 Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 587 316 Mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 259 380 Mngm_Innerframe_SW_corner.tga
+PICTURE 275 382 Mngm_Innerframe_Horiz_Ltoend.tga
+PICTURE 259 316 Mngm_Innerframe_Vert_Ltoend.tga
+
+PICTURE 399 382 Mngm_Innerframe_Horiz_Free_128.tga
+
+PICTURE 574 224 Mngm_Innerframe_Vert_UtoFree.tga
+PICTURE 574 106 Mngm_Innerframe_Vert_LtoFree.tga
+
+
+PICTURE 258 274 Mngm_Innerframe_Vert_UtoFree.tga
+PICTURE 258 156 Mngm_Innerframe_Vert_LtoFree.tga
+
+
+PICTURE 572 83 Mngm_Innerframe_UR_corner.tga
+PICTURE 574 99 Mngm_Innerframe_Dial_left.tga
+PICTURE 508 82 Mngm_Innerframe_Horiz_Rtoend.tga
+
+
+PICTURE 259 84 Mngm_T_L_Corner2.tga
+PICTURE 257 95 Mngm_Slider_upper.tga
+PICTURE 275 84 Mngm_L_L_Horiz_Line.tga
+
+
+
+PICTURE 536 331 Mngm_Slider_Base.tga
+PICTURE 573 203 Mngm_Slider_mid.tga
+
+
+
+//TEXT TITLES
+PICTURE 280 71 Mngm_Missions.tga
+PICTURE 73 68 Mngm_SavedGames.tga
+
+
+//BORDER EFFECT
+//PICTURE 374 424 Mngm_Dropsbord_LEffect1.tga
+PICTURE 502 398 Mngm_Dropsbord_LEffect2.tga
+//PICTURE 585 270 Mngm_Dropsbord_LEffect3.tga
+
+PICTURE 493 425 Mngm_Lborder3.tga
+PICTURE 416 418 Mngm_U_R_Line.tga
+
+
+// game list
+LIST ID_GAMELIST CLICK_SOUND ButtonPress2 68 91 170 295 Mngm_Listitem_Marker.tga
+SCROLLBAR 233 89 257 Mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 247 347 Mngm_Slider_Arrow_U_Rest.tga Mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 247 370 Mngm_Slider_Arrow_Dwn_Rest.tga Mngm_Slider_Arrow_Dwn_Eff.tga
+
+
+//missions list
+LIST ID_MISSIONLIST CLICK_SOUND ButtonPress2 272 91 290 295 Mngm_Listitem_Marker.tga
+SCROLLBAR 568 89 257 Mngm_Slider3.tga
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 579 347 Mngm_Slider_Arrow_U_Rest.tga Mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 579 370 Mngm_Slider_Arrow_Dwn_Rest.tga Mngm_Slider_Arrow_Dwn_Eff.tga
+
+
+TEXT ID_MISSIONINFO gfx/font/font_mui.tga 68 400 520 20
+
+
+//Thin Corner
+PICTURE 46 415 Mngm_L_L_Small_Corner.tga
+PICTURE 43 287 Mngm_L_R_Vert_Line.tga
+PICTURE 62 418 Mngm_L_L_Horiz_Line.tga
+
+
+//Low Butts
+BUTTON ID_STARTCHANGEGAME KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 63 418 Mngm_StartGame4.tga 0.4 63 418 Mngm_StartGame_Eff.tga
+BUTTON KEY_ESC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 MOUSE_CLICK SINGLEPLAYERMENU 174 418 Mngm_Cancel2.tga 0.4 174 418 Mngm_Cancel2_Eff.tga
+
+
+// exit
+BUTTON ID_EXITCHANGEGAME MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND BUTTONPRESS3 510 418 Mngm_LowButt_Exit3.tga 0.4 510 418 Mngm_LowButt_exit3_Eff.tga
+BUTTON ID_HELP KEY_F1 MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 561 419 Mngm_Dropsbord_QuestionM.tga 0.4 561 419 Mngm_Question_Eff.tga

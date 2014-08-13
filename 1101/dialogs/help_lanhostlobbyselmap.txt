@@ -1,0 +1,47 @@
+
+PICTURE 161 76 Mngm_Popup_Back.tga
+PICTURE 161 140 Mngm_Popup_Back.tga
+PICTURE 161 204 Mngm_Popup_Back.tga
+
+PICTURE 225 76 Mngm_Popup_Back.tga
+PICTURE 225 140 Mngm_Popup_Back.tga
+PICTURE 225 204 Mngm_Popup_Back.tga
+
+PICTURE 289 76 Mngm_Popup_Back.tga
+PICTURE 289 140 Mngm_Popup_Back.tga
+PICTURE 289 204 Mngm_Popup_Back.tga
+
+PICTURE 353 76 Mngm_Popup_Back.tga
+PICTURE 353 140 Mngm_Popup_Back.tga
+PICTURE 353 204 Mngm_Popup_Back.tga
+
+PICTURE 417 76 Mngm_Popup_Back.tga
+PICTURE 417 140 Mngm_Popup_Back.tga
+PICTURE 417 204 Mngm_Popup_Back.tga
+
+
+PICTURE 408 259 Mngm_Innerframe_Horiz_Rtoend.tga
+PICTURE 473 194 Mngm_Innerframe_Vert_Ltoend.tga
+PICTURE 472 258 Mngm_Innerframe_LR_corner.tga
+
+PICTURE 471 69 Mngm_Innerframe_UR_corner.tga
+PICTURE 473 85 Mngm_Innerframe_Dial_left.tga
+PICTURE 407 68 Mngm_Innerframe_Horiz_Rtoend.tga
+
+
+PICTURE 154 258 Mngm_Innerframe_SW_corner.tga
+PICTURE 170 260 Mngm_Innerframe_Horiz_Ltoend.tga
+
+PICTURE 154 194 Mngm_Innerframe_Vert_Ltoend.tga
+PICTURE 154 70 Mngm_T_L_Corner2.tga
+PICTURE 170 70 Mngm_L_L_Horiz_Line.tga
+PICTURE 153 85 Mngm_Innerframe_Vert_Utoend.tga
+
+
+TEXT gfx/font/font_mui.tga 172 81 286 170 30
+SCROLLUP MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 460 81 Mngm_Slider_Arrow_U_Rest.tga Mngm_Slider_Arrow_U_Eff.tga
+SCROLLDOWN MOUSEOVER_SOUND MOUSEOVER2 CLICK_SOUND BUTTONPRESS1 460 248 Mngm_Slider_Arrow_Dwn_Rest.tga Mngm_Slider_Arrow_Dwn_Eff.tga
+
+
+//BUTTONS
+BUTTON ID_REMOVEHELP KEY_ESC MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 172 247 Mngm_Ok.tga 0.3 168 247 Mngm_Ok_Eff.tga
